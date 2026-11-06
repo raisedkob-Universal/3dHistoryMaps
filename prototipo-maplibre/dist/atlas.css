@@ -1,0 +1,134 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #122532; color: #f5f1e8; font: 15px system-ui, sans-serif; }
+#mapa { position: fixed; inset: 0; }
+header, aside { position: fixed; z-index: 1; margin: 1rem; padding: 1rem; background: #10242ef2; border: 1px solid #8cabad66; border-radius: 12px; }
+header { top: 0; left: 0; }
+aside { bottom: 1rem; left: 0; max-width: calc(100% - 2rem); }
+h1 { margin: 0 0 .35rem; font: 2.1rem Georgia, serif; }
+small { letter-spacing: .16em; color: #c6d8c8; }
+button { background: #294653; border: 1px solid #84a1a7; color: inherit; padding: .45rem .65rem; border-radius: 6px; cursor: pointer; }
+button:disabled { opacity: .5; cursor: default; }
+.controles { display: flex; flex-wrap: wrap; gap: .4rem; }
+fieldset { margin: .85rem 0 0; padding: .35rem .6rem .55rem; border: 1px solid #84a1a7; }
+label { margin-right: .5rem; }
+p { margin: .55rem 0 0; }
+.nota { color: #c6d8c8; font-size: .78rem; }
+.maplibregl-ctrl-attrib { color: #10242e; }
+.maplibregl-canvas { touch-action: none; }
+@media (max-width: 700px) {
+  header, aside { margin: .6rem; padding: .65rem; }
+  aside { bottom: .6rem; max-width: calc(100% - 1.2rem); }
+}
+.vistas { position: fixed; z-index: 1; top: 10px; right: 48px; display: flex; gap: 4px; }
+.vistas button { background: #fff; color: #21353c; border: 1px solid #cbd2d4; }
+.vistas button[aria-pressed="true"] { background: #294653; color: #fff; }
+#estado:not([hidden]) { position: fixed; bottom: 28px; left: 10px; padding: .6rem; background: #10242e; border-radius: 6px; }
+@media (max-width: 520px) {
+  header { top: 42px; }
+}
+.etiqueta { pointer-events: none; white-space: nowrap; font: italic 600 13px Georgia, serif; }
+.etiqueta[hidden] { display: none; }
+.etiqueta-mar { color: #edf4f4; letter-spacing: .06em; text-shadow: 0 1px 3px #203b49; }
+.etiqueta-relieve { color: #453725; text-shadow: 0 0 4px #fff5d3, 0 1px 2px #fff5d3; }
+.leyenda, .cronologia, .ficha {
+  position: fixed; z-index: 2; background: #10242ef2; color: #f5f1e8;
+  border: 1px solid #8cabad88; border-radius: 10px;
+}
+.leyenda { top: 142px; left: 16px; max-width: min(330px, calc(100vw - 32px)); }
+.leyenda > summary { padding: .65rem .8rem; cursor: pointer; font-weight: 650; }
+.simbolos { padding: 0 .75rem .65rem; max-height: min(48vh, calc(100dvh - 345px)); overflow: auto; }
+.simbolos details { border-top: 1px solid #8cabad55; padding: .4rem 0; }
+.simbolos summary { cursor: pointer; }
+.simbolos ul { list-style: none; padding: 0; margin: .25rem 0 0; }
+.simbolos li { padding: .27rem; display: flex; align-items: baseline; gap: .45rem; }
+.leyenda-nota, #fuente-ficha { color: #bcd0d4; font-size: .78rem; }
+.simbolo { display: inline-block; flex: 0 0 13px; height: 9px; background: #d7a762; }
+.simbolo-punto { flex-basis: 8px; margin-inline: 2.5px; height: 8px; border-radius: 50%; background: #ed947f; }
+.simbolo-hielo { background: #b9d8eb; }
+.simbolo-limite, .simbolo-rio { height: 0; background: none; border-bottom: 2px dashed #c0d69f; }
+.simbolo-rio { border-color: #8fd5f2; }
+.simbolo-ruta { clip-path: polygon(0 25%, 65% 25%, 65% 0, 100% 50%, 65% 100%, 65% 75%, 0 75%); background: #d9bbe8; }
+.simbolo-activo { background: #34576a; border-radius: 4px; }
+.cronologia { bottom: 12px; left: 16px; right: 16px; padding: .55rem .8rem .65rem; }
+.cronologia-titulo { display: flex; align-items: baseline; gap: .75rem; }
+.cronologia h2, .ficha h2 { margin: 0; font-size: .98rem; }
+.cronologia-titulo span { color: #bcd0d4; font-size: .75rem; }
+.franjas { display: grid; gap: .32rem; margin-top: .4rem; }
+.fila-tiempo { display: grid; grid-template-columns: 90px minmax(0, 1fr); align-items: center; gap: .45rem; font-size: .78rem; font-weight: 650; }
+.carril-tiempo { display: flex; gap: .35rem; overflow-x: auto; padding: .2rem .2rem .3rem; }
+.hito { flex: 0 0 auto; min-width: 105px; max-width: 165px; padding: .28rem .4rem; text-align: left; background: #203a46; border-color: #bd9764; }
+.hito small, .hito strong { display: block; }
+.hito small { color: #ffd7a1; font-size: .7rem; margin-bottom: .12rem; }
+.hito strong { font-size: .77rem; line-height: 1.15; font-weight: 600; }
+.fila-tiempo:last-child .hito { border-color: #80a9bb; }
+.fila-tiempo:last-child .hito small { color: #bfe6f4; }
+.hito.intervalo { border-style: dashed; }
+.hito[aria-pressed="true"], .hito:focus-visible { outline: 2px solid #fff; outline-offset: 1px; }
+.ficha { bottom: 185px; right: 16px; width: min(360px, calc(100vw - 32px)); padding: .8rem 2.2rem .8rem .85rem; }
+.ficha button { position: absolute; right: 5px; top: 5px; padding: .15rem .45rem; }
+.ficha p { font-size: .87rem; }
+#enlace-ficha:empty { display: none; }
+.maplibregl-ctrl-bottom-right { bottom: 180px; }
+#estado:not([hidden]) { bottom: 185px; }
+@media (max-width: 520px) {
+  .leyenda { top: 153px; }
+  .cronologia, .leyenda { left: 8px; }
+  .cronologia, .ficha { right: 8px; }
+}
+.hitos-mapa { position: fixed; z-index: 2; top: 96px; right: 16px; max-width: min(360px, calc(100vw - 32px)); background: #10242ef2; color: #f5f1e8; border: 1px solid #8cabad88; border-radius: 10px; }
+.hitos-mapa > summary { padding: .65rem .8rem; cursor: pointer; font-weight: 650; }
+.hitos-contenido { max-height: min(52vh, calc(100dvh - 325px)); overflow: auto; padding: 0 .85rem .8rem; font-size: .85rem; line-height: 1.45; }
+.hitos-contenido ol { padding-left: 1.3rem; }
+.hitos-contenido li + li { margin-top: .65rem; }
+.hitos-contenido li::marker { color: #e7b270; font-weight: 700; }
+.hitos-contenido small { color: #bcd0d4; }
+@media (max-width: 520px) { .hitos-mapa { top: 153px; right: 8px; } }
+.bibliografia-contenido { padding: 0 .85rem .8rem; font-size: .85rem; line-height: 1.45; }
+.bibliografia-contenido h2 { margin: 0; font-size: .95rem; }
+.bibliografia-contenido a { color: #bfe6f4; }
+@media (max-width: 520px) {
+}
+.cronologia { padding: .4rem .65rem .45rem; }
+.franjas { gap: .18rem; margin-top: .25rem; }
+.carril-tiempo { padding-block: .14rem .22rem; }
+@media (max-width: 800px), (max-height: 650px) {
+  .cronologia { bottom: 8px; padding: .3rem .5rem .35rem; }
+  .cronologia-titulo span { display: none; }
+  .fila-tiempo { grid-template-columns: 65px minmax(0, 1fr); gap: .25rem; }
+  .carril-tiempo { padding-block: .12rem .18rem; }
+  .hito { min-width: 90px; max-width: 155px; padding: .15rem .35rem; }
+  .hito small { margin-bottom: .05rem; }
+  .ficha, #estado:not([hidden]) { bottom: 155px; }
+  .maplibregl-ctrl-bottom-right { bottom: 150px; }
+}
+.cronologia { right: auto; }
+.cronologia[open] { right: 16px; }
+.cronologia > summary { cursor: pointer; font-size: .95rem; font-weight: 650; }
+body:not(:has(.cronologia[open])) .maplibregl-ctrl-bottom-right { bottom: 0; }
+body:not(:has(.cronologia[open])) .ficha { bottom: 55px; }
+body:not(:has(.cronologia[open])) #estado:not([hidden]) { bottom: 55px; }
+.bibliografia { position: fixed; inset: auto 12px 12px auto; margin: 0; width: min(390px, calc(100% - 24px)); padding: .85rem; background: #10242e; color: #f5f1e8; border: 1px solid #8cabad88; border-radius: 10px; }
+.bibliografia form { float: right; }
+.bibliografia button { padding: .12rem .4rem; }
+.bibliografia::backdrop { background: #12253255; }
+@media (max-width: 520px) { .cronologia[open] { right: 8px; } }.simbolos details { padding-block: .45rem; }
+.simbolos summary { font-weight: 650; color: #f2dbad; }
+.simbolos li { align-items: center; min-height: 26px; gap: .55rem; }
+.simbolos li:nth-child(odd) { background: #ffffff0a; border-radius: 5px; }
+.simbolos li.simbolo-activo { background: #34576a; }
+.simbolo { flex: 0 0 20px; margin: 0; text-align: center; border-radius: 2px; }
+.simbolo-area-levante { background: #cd8d62; }
+.simbolo-hielo-max { background: #dbe3ef; }
+.simbolo-limite-reciente { height: 0; background: none; border-bottom: 2px dotted #9bc18c; }
+.simbolo-punto { flex: 0 0 8px; margin-inline: 6px; border-radius: 50%; }
+.simbolo-cueva, .simbolo-arte, .simbolo-estructura, .simbolo-venus, .simbolo-asentamiento, .simbolo-concha {
+  height: auto; background: transparent; color: #f2a791; font-size: 1rem; line-height: 1;
+}
+.simbolo-asentamiento, .simbolo-concha { color: #f0ce88; }
+.cronologia-scroll { overflow-x: auto; }
+.franjas { width: max-content; min-width: 100%; }
+.fila-tiempo > span { position: sticky; left: 0; z-index: 1; background: #10242e; }
+.carril-tiempo { display: grid; grid-template-columns: repeat(var(--fechas), 116px); gap: .35rem; overflow: visible; }
+.eje-fechas .carril-tiempo { border-bottom: 1px solid #adc0c480; padding-bottom: .24rem; }
+.eje-fechas .carril-tiempo span { color: #c7d7da; font-size: .7rem; padding-left: .36rem; }
+.hito { min-width: 0; max-width: none; min-height: 33px; }

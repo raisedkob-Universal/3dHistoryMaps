@@ -1,0 +1,243 @@
+{
+  "id": "1.12",
+  "title": "Paleolítico Superior en Europa",
+  "legendStatus": "Símbolos del mapa · capas en preparación",
+  "legend": [
+    [
+      "Paleolítico Superior",
+      [
+        [
+          "area-levante",
+          "Cultura auriñaciense levantina"
+        ],
+        [
+          "area",
+          "Cultura auriñaciense"
+        ],
+        [
+          "cueva",
+          "Cueva"
+        ],
+        [
+          "arte",
+          "Cueva con pinturas rupestres"
+        ],
+        [
+          "punto",
+          "Lugar al aire libre"
+        ],
+        [
+          "estructura",
+          "Lugar al aire libre con construcciones"
+        ],
+        [
+          "venus",
+          "Figurilla de Venus"
+        ]
+      ]
+    ],
+    [
+      "Mesolítico",
+      [
+        [
+          "asentamiento",
+          "Asentamiento principal"
+        ],
+        [
+          "concha",
+          "Lugar con restos de conchas"
+        ]
+      ]
+    ],
+    [
+      "Hielo y bosques",
+      [
+        [
+          "hielo-max",
+          "Máxima extensión del hielo · hace c. 18.000 años"
+        ],
+        [
+          "hielo",
+          "Extensión del hielo · 7000 a. C.",
+          "hielo-7000"
+        ],
+        [
+          "limite",
+          "Límite norte de bosques caducifolios · hace c. 18.000 años"
+        ],
+        [
+          "limite-reciente",
+          "Límite norte de bosques caducifolios · 7000 a. C."
+        ]
+      ]
+    ],
+    [
+      "Migración",
+      [
+        [
+          "ruta",
+          "Migración desde Oriente Medio · hace c. 40.000 años"
+        ]
+      ]
+    ],
+    [
+      "Ríos antiguos",
+      [
+        [
+          "rio",
+          "Antiguo curso del Támesis y del Rin · 7000 a. C."
+        ]
+      ]
+    ]
+  ],
+  "chronology": [
+    {
+      "title": "Cultura",
+      "entries": [
+        {
+          "start": -41000,
+          "end": -41000,
+          "date": "c. 41.000 a. C.",
+          "title": "Herramientas con cuchillas",
+          "text": "Introducción de esta tecnología en Europa."
+        },
+        {
+          "start": -30000,
+          "end": -30000,
+          "date": "c. 30.000 a. C.",
+          "title": "Primeras pinturas rupestres",
+          "text": "En el suroeste de Francia y el norte de España."
+        },
+        {
+          "start": -25000,
+          "end": -22000,
+          "date": "25.000–22.000 a. C.",
+          "title": "Figurillas de Venus",
+          "text": "Hallazgos documentados desde España hasta Rusia."
+        },
+        {
+          "start": -20000,
+          "end": -20000,
+          "date": "c. 20.000 a. C.",
+          "title": "Técnica de presión y descamación",
+          "text": "Introducción de la técnica para fabricar herramientas."
+        },
+        {
+          "start": -17000,
+          "end": -17000,
+          "date": "17.000 a. C.",
+          "title": "Pinturas de Lascaux",
+          "text": "Pinturas rupestres de Lascaux, Francia."
+        },
+        {
+          "start": -16000,
+          "end": -16000,
+          "date": "16.000 a. C.",
+          "title": "Herramientas microlíticas",
+          "text": "Desarrollo de las herramientas microlíticas."
+        },
+        {
+          "start": -14000,
+          "end": -14000,
+          "date": "14.000 a. C.",
+          "title": "Pinturas de Altamira",
+          "text": "Pinturas rupestres de Altamira, España.",
+          "association": "Lugar · ubicación cartográfica pendiente."
+        },
+        {
+          "start": -8000,
+          "end": -8000,
+          "date": "8000 a. C.",
+          "title": "Transición hacia la agricultura",
+          "text": "Inicio de la transición en el sureste de Europa."
+        }
+      ]
+    },
+    {
+      "title": "Cambios físicos",
+      "entries": [
+        {
+          "start": -40000,
+          "end": -40000,
+          "date": "c. 40.000 a. C.",
+          "title": "Humanos anatómicamente modernos",
+          "text": "Aparición en Europa en torno a esta fecha."
+        },
+        {
+          "start": -28000,
+          "end": -28000,
+          "date": "c. 28.000 a. C.",
+          "title": "Últimos neandertales",
+          "text": "Datación de referencia para la desaparición de los últimos neandertales en España."
+        },
+        {
+          "start": -18000,
+          "end": -15000,
+          "date": "18.000–15.000 a. C.",
+          "title": "Fase más gélida",
+          "text": "Fase más gélida de la glaciación."
+        },
+        {
+          "start": -10000,
+          "end": -10000,
+          "date": "10.000 a. C.",
+          "title": "Fin de la última glaciación",
+          "text": "Fecha de referencia para el final de la última glaciación."
+        },
+        {
+          "start": -7000,
+          "end": -7000,
+          "date": "7000 a. C.",
+          "title": "Extensión de la capa de hielo",
+          "text": "Extensión del hielo representada para esta fecha.",
+          "association": "Estado cartográfico · contorno pendiente.",
+          "legendId": "hielo-7000"
+        }
+      ]
+    }
+  ],
+  "notesIntro": "Ocho notas para interpretar el mapa.",
+  "notes": [
+    {
+      "heading": "Suroeste de Francia.",
+      "body": "Los bosques aportaban combustible. Los valles protegidos, las cuevas y las rutas de los animales ayudan a explicar la concentración de población."
+    },
+    {
+      "heading": "Solutré y Předmostí.",
+      "body": "Los campamentos temporales facilitaban la caza especializada. En Solutré se cazaban caballos y en Předmostí, mamuts."
+    },
+    {
+      "heading": "Vallon-Pont-d’Arc.",
+      "body": "En 1994 se descubrieron pinturas de animales, entre ellos rinocerontes lanudos y caballos. Se datan aproximadamente en hace 30.000 años."
+    },
+    {
+      "heading": "Mezhyrich.",
+      "body": "En la actual Ucrania se conservan restos de viviendas construidas con huesos de mamut. Se datan en unos 18.000 años de antigüedad."
+    },
+    {
+      "heading": "Lepenski Vir.",
+      "body": "En este asentamiento mesolítico aparecieron esculturas con rasgos de pez. Una posible interpretación es que tuvieran un significado religioso."
+    },
+    {
+      "heading": "Dinamarca.",
+      "body": "La cercanía de recursos marinos, fluviales y terrestres favoreció una alta densidad de población durante el Mesolítico."
+    },
+    {
+      "heading": "Cabeço da Arruda y Olenostrovski.",
+      "body": "Estos cementerios del Mesolítico tardío se sitúan hacia 4250 a. C., con unas 170 tumbas en cada uno."
+    },
+    {
+      "heading": "Oronsay.",
+      "body": "Hacia 4000–3400 a. C., grupos cazadores-recolectores visitaban la isla varias veces al año para pescar y recoger moluscos."
+    }
+  ],
+  "sources": [
+    {
+      "title": "La historia del mundo en mapas: atlas ilustrado",
+      "edition": "Madrid, Susaeta Ediciones, 2017.",
+      "reference": "Entrada 1.12, «Paleolítico Superior en Europa», p. 58 y siguiente. Referencia para la leyenda, la cronología y las notas del mapa.",
+      "url": "https://archive.org/details/lahistoriadelmun0000unse/page/n35/mode/2up",
+      "linkLabel": "Consultar la edición en Internet Archive"
+    }
+  ]
+}

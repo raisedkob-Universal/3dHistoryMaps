@@ -52,7 +52,7 @@ Campos propuestos:
 
 ### Plantilla de datos implementada
 
-Cada entrada histórica aporta su contenido en `prototipo-maplibre/dist/mapas/<código>.json`. El atributo `data-mapa` de `index.html` indica la entrada que se abre. `historia.js` construye la interfaz compartida a partir de `legend`, `chronology`, `notes` y `sources`. El título y el código de la entrada también proceden del archivo de datos.
+Cada entrada histórica aporta su contenido en `prototipo-maplibre/dist/mapas/<código>.json`. El atributo `data-mapa` de `index.html` indica la entrada inicial si la dirección no especifica una. El selector usa `dist/mapas/catalogo.json` y la dirección `?mapa=<código>` permite abrir directamente una entrada disponible. `historia.js` construye la interfaz compartida a partir de `legend`, `chronology`, `guide`, `notes` y `sources`. El título y el código de la entrada también proceden del archivo de datos.
 
 En la cronología, los años a. C. se representan con números negativos y los años d. C. con positivos. El campo `date` conserva la etiqueta que se muestra al alumnado, incluidas aproximaciones e intervalos. Las fechas expresadas como «hace … años» mantienen la expresión de la fuente mientras su normalización esté pendiente.
 
@@ -157,9 +157,10 @@ La entrada 1.12 es la primera aplicación. Tiene 15 categorías de leyenda en ci
 
 ## 7. Diseño fijo de la plantilla
 
+- **Selector Mapas junto al título.** Catálogo por épocas, búsqueda por título o código y estado de disponibilidad. La selección carga el contenido histórico en la misma base geográfica.
 - **Mapa protagonista.** Encabezado con el código y título de la entrada. Perspectiva, Cenital y zoom arriba a la derecha.
 - **Leyenda plegable a la izquierda.** Inventario informativo con símbolos diferenciados, nombres breves y grupos desplegables. Cuando haya geometrías documentadas, las capas se podrán activar de forma independiente.
-- **Hitos históricos a la derecha.** Tarjeta plegable con notas numeradas y breves para interpretar el mapa. Los vínculos a lugares se incorporan cuando estén documentados.
+- **Claves del mapa a la derecha.** Tarjeta plegable con explicaciones didácticas y acciones para localizar lugares, mostrar capas y comparar estados. El apartado «Más sobre los lugares» reúne las notas numeradas complementarias.
 - **Cronología plegable abajo.** Eje de fechas compartido y tarjetas ordenadas por fecha en franjas alineadas. En 1.12 las franjas son Cultura y Cambios físicos. En pantallas pequeñas se conservan ambas filas y el eje y las tarjetas se desplazan juntos en horizontal. La separación entre columnas es uniforme para facilitar la lectura.
 - **Ficha breve al pulsar un hito.** Muestra fecha y explicación. Si hay un símbolo de leyenda asociado, lo resalta. Cuando exista geometría documentada, la ficha podrá señalar el lugar o activar el estado fechado que corresponda.
 - **Bibliografía en ⓘ**, abajo a la derecha. Las referencias completas de la entrada se concentran en ese apartado.
@@ -181,7 +182,7 @@ La entrada 1.12 es la primera aplicación. Tiene 15 categorías de leyenda en ci
 
 - Completar el inventario del mapa 1.12 a partir de su vista completa. Contrastar yacimientos, áreas culturales, hielo, bosques, migración e hidrografía histórica antes de trazar sus geometrías.
 - Cotejar los títulos, períodos y números de página impresos de las 58 entradas. Mantener separado el número de página del libro de la posición en el visor digital.
-- Incorporar la selección de entradas en el visor cuando haya más mapas disponibles.
+- Activar nuevas entradas en el catálogo a medida que dispongan de contenido para el visor.
 - Medir la carga y fluidez en ordenadores escolares. Decidir si hace falta optimizar los contornos que se descargan al inicio.
 - Acordar el dominio y la publicación cuando el prototipo esté listo.
 

@@ -77,6 +77,27 @@ function addLabels(map) {
   updateLabels();
 }
 
+function groupPopulationCards(cards, project) {
+  const groups = [];
+  for (const card of cards) {
+    const point = project(card.coordinates);
+    const group = { cards: [card], left: point.x - 88, right: point.x + 88, top: point.y - 40, bottom: point.y + 40 };
+    for (let i = 0; i < groups.length; i++) {
+      const other = groups[i];
+      if (group.left > other.right || group.right < other.left || group.top > other.bottom || group.bottom < other.top) continue;
+      group.cards.push(...other.cards);
+      group.left = Math.min(group.left, other.left);
+      group.right = Math.max(group.right, other.right);
+      group.top = Math.min(group.top, other.top);
+      group.bottom = Math.max(group.bottom, other.bottom);
+      groups.splice(i, 1);
+      i = -1;
+    }
+    groups.push(group);
+  }
+  return groups;
+}
+
 function init() {
   maplibregl.addProtocol('atlasdem', elevationTile);
   const map = new maplibregl.Map({
@@ -229,9 +250,102 @@ function init() {
       type: 'FeatureCollection', features: activeCultureAreas
     });
   }
+  let populationCards = [];
+  let populationMarkers = [];
+  let populationPopup;
+
+  function openPopulationCards(cards, coordinates) {
+    populationPopup?.remove();
+    const content = document.createElement('section');
+    content.className = 'poblacion-detalle';
+    content.setAttribute('role', 'dialog');
+    content.setAttribute('aria-label', 'Poblaciones hacia 9000–7000 a. C.');
+    const interval = document.createElement('p');
+    interval.className = 'poblacion-intervalo';
+    interval.textContent = 'Poblaciones hacia 9000–7000 a. C. · comparación complementaria';
+    content.append(interval);
+    for (const card of cards) {
+      const article = document.createElement('details');
+      article.open = cards.length === 1;
+      const heading = document.createElement('summary');
+      heading.textContent = card.title + ' · ' + card.subtitle;
+      const date = document.createElement('p');
+      date.className = 'poblacion-fecha';
+      date.textContent = card.date;
+      const text = document.createElement('p');
+      text.textContent = card.text;
+      const evidence = document.createElement('p');
+      evidence.textContent = card.evidence;
+      const samples = document.createElement('ul');
+      for (const sample of card.samples) {
+        const item = document.createElement('li');
+        item.textContent = sample.id + ' · ' + sample.date;
+        samples.append(item);
+      }
+      const genetics = document.createElement('details');
+      const geneticsTitle = document.createElement('summary');
+      geneticsTitle.textContent = '¿Qué nos cuenta el ADN?';
+      const geneticsText = document.createElement('p');
+      geneticsText.textContent = card.genetics;
+      genetics.append(geneticsTitle, geneticsText);
+      const reference = document.createElement('p');
+      const source = document.createElement('a');
+      source.href = card.sourceUrl;
+      source.target = '_blank';
+      source.rel = 'noopener';
+      source.textContent = card.sourceLabel;
+      reference.append(source);
+      if (card.sampleSourceUrl) {
+        const sampleSource = document.createElement('a');
+        sampleSource.href = card.sampleSourceUrl;
+        sampleSource.target = '_blank';
+        sampleSource.rel = 'noopener';
+        sampleSource.textContent = 'Tabla de las muestras';
+        reference.append(document.createTextNode(' · '), sampleSource);
+      }
+      article.append(heading, date, text, evidence, samples, genetics, reference);
+      content.append(article);
+    }
+    const anchor = map.project(coordinates).x < mapElement.clientWidth / 2 ? 'left' : 'right';
+    populationPopup = new maplibregl.Popup({ anchor, offset: 18, maxWidth: 'min(310px, calc(100vw - 36px))', className: 'poblacion-popup' })
+      .setLngLat(coordinates).setDOMContent(content).addTo(map);
+  }
+
+  function updatePopulationCards() {
+    for (const marker of populationMarkers) marker.remove();
+    populationMarkers = groupPopulationCards(populationCards, coordinates => map.project(coordinates)).map(group => {
+      const cards = group.cards;
+      const coordinates = [0, 1].map(axis => cards.reduce((sum, card) => sum + card.coordinates[axis], 0) / cards.length);
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'poblacion-tarjeta';
+      button.setAttribute('aria-haspopup', 'dialog');
+      const name = document.createElement('strong');
+      name.textContent = cards.length === 1 ? cards[0].title : cards.length + ' poblaciones';
+      const date = document.createElement('span');
+      date.textContent = cards.length === 1 ? cards[0].date : '9000–7000 a. C. · abrir grupo';
+      button.append(name, date);
+      button.onclick = event => {
+        event.stopPropagation();
+        openPopulationCards(cards, coordinates);
+      };
+      return new maplibregl.Marker({ element: button }).setLngLat(coordinates).addTo(map);
+    });
+  }
+
+  function setPopulationCards(cards) {
+    if (cards.length === populationCards.length && cards.every((card, i) => card === populationCards[i])) return;
+    populationPopup?.remove();
+    populationCards = cards;
+    updatePopulationCards();
+  }
+  map.on('moveend', updatePopulationCards);
+  map.on('resize', updatePopulationCards);
+
   mapElement.addEventListener('atlas:culturas', event => {
     activeCultureAreas = event.detail.areas;
     activeRaster = event.detail.raster;
+    setPopulationCards(event.detail.populationCards ?? []);
     updateHistoricalRaster();
     updateCultureAreas();
     animateRoutes();

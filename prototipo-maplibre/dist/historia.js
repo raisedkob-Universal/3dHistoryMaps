@@ -12,8 +12,8 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
   document.querySelector('#nombre-mapa').textContent = id + ' · ' + title;
   document.querySelector('#introduccion-hitos').textContent = notesIntro ?? '';
   const mapNode = document.querySelector('#mapa');
-  function showCultureAreas(areas = [], raster) {
-    mapNode.dispatchEvent(new CustomEvent('atlas:culturas', { detail: { areas, raster } }));
+  function showCultureAreas(areas = [], raster, populationCards = []) {
+    mapNode.dispatchEvent(new CustomEvent('atlas:culturas', { detail: { areas, raster, populationCards } }));
   }
   showCultureAreas();
   const placeById = new Map(places.map(place => [place.id, place]));
@@ -124,10 +124,10 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
   let highlightedSymbol;
   const selectedLayers = new Set();
   const layerButtons = [];
-  const layers = environments.filter(entry => entry.areas?.length || entry.raster);
+  const layers = environments.filter(entry => entry.areas?.length || entry.raster || entry.populationCards?.length);
   function renderLayers() {
     const selected = [...selectedLayers];
-    showCultureAreas(selected.flatMap(entry => entry.areas ?? []), selected.find(entry => entry.raster)?.raster);
+    showCultureAreas(selected.flatMap(entry => entry.areas ?? []), selected.find(entry => entry.raster)?.raster, selected.flatMap(entry => entry.populationCards ?? []));
     for (const { button, entry } of layerButtons) {
       button.setAttribute('aria-pressed', String(selectedLayers.has(entry)));
     }
@@ -172,7 +172,7 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
     option.style.setProperty('--tono-hielo', entry.color);
     option.textContent = title;
     option.setAttribute('aria-pressed', 'false');
-    if (!entry.areas?.length && !entry.raster) {
+    if (!entry.areas?.length && !entry.raster && !entry.populationCards?.length) {
       option.textContent += ' · explicación';
       option.onclick = () => showEntry(option, { ...entry, title: entry.heading ?? entry.title });
       options.append(option);
@@ -231,12 +231,12 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
 
   function showEntry(mark, entry) {
     clearLayers();
-    const layer = layers.find(layer => layer.areas === entry.areas && layer.raster === entry.raster);
+    const layer = layers.find(layer => layer.areas === entry.areas && layer.raster === entry.raster && layer.populationCards === entry.populationCards);
     if (layer) {
       selectedLayers.add(layer);
       renderLayers();
     } else {
-      showCultureAreas(entry.areas, entry.raster);
+      showCultureAreas(entry.areas, entry.raster, entry.populationCards);
     }
     activeMark?.setAttribute('aria-pressed', 'false');
     activeMark = mark;

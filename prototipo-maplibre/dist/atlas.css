@@ -201,3 +201,18 @@ body:has(.cronologia[open] .culturas[open]) .maplibregl-ctrl-bottom-right { bott
 .leyenda-acciones { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .45rem; }
 .leyenda-acciones button { font-size: .78rem; }
 .leyenda-acciones button[aria-pressed="true"] { background: #426478; }
+
+.poblacion-tarjeta { width: 168px; min-height: 60px; padding: .4rem .5rem; text-align: center; background: #263146f2; color: #fff5e8; border: 2px solid #d5b4f2; box-shadow: 0 2px 7px #10242e66; }
+.poblacion-tarjeta strong, .poblacion-tarjeta span { display: block; }
+.poblacion-tarjeta strong { font-size: .85rem; }
+.poblacion-tarjeta span { margin-top: .15rem; font-size: .7rem; line-height: 1.25; }
+.poblacion-tarjeta:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+.poblacion-popup .maplibregl-popup-content { background: #10242e; color: #f5f1e8; max-height: min(65dvh, 480px); overflow-y: auto; padding: 1rem; border: 1px solid #d5b4f2; border-radius: 8px; }
+.poblacion-popup .maplibregl-popup-close-button { color: #f5f1e8; font-size: 1.2rem; }
+.poblacion-detalle { font-size: .83rem; line-height: 1.4; }
+.poblacion-detalle > details { margin-top: .7rem; }
+.poblacion-detalle summary { cursor: pointer; font-weight: 650; }
+.poblacion-detalle details details { margin-top: .65rem; }
+.poblacion-detalle ul { padding-left: 1.1rem; }
+.poblacion-detalle a { color: #bfe6f4; }
+.poblacion-intervalo, .poblacion-fecha { color: #e3c8fc; font-size: .75rem; }

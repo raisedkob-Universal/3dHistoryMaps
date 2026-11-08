@@ -189,3 +189,11 @@ La entrada 1.12 es la primera aplicación. Tiene 15 categorías de leyenda en ci
 ## 10. Criterio de mantenimiento
 
 Este archivo es el documento rector. Cada cambio de alcance o arquitectura debe reflejarse aquí. El catálogo podrá ampliarse, pero los identificadores originales de Susaeta deben conservarse para mantener la trazabilidad bibliográfica. La comprobación de GitHub Pages y del dominio público corresponde al propietario del proyecto; el desarrollo no debe efectuar verificaciones públicas repetitivas por su cuenta.
+
+## 11. Tarjetas geográficas de poblaciones
+
+La plantilla admite una sola opción de leyenda para activar una colección de tarjetas de poblaciones, sin añadir un panel general ni entradas en la cronología. Se integra en Poblaciones y desplazamientos y en los controles Mostrar todo y Ocultar capas. Al cambiar de mapa se retiran las tarjetas y sus fichas.
+
+Cada tarjeta ofrece nombre comprensible, fecha y explicación, con detalle genético expandible y fuentes trazables. Los marcadores se agrupan cuando sus tarjetas se solapan en pantalla. Los lugares son referencias documentadas y las zonas de ocupación solo se incorporarán con respaldo cartográfico específico.
+
+La entrada 1.12 añade una comparación complementaria de 9000–7000 a. C., diferenciada del final de 8000 a. C. del mapa principal. La selección inicial comprende Huseby Klev y dos muestras de Grotta Continenza. La cobertura genética europea queda abierta a ampliación con nuevas evidencias contrastadas.

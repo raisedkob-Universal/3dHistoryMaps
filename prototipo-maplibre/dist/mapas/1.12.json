@@ -575,6 +575,23 @@
       "edition": "Deltares. Síntesis de trabajos sobre el Pleistoceno y la transgresión holocena.",
       "reference": "Distingue la red Rin–Támesis conjunta durante fases glaciales del estuario Rin–Mosa–Escalda situado frente a Róterdam hacia 9000 años BP. Fundamenta la separación de los dos sectores mesolíticos del visor.",
       "url": "https://www.vliz.be/imisdocs/publications/255656.pdf"
+    },
+    {
+      "title": "Kashuba y colaboradores · Ancient DNA from mastics solidifies connection between material culture and genetics of mesolithic hunter-gatherers in Scandinavia",
+      "edition": "Communications Biology 2, 185 (2019).",
+      "reference": "ADN de las resinas de Huseby Klev, 9880–9540 cal BP. Conversión redondeada a 7930–7590 a. C. Linajes mitocondriales U5a2d. Marcador orientativo de Orust.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6520363/"
+    },
+    {
+      "title": "Antonio y colaboradores · Ancient Rome: A genetic crossroads of Europe and the Mediterranean",
+      "edition": "Science 366, 708–714 (2019).",
+      "reference": "Contexto genómico de los cazadores-recolectores de Grotta Continenza y sus afinidades con WHG. La tarjeta incluye R7 y R15, fechados dentro del intervalo complementario.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7093155/"
+    },
+    {
+      "title": "Antonio et al. (2019) · Sample Information",
+      "reference": "Tabla de los autores. R7, 8821–8642 calBCE, I-M223, U5b1+16189+@16192. R15, 7284–7065 calBCE, I-M223, U5b3. Los intervalos se transcriben de la tabla original de 2019.",
+      "url": "https://docs.google.com/spreadsheets/d/1hH1c-vKI6kdkXRrPKiYmD3ICkDpMjaO_fixBA0iGAxo/edit"
     }
   ],
   "places": [
@@ -6708,6 +6725,64 @@
               ]
             ]
           }
+        }
+      ]
+    },
+    {
+      "id": "poblaciones-mesoliticas",
+      "title": "Poblaciones hacia 9000–7000 a. C.",
+      "heading": "Parentescos entre poblaciones mesolíticas",
+      "date": "9000–7000 a. C. · comparación complementaria",
+      "text": "Pulsa las tarjetas del mapa para explorar los hallazgos de ADN antiguo. Esta selección inicial presenta ejemplos documentados de Escandinavia y del sur de Europa. Las fechas de cada muestra aparecen en su ficha. Los parentescos genéticos ayudan a reconstruir contactos y movimientos entre personas. Un haplogrupo sigue una línea materna o paterna dentro de esa historia. El intervalo amplía la comparación más allá del final de 8000 a. C. del mapa principal.",
+      "color": "#d5b4f2",
+      "group": "Poblaciones y desplazamientos",
+      "populationCards": [
+        {
+          "id": "mesolitico-escandinavia",
+          "title": "Escandinavia",
+          "subtitle": "Huseby Klev · ADN en resina",
+          "coordinates": [
+            11.5,
+            58.2
+          ],
+          "date": "Hacia 7930–7590 a. C.",
+          "text": "En Huseby Klev, al oeste de la actual Suecia, se recuperó ADN de tres personas en resina de abedul masticada. Su parentesco genético las relaciona con los cazadores-recolectores escandinavos. En sus vidas se combinaron conocimientos y contactos de distintas procedencias.",
+          "evidence": "Las resinas estudiadas se datan entre 9880 y 9540 años calibrados BP. La posición señala de forma orientativa la zona del yacimiento en Orust.",
+          "genetics": "Las tres muestras se asignan al haplogrupo mitocondrial U5a2d en el estudio de 2019. Sigue una línea de ascendencia materna. El análisis del conjunto del ADN aporta información adicional sobre parentescos entre poblaciones.",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6520363/",
+          "sourceLabel": "Kashuba y colaboradores, 2019",
+          "samples": [
+            {
+              "id": "ble004, ble007 y ble008",
+              "date": "9880–9540 cal BP · aproximadamente 7930–7590 a. C."
+            }
+          ]
+        },
+        {
+          "id": "mesolitico-sur-europa",
+          "title": "Sur de Europa",
+          "subtitle": "Grotta Continenza · dos personas estudiadas",
+          "coordinates": [
+            13.53,
+            41.96
+          ],
+          "date": "8821–8642 y 7284–7065 a. C.",
+          "text": "Dos personas de Grotta Continenza, en los Apeninos italianos, permiten acercarnos a poblaciones cazadoras-recolectoras de momentos distintos del Mesolítico. El análisis del ADN del yacimiento muestra afinidades con otros cazadores-recolectores de Europa occidental.",
+          "evidence": "Se muestran R7 y R15, cuyas fechas están dentro de 9000–7000 a. C. El yacimiento también contiene restos de otras épocas. La posición del marcador es orientativa.",
+          "genetics": "R7 y R15 se asignan al linaje paterno I-M223 en la tabla de 2019. Sus linajes maternos son U5b1 (con variantes adicionales en R7) y U5b3, respectivamente. Son resultados de estas personas, y su alcance regional se estudia comparándolos con más muestras.",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7093155/",
+          "sourceLabel": "Antonio y colaboradores, 2019",
+          "samples": [
+            {
+              "id": "R7",
+              "date": "8821–8642 a. C."
+            },
+            {
+              "id": "R15",
+              "date": "7284–7065 a. C."
+            }
+          ],
+          "sampleSourceUrl": "https://docs.google.com/spreadsheets/d/1hH1c-vKI6kdkXRrPKiYmD3ICkDpMjaO_fixBA0iGAxo/edit"
         }
       ]
     }

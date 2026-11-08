@@ -124,7 +124,7 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
   let highlightedSymbol;
   const selectedLayers = new Set();
   const layerButtons = [];
-  const layers = [...environments, ...cultures.filter(culture => culture.areas?.length)];
+  const layers = environments;
   function renderLayers() {
     const selected = [...selectedLayers];
     showCultureAreas(selected.flatMap(entry => entry.areas ?? []), selected.find(entry => entry.raster)?.raster);
@@ -261,19 +261,6 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
       addLayerButton(options, state, state.title);
     }
     group.append(options);
-    symbols.append(group);
-  }
-
-  if (cultures.some(culture => culture.areas?.length)) {
-    const group = document.createElement('details');
-    const heading = document.createElement('summary');
-    heading.textContent = 'Culturas';
-    const options = document.createElement('div');
-    options.className = 'comparar-hielo';
-    for (const culture of cultures.filter(entry => entry.areas?.length)) {
-      addLayerButton(options, culture, culture.title);
-    }
-    group.append(heading, options);
     symbols.append(group);
   }
 

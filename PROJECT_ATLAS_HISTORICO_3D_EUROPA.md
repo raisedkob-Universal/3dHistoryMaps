@@ -197,3 +197,7 @@ La plantilla admite una sola opción de leyenda para activar una colección de t
 Cada tarjeta ofrece nombre comprensible, fecha y explicación, con detalle genético expandible y fuentes trazables. Los marcadores se agrupan cuando sus tarjetas se solapan en pantalla. Los lugares son referencias documentadas y las zonas de ocupación solo se incorporarán con respaldo cartográfico específico.
 
 La entrada 1.12 añade una comparación complementaria de 9000–7000 a. C., diferenciada del final de 8000 a. C. del mapa principal. La selección inicial comprende Huseby Klev y dos muestras de Grotta Continenza. La cobertura genética europea queda abierta a ampliación con nuevas evidencias contrastadas.
+
+### Continuación acordada de las poblaciones
+
+La selección comprende ahora tres casos, con Cheddar Man como ejemplo del oeste de Europa. La incorporación de agricultura y comunidades anatolias queda pendiente del mapa complementario que aportará el propietario. Recordar este asunto al recibirlo.

@@ -592,6 +592,17 @@
       "title": "Antonio et al. (2019) · Sample Information",
       "reference": "Tabla de los autores. R7, 8821–8642 calBCE, I-M223, U5b1+16189+@16192. R15, 7284–7065 calBCE, I-M223, U5b3. Los intervalos se transcriben de la tabla original de 2019.",
       "url": "https://docs.google.com/spreadsheets/d/1hH1c-vKI6kdkXRrPKiYmD3ICkDpMjaO_fixBA0iGAxo/edit"
+    },
+    {
+      "title": "Brace y colaboradores · Ancient Genomes Indicate Population Replacement in Early Neolithic Britain",
+      "edition": "Nature Ecology & Evolution 3, 765–771 (2019).",
+      "reference": "Parentescos genéticos de los cazadores-recolectores británicos, incluido Cheddar Man. La tarjeta se centra en su contexto mesolítico y las afinidades WHG.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6520225/"
+    },
+    {
+      "title": "Natural History Museum · Cheddar Man FAQ",
+      "reference": "Dos dataciones de radiocarbono sitúan a Cheddar Man hace unos 10.000 años. El visor expresa esta antigüedad como hacia 8000 a. C., de forma aproximada, sin atribuir un intervalo calibrado preciso. Posición orientativa de Gough’s Cave.",
+      "url": "https://www.nhm.ac.uk/our-science/research/projects/human-adaptation-diet-disease/cheddar-man-faq.html"
     }
   ],
   "places": [
@@ -6733,7 +6744,7 @@
       "title": "Poblaciones hacia 9000–7000 a. C.",
       "heading": "Parentescos entre poblaciones mesolíticas",
       "date": "9000–7000 a. C. · comparación complementaria",
-      "text": "Pulsa las tarjetas del mapa para explorar los hallazgos de ADN antiguo. Esta selección inicial presenta ejemplos documentados de Escandinavia y del sur de Europa. Las fechas de cada muestra aparecen en su ficha. Los parentescos genéticos ayudan a reconstruir contactos y movimientos entre personas. Un haplogrupo sigue una línea materna o paterna dentro de esa historia. El intervalo amplía la comparación más allá del final de 8000 a. C. del mapa principal.",
+      "text": "Pulsa las tarjetas del mapa para explorar los hallazgos de ADN antiguo. Esta selección presenta ejemplos documentados del oeste y el sur de Europa y de Escandinavia. Las fechas de cada muestra aparecen en su ficha. Los parentescos genéticos ayudan a reconstruir contactos y movimientos entre personas. Un haplogrupo sigue una línea materna o paterna dentro de esa historia. El intervalo amplía la comparación más allá del final de 8000 a. C. del mapa principal.",
       "color": "#d5b4f2",
       "group": "Poblaciones y desplazamientos",
       "populationCards": [
@@ -6783,6 +6794,28 @@
             }
           ],
           "sampleSourceUrl": "https://docs.google.com/spreadsheets/d/1hH1c-vKI6kdkXRrPKiYmD3ICkDpMjaO_fixBA0iGAxo/edit"
+        },
+        {
+          "id": "mesolitico-britania",
+          "title": "Oeste de Europa",
+          "subtitle": "Cheddar · un cazador-recolector de Britania",
+          "coordinates": [
+            -2.755,
+            51.282
+          ],
+          "date": "Hacia 8000 a. C. · fecha aproximada",
+          "text": "Los restos de una persona hallada en Gough’s Cave, cerca de Cheddar, permiten conocer mejor a los cazadores-recolectores de Britania. Su ADN muestra afinidades con otros cazadores-recolectores de Europa occidental. Su comunidad vivía de los recursos silvestres en un paisaje muy diferente del actual.",
+          "evidence": "El Natural History Museum sitúa a Cheddar Man hace unos 10.000 años a partir de dos dataciones de radiocarbono. Aquí se expresa como hacia 8000 a. C., de forma aproximada. La posición señala la zona de Gough’s Cave.",
+          "genetics": "El estudio de Brace y colaboradores compara numerosos fragmentos del ADN de Cheddar Man con los de otras personas antiguas. Así identifica parentescos con los cazadores-recolectores occidentales, llamados WHG en la investigación. El conjunto del ADN amplía lo que puede contarnos una sola línea materna o paterna.",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6520225/",
+          "sourceLabel": "Brace y colaboradores, 2019",
+          "sampleSourceUrl": "https://www.nhm.ac.uk/our-science/research/projects/human-adaptation-diet-disease/cheddar-man-faq.html",
+          "samples": [
+            {
+              "id": "Cheddar Man · Gough’s Cave",
+              "date": "Hace unos 10.000 años · hacia 8000 a. C."
+            }
+          ]
         }
       ]
     }

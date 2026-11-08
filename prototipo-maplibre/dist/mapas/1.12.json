@@ -1,19 +1,11 @@
 {
   "id": "1.12",
   "title": "Paleolítico Superior en Europa",
-  "legendStatus": "Yacimientos, culturas, hielo, vegetación y desplazamientos disponibles.",
+  "legendStatus": "Los símbolos identifican los yacimientos. Pulsa las capas de colores para mostrarlas u ocultarlas.",
   "legend": [
     [
       "Paleolítico Superior",
       [
-        [
-          "area-levante",
-          "Cultura auriñaciense levantina"
-        ],
-        [
-          "area",
-          "Cultura auriñaciense"
-        ],
         [
           "cueva",
           "Cueva"
@@ -58,46 +50,6 @@
         [
           "cementerio",
           "Cementerio mesolítico · símbolo añadido"
-        ]
-      ]
-    ],
-    [
-      "Hielo y bosques",
-      [
-        [
-          "hielo-max",
-          "Máxima extensión del hielo · hace c. 18.000 años"
-        ],
-        [
-          "hielo",
-          "Extensión del hielo · 7000 a. C.",
-          "hielo-7000"
-        ],
-        [
-          "limite",
-          "Límite norte de bosques caducifolios · hace c. 18.000 años"
-        ],
-        [
-          "limite-reciente",
-          "Límite norte de bosques caducifolios · 7000 a. C."
-        ]
-      ]
-    ],
-    [
-      "Migración",
-      [
-        [
-          "ruta",
-          "Migración desde Oriente Medio · hace c. 40.000 años"
-        ]
-      ]
-    ],
-    [
-      "Ríos antiguos",
-      [
-        [
-          "rio",
-          "Antiguo curso del Támesis y del Rin · 7000 a. C."
         ]
       ]
     ],
@@ -212,8 +164,7 @@
           "date": "7000 a. C.",
           "title": "Extensión de la capa de hielo",
           "text": "Extensión del hielo representada para esta fecha.",
-          "association": "Fecha del atlas. La comparación disponible usa 18.000 y 10.000 años BP.",
-          "legendId": "hielo-7000"
+          "association": "Fecha del atlas. La comparación disponible usa 18.000 y 10.000 años BP."
         }
       ]
     }
@@ -5892,7 +5843,8 @@
             ]
           }
         }
-      ]
+      ],
+      "group": "Hielo"
     },
     {
       "id": "hielo-10ka",
@@ -6103,7 +6055,8 @@
             ]
           }
         }
-      ]
+      ],
+      "group": "Hielo"
     },
     {
       "id": "bosque-18000",
@@ -6175,7 +6128,8 @@
             ]
           }
         }
-      ]
+      ],
+      "group": "Vegetación"
     },
     {
       "id": "bosque-7000",
@@ -6205,7 +6159,8 @@
             29
           ]
         ]
-      }
+      },
+      "group": "Vegetación"
     },
     {
       "id": "sapiens-oriente",

@@ -122,9 +122,74 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
   const close = document.querySelector('#cerrar-ficha');
   let activeMark;
   let highlightedSymbol;
+  const selectedLayers = new Set();
+  const layerButtons = [];
+  const layers = [...environments, ...cultures.filter(culture => culture.areas?.length)];
+  function renderLayers() {
+    const selected = [...selectedLayers];
+    showCultureAreas(selected.flatMap(entry => entry.areas ?? []), selected.find(entry => entry.raster)?.raster);
+    for (const { button, entry } of layerButtons) {
+      button.setAttribute('aria-pressed', String(selectedLayers.has(entry)));
+    }
+    allLayers.setAttribute('aria-pressed', String(layers.length > 0 && selectedLayers.size === layers.length));
+    comparison.hidden = selectedLayers.size < 2;
+  }
+  function clearLayers() {
+    selectedLayers.clear();
+    renderLayers();
+  }
+  const controls = document.createElement('div');
+  controls.className = 'leyenda-acciones';
+  const allLayers = document.createElement('button');
+  allLayers.type = 'button';
+  allLayers.textContent = 'Mostrar todo';
+  allLayers.disabled = layers.length === 0;
+  allLayers.setAttribute('aria-pressed', 'false');
+  allLayers.onclick = () => {
+    layers.forEach(entry => selectedLayers.add(entry));
+    activeMark?.setAttribute('aria-pressed', 'false');
+    card.hidden = true;
+    renderLayers();
+  };
+  const hideLayers = document.createElement('button');
+  hideLayers.type = 'button';
+  hideLayers.textContent = 'Ocultar capas';
+  hideLayers.onclick = () => {
+    clearLayers();
+    activeMark?.setAttribute('aria-pressed', 'false');
+    card.hidden = true;
+  };
+  const comparison = document.createElement('p');
+  comparison.className = 'leyenda-nota';
+  comparison.setAttribute('role', 'status');
+  comparison.textContent = 'Comparación de épocas distintas. Las capas superpuestas no representan un único momento.';
+  comparison.hidden = true;
+  controls.append(allLayers, hideLayers);
+  symbols.append(controls, comparison);
+  function addLayerButton(options, entry, title) {
+    const option = document.createElement('button');
+    option.type = 'button';
+    option.style.setProperty('--tono-hielo', entry.color);
+    option.textContent = title;
+    option.setAttribute('aria-pressed', 'false');
+    option.onclick = () => {
+      if (selectedLayers.has(entry)) selectedLayers.delete(entry);
+      else selectedLayers.add(entry);
+      activeMark?.setAttribute('aria-pressed', 'false');
+      renderLayers();
+      card.hidden = !selectedLayers.has(entry);
+      if (!card.hidden) {
+        document.querySelector('#titulo-ficha').textContent = (entry.heading ?? entry.title) + ' · ' + (entry.date ?? 'zonas orientativas');
+        document.querySelector('#texto-ficha').textContent = entry.text;
+        document.querySelector('#enlace-ficha').textContent = '';
+      }
+    };
+    layerButtons.push({ button: option, entry });
+    options.append(option);
+  }
   mapNode.dispatchEvent(new CustomEvent('atlas:lugares', { detail: places }));
   mapNode.onatlasplace = () => {
-    showCultureAreas();
+    clearLayers();
     activeMark?.setAttribute('aria-pressed', 'false');
     activeMark = undefined;
     highlightedSymbol?.classList.remove('simbolo-activo');
@@ -158,7 +223,14 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
   if (legendStatus) symbols.prepend(note);
 
   function showEntry(mark, entry) {
-    showCultureAreas(entry.areas, entry.raster);
+    clearLayers();
+    const layer = layers.find(layer => layer.areas === entry.areas && layer.raster === entry.raster);
+    if (layer) {
+      selectedLayers.add(layer);
+      renderLayers();
+    } else {
+      showCultureAreas(entry.areas, entry.raster);
+    }
     activeMark?.setAttribute('aria-pressed', 'false');
     activeMark = mark;
     mark.setAttribute('aria-pressed', 'true');
@@ -186,17 +258,22 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
     const options = document.createElement('div');
     options.className = 'comparar-hielo';
     for (const state of environments.filter(entry => (entry.group ?? 'Comparar el entorno') === groupTitle)) {
-      const option = document.createElement('button');
-      option.type = 'button';
-      option.style.setProperty('--tono-hielo', state.color);
-      option.textContent = state.title;
-      option.setAttribute('aria-pressed', 'false');
-      option.onclick = () => showEntry(option, {
-        title: state.heading ?? (state.id.startsWith('bosque-') ? 'Límite de los bosques' : 'Extensión del hielo'), date: state.date, text: state.text, areas: state.areas, raster: state.raster
-      });
-      options.append(option);
+      addLayerButton(options, state, state.title);
     }
     group.append(options);
+    symbols.append(group);
+  }
+
+  if (cultures.some(culture => culture.areas?.length)) {
+    const group = document.createElement('details');
+    const heading = document.createElement('summary');
+    heading.textContent = 'Culturas';
+    const options = document.createElement('div');
+    options.className = 'comparar-hielo';
+    for (const culture of cultures.filter(entry => entry.areas?.length)) {
+      addLayerButton(options, culture, culture.title);
+    }
+    group.append(heading, options);
     symbols.append(group);
   }
 
@@ -269,7 +346,7 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
   }
 
   close.onclick = () => {
-    showCultureAreas();
+    clearLayers();
     card.hidden = true;
     highlightedSymbol?.classList.remove('simbolo-activo');
     activeMark?.setAttribute('aria-pressed', 'false');

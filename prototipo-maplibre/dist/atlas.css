@@ -197,3 +197,7 @@ body:has(.cronologia[open] .culturas[open]) .maplibregl-ctrl-bottom-right { bott
 .clave-ilustracion { margin: .5rem 0; }
 .clave-ilustracion img { display: block; width: 100%; height: auto; border-radius: 5px; }
 .clave-ilustracion figcaption { margin-top: .25rem; font-size: .7rem; line-height: 1.3; color: #bcd0d4; }
+
+.leyenda-acciones { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .45rem; }
+.leyenda-acciones button { font-size: .78rem; }
+.leyenda-acciones button[aria-pressed="true"] { background: #426478; }

@@ -557,6 +557,24 @@
       "edition": "Geoscientific Model Development 12, 2019. Suplemento, texto S6, p. 8 del PDF.",
       "reference": "Síntesis de DATED-1 que sitúa la desaparición propuesta del manto escandinavo hacia 9000 años BP o algo antes, aproximadamente 7050 a. C. Apoya la explicación didáctica cercana a 7000 a. C., con fecha aproximada.",
       "url": "https://gmd.copernicus.org/articles/12/2961/2019/gmd-12-2961-2019-supplement.pdf"
+    },
+    {
+      "title": "British Geological Survey · London and the Thames Valley",
+      "edition": "British Regional Geology, 1996. Apartado sobre el Holoceno.",
+      "reference": "Contexto geológico de la transformación del bajo Támesis en estuario. La línea del visor localiza de forma propia y esquemática el sector del valle. No es una digitalización de un paleocauce fechado exactamente en 7000 a. C.",
+      "url": "https://webapps.bgs.ac.uk/Memoirs/docs/B01360.html"
+    },
+    {
+      "title": "Vos, De Kleine, Mesdag, De Vries y Schiltmans · Yangtze harbor",
+      "edition": "Deltares y BOOR. SPLASHCOS Final Conference, 2013. Diapositivas 4–5.",
+      "reference": "Reconstrucciones del bajo Rin–Mosa. La diapositiva 5 rotula el panel inferior como 9000 BP (7000 BC), mientras el mapa reproducido indica aproximadamente 8500 cal BP. El visor explicita el intervalo aproximado 7000–6500 a. C. y usa una generalización propia del corredor fluvial.",
+      "url": "https://www.oervondstchecker.nl/files/2Yang.pdf"
+    },
+    {
+      "title": "Marc Hijma · The southern North Sea? Rhine-Thames land!",
+      "edition": "Deltares. Síntesis de trabajos sobre el Pleistoceno y la transgresión holocena.",
+      "reference": "Distingue la red Rin–Támesis conjunta durante fases glaciales del estuario Rin–Mosa–Escalda situado frente a Róterdam hacia 9000 años BP. Fundamenta la separación de los dos sectores mesolíticos del visor.",
+      "url": "https://www.vliz.be/imisdocs/publications/255656.pdf"
     }
   ],
   "places": [
@@ -6560,6 +6578,138 @@
           }
         }
       ]
+    },
+    {
+      "id": "rio-tamesis",
+      "title": "Támesis · valle y antiguo estuario",
+      "heading": "El paisaje del Támesis en el Mesolítico",
+      "date": "Holoceno temprano · esquema orientativo",
+      "text": "El Támesis recorría un valle que la subida del mar fue transformando en estuario. Sus orillas ofrecían agua, pesca y zonas de paso para los grupos mesolíticos. La línea azul señala de forma esquemática el sector bajo del valle y su salida hacia el mar del Norte. La referencia del atlas es 7000 a. C. El trazado sirve para localizar ese paisaje y no permite seguir los meandros ni fijar la desembocadura de un año concreto. La costa del fondo es la actual.",
+      "color": "#67d7ff",
+      "group": "Ríos antiguos",
+      "focusCoordinates": [
+        0.65,
+        51.5
+      ],
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Támesis · sector bajo del valle",
+            "color": "#67d7ff",
+            "schematic": true
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -0.12,
+                51.5
+              ],
+              [
+                0.08,
+                51.5
+              ],
+              [
+                0.25,
+                51.48
+              ],
+              [
+                0.42,
+                51.45
+              ],
+              [
+                0.58,
+                51.46
+              ],
+              [
+                0.74,
+                51.49
+              ],
+              [
+                0.94,
+                51.52
+              ],
+              [
+                1.15,
+                51.56
+              ],
+              [
+                1.4,
+                51.61
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rio-rin-mosa",
+      "title": "Rin–Mosa · antigua desembocadura",
+      "heading": "Ríos que hoy quedan bajo el mar",
+      "date": "Hacia 7000–6500 a. C. · esquema orientativo",
+      "text": "El Rin y el Mosa desembocaban al oeste de la zona de Róterdam, en un paisaje fluvial que la subida del mar fue inundando. Las reconstrucciones muestran antiguos cauces, dunas y humedales donde pudieron vivir grupos mesolíticos. La línea azul resume el corredor de desembocadura de las reconstrucciones de unos 9000–8500 años calibrados BP. Su recorrido es aproximado. La costa del fondo es la actual.",
+      "color": "#67d7ff",
+      "group": "Ríos antiguos",
+      "focusCoordinates": [
+        4.1,
+        51.95
+      ],
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Rin–Mosa · corredor de desembocadura",
+            "color": "#67d7ff",
+            "schematic": true
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                4.68,
+                51.91
+              ],
+              [
+                4.5,
+                51.93
+              ],
+              [
+                4.33,
+                51.95
+              ],
+              [
+                4.18,
+                51.93
+              ],
+              [
+                4.07,
+                51.98
+              ],
+              [
+                3.96,
+                51.96
+              ],
+              [
+                3.85,
+                52
+              ],
+              [
+                3.73,
+                52.02
+              ],
+              [
+                3.6,
+                52.01
+              ],
+              [
+                3.45,
+                51.99
+              ]
+            ]
+          }
+        }
+      ]
     }
   ],
   "guide": [
@@ -6691,6 +6841,20 @@
         "alt": "Dos retratos ilustrados con ropa de piel. Neandertal a la izquierda y Homo sapiens a la derecha.",
         "caption": "Neandertal (izquierda) y Homo sapiens (derecha). Reconstrucción artística generada con IA."
       }
+    },
+    {
+      "title": "Un paisaje que quedó bajo el mar",
+      "text": "Al subir el nivel del mar, los valles bajos del Támesis y del Rin–Mosa se transformaron. Parte de los paisajes frecuentados por los grupos mesolíticos está hoy sumergida. Los cauces antiguos y sus sedimentos ayudan a reconstruir dónde se podía vivir, pescar y desplazarse.",
+      "actions": [
+        {
+          "label": "Valle del Támesis",
+          "environmentId": "rio-tamesis"
+        },
+        {
+          "label": "Desembocadura del Rin–Mosa",
+          "environmentId": "rio-rin-mosa"
+        }
+      ]
     }
   ]
 }

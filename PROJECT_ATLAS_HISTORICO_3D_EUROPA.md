@@ -201,3 +201,5 @@ La entrada 1.12 añade una comparación complementaria de 9000–7000 a. C., dif
 ### Continuación acordada de las poblaciones
 
 La selección comprende ahora tres casos, con Cheddar Man como ejemplo del oeste de Europa. La incorporación de agricultura y comunidades anatolias queda pendiente del mapa complementario que aportará el propietario. Recordar este asunto al recibirlo.
+
+La colección de poblaciones de 1.12 se amplía a cinco tarjetas con Zvejnieki y Vasylivka. Cada caso conserva fechas y fuentes identificadas por versión. La agricultura sigue pendiente del mapa complementario.

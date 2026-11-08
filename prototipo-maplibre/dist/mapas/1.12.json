@@ -603,6 +603,29 @@
       "title": "Natural History Museum · Cheddar Man FAQ",
       "reference": "Dos dataciones de radiocarbono sitúan a Cheddar Man hace unos 10.000 años. El visor expresa esta antigüedad como hacia 8000 a. C., de forma aproximada, sin atribuir un intervalo calibrado preciso. Posición orientativa de Gough’s Cave.",
       "url": "https://www.nhm.ac.uk/our-science/research/projects/human-adaptation-diet-disease/cheddar-man-faq.html"
+    },
+    {
+      "title": "Mathieson y colaboradores · The genomic history of southeastern Europe",
+      "edition": "Nature 555, 197–203 (2018).",
+      "reference": "Parentescos de los cazadores-recolectores de Zvejnieki y del actual territorio de Ucrania. Se emplean como ejemplos I4630, I1819 e I1763. Las fechas y coordenadas se cotejan con el catálogo de muestras identificado por versión.",
+      "url": "https://doi.org/10.1038/nature25778"
+    },
+    {
+      "title": "Poseidon Community Archive · 2018_MathiesonNature",
+      "edition": "Metadatos derivados del estudio y AADR v424. Archivo fijado en la revisión 7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168.",
+      "reference": "I4630, Zvejnieki, 7465–7078 a. C., R1b1a1a(xR1b1a1a2). I1819, Vasil’evka, 8825–8561 a. C., R1a. I1763, Vasil’evka, 8280–7967 a. C., I2a1. Fechas de los campos Date_BC_AD_Start y Stop, tipo C14. Las ubicaciones del visor se contrastan por separado con fuentes patrimoniales y arqueológicas.",
+      "url": "https://github.com/poseidon-framework/community-archive/blob/7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168/2018_MathiesonNature/2018_MathiesonNature.janno"
+    },
+    {
+      "title": "Burtnieku novads · Akmens laikmeta zvejnieku apmetne",
+      "reference": "Referencia patrimonial de Zvejnieki, a orillas del lago Burtnieks. Coordenadas publicadas 57.7701577 N, 25.2389746 E, utilizadas como referencia del conjunto. Se evita la ubicación discordante del catálogo genético.",
+      "url": "https://www.burtniekunovads.lv/akmens-laikmeta-zvejnieku-apmetne/"
+    },
+    {
+      "title": "L. L. Zalizniak · Mezolitychni mohylnyky",
+      "edition": "Encyclopedia of Modern Ukraine, Academia Nacional de Ciencias de Ucrania, 2018, actualización 2025.",
+      "reference": "Identifica los cementerios mesolíticos de Vasylivka en el distrito de Synelnykove, región de Dnipropetrovsk. El visor usa una referencia regional redondeada de los rápidos del Dniéper (35.2 E, 48.2 N), no la ciudad homónima de Zaporizhzhia indicada por las coordenadas del catálogo genético.",
+      "url": "https://esu.com.ua/article-66140"
     }
   ],
   "places": [
@@ -6744,7 +6767,7 @@
       "title": "Poblaciones hacia 9000–7000 a. C.",
       "heading": "Parentescos entre poblaciones mesolíticas",
       "date": "9000–7000 a. C. · comparación complementaria",
-      "text": "Pulsa las tarjetas del mapa para explorar los hallazgos de ADN antiguo. Esta selección presenta ejemplos documentados del oeste y el sur de Europa y de Escandinavia. Las fechas de cada muestra aparecen en su ficha. Los parentescos genéticos ayudan a reconstruir contactos y movimientos entre personas. Un haplogrupo sigue una línea materna o paterna dentro de esa historia. El intervalo amplía la comparación más allá del final de 8000 a. C. del mapa principal.",
+      "text": "Pulsa las tarjetas del mapa para explorar los hallazgos de ADN antiguo. Esta selección presenta ejemplos documentados del oeste, sur y este de Europa, Escandinavia y el Báltico. Las fechas de cada muestra aparecen en su ficha. Los parentescos genéticos ayudan a reconstruir contactos y movimientos entre personas. Un haplogrupo sigue una línea materna o paterna dentro de esa historia. El intervalo amplía la comparación más allá del final de 8000 a. C. del mapa principal.",
       "color": "#d5b4f2",
       "group": "Poblaciones y desplazamientos",
       "populationCards": [
@@ -6814,6 +6837,54 @@
             {
               "id": "Cheddar Man · Gough’s Cave",
               "date": "Hace unos 10.000 años · hacia 8000 a. C."
+            }
+          ]
+        },
+        {
+          "id": "mesolitico-baltico",
+          "title": "Báltico oriental",
+          "subtitle": "Zvejnieki · cazadores-recolectores de Letonia",
+          "coordinates": [
+            25.2389746,
+            57.7701577
+          ],
+          "date": "7465–7078 a. C.",
+          "text": "Los restos de Zvejnieki permiten estudiar a quienes vivieron en el Báltico oriental. El ADN de los cazadores-recolectores del yacimiento muestra parentescos con poblaciones occidentales y orientales. Aquí seguimos a una persona cuya fecha entra en nuestro intervalo.",
+          "evidence": "La muestra I4630 tiene una datación por radiocarbono publicada en el catálogo entre 7465 y 7078 a. C. El marcador señala la referencia patrimonial del conjunto de Zvejnieki junto al lago Burtnieks.",
+          "genetics": "El catálogo asigna a I4630 un linaje paterno de la familia R1b. Ese dato sigue una sola línea de ascendencia. El análisis del conjunto del ADN ayuda a estudiar relaciones más amplias entre personas y poblaciones.",
+          "sourceUrl": "https://doi.org/10.1038/nature25778",
+          "sourceLabel": "Mathieson y colaboradores, 2018",
+          "sampleSourceUrl": "https://github.com/poseidon-framework/community-archive/blob/7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168/2018_MathiesonNature/2018_MathiesonNature.janno",
+          "samples": [
+            {
+              "id": "I4630 · Zvejnieki",
+              "date": "7465–7078 a. C."
+            }
+          ]
+        },
+        {
+          "id": "mesolitico-dnieper",
+          "title": "Europa oriental",
+          "subtitle": "Vasylivka · poblaciones del Dniéper",
+          "coordinates": [
+            35.2,
+            48.2
+          ],
+          "date": "8825–8561 y 8280–7967 a. C.",
+          "text": "Los yacimientos del Dniéper aportan información sobre los cazadores-recolectores de Europa oriental. Las personas estudiadas muestran parentescos genéticos que ayudan a relacionar esta región con otras partes de Europa. Dos muestras de Vasylivka ilustran momentos distintos del período.",
+          "evidence": "Se incluyen I1819 e I1763, con intervalos de radiocarbono dentro de 9000–7000 a. C. El marcador es una referencia regional de los yacimientos de Vasylivka en los antiguos rápidos del Dniéper, al sur de Dnipró.",
+          "genetics": "El catálogo asigna a I1819 el linaje paterno R1a y a I1763 el I2a1. Son resultados de dos personas de fechas diferentes. Para reconstruir la historia de la población se comparan muchas muestras y el conjunto de su ADN.",
+          "sourceUrl": "https://doi.org/10.1038/nature25778",
+          "sourceLabel": "Mathieson y colaboradores, 2018",
+          "sampleSourceUrl": "https://github.com/poseidon-framework/community-archive/blob/7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168/2018_MathiesonNature/2018_MathiesonNature.janno",
+          "samples": [
+            {
+              "id": "I1819 · Vasylivka",
+              "date": "8825–8561 a. C."
+            },
+            {
+              "id": "I1763 · Vasylivka",
+              "date": "8280–7967 a. C."
             }
           ]
         }

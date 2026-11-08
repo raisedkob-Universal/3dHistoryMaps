@@ -124,7 +124,7 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
   let highlightedSymbol;
   const selectedLayers = new Set();
   const layerButtons = [];
-  const layers = environments;
+  const layers = environments.filter(entry => entry.areas?.length || entry.raster);
   function renderLayers() {
     const selected = [...selectedLayers];
     showCultureAreas(selected.flatMap(entry => entry.areas ?? []), selected.find(entry => entry.raster)?.raster);
@@ -172,6 +172,12 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
     option.style.setProperty('--tono-hielo', entry.color);
     option.textContent = title;
     option.setAttribute('aria-pressed', 'false');
+    if (!entry.areas?.length && !entry.raster) {
+      option.textContent += ' · explicación';
+      option.onclick = () => showEntry(option, { ...entry, title: entry.heading ?? entry.title });
+      options.append(option);
+      return;
+    }
     option.onclick = () => {
       if (selectedLayers.has(entry)) selectedLayers.delete(entry);
       else selectedLayers.add(entry);

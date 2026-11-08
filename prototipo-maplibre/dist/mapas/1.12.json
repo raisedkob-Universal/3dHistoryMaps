@@ -545,6 +545,18 @@
       "title": "Vindija · referencia geográfica",
       "url": "https://mapcarta.com/N7925240742",
       "reference": "Coordenada de referencia redondeada."
+    },
+    {
+      "title": "Stroeven y colaboradores · Deglaciation of Fennoscandia",
+      "edition": "Quaternary Science Reviews 147, 2016, pp. 91–121.",
+      "reference": "Cronología de la retirada final del manto escandinavo, después de 9700 años calibrados BP. Consulta bibliográfica para contextualizar la referencia de 7000 a. C. del atlas.",
+      "url": "https://bolin.su.se/data/stroeven-2016-deglaciation-1"
+    },
+    {
+      "title": "Qiu y colaboradores · Modelling northern peatland area and carbon dynamics since the Holocene",
+      "edition": "Geoscientific Model Development 12, 2019. Suplemento, texto S6, p. 8 del PDF.",
+      "reference": "Síntesis de DATED-1 que sitúa la desaparición propuesta del manto escandinavo hacia 9000 años BP o algo antes, aproximadamente 7050 a. C. Apoya la explicación didáctica cercana a 7000 a. C., con fecha aproximada.",
+      "url": "https://gmd.copernicus.org/articles/12/2961/2019/gmd-12-2961-2019-supplement.pdf"
     }
   ],
   "places": [
@@ -6059,6 +6071,16 @@
       "group": "Hielo"
     },
     {
+      "id": "hielo-7000",
+      "title": "Hacia 7000 a. C. · final del gran manto",
+      "heading": "Europa tras la retirada del hielo",
+      "date": "Hacia 7000 a. C.",
+      "text": "El enorme manto de hielo que cubría gran parte de Escandinavia se había reducido hasta desaparecer aproximadamente por estas fechas, según las reconstrucciones consultadas. Su retirada dejó al descubierto nuevas tierras que fueron ocupando plantas, animales y grupos humanos. Los glaciares de montaña tienen una historia diferente. Esta ficha explica el cambio y permite compararlo con las capas de hielo anteriores.",
+      "color": "#e6f3ff",
+      "group": "Hielo",
+      "areas": []
+    },
+    {
       "id": "bosque-18000",
       "title": "Límite de bosque · hace unos 18.000 años",
       "date": "Hace unos 18.000 años",
@@ -6552,6 +6574,10 @@
         {
           "label": "Hace 10.000 años BP",
           "environmentId": "hielo-10ka"
+        },
+        {
+          "label": "Hacia 7000 a. C.",
+          "environmentId": "hielo-7000"
         }
       ]
     },

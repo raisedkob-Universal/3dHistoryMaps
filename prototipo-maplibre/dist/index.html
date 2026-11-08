@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Europa · Prueba MapLibre</title>
+  <link rel="stylesheet" href="./maplibre/maplibre-gl.css">
+  <link rel="stylesheet" href="./atlas.css?v=28">
+</head>
+<body data-mapa="1.12">
+  <main id="mapa" aria-label="Mapa de Europa con relieve"></main>
+  <header><small>ATLAS HISTÓRICO 3D</small><h1>Europa</h1><span id="nombre-mapa"></span>
+    <button id="abrir-mapas" type="button" aria-haspopup="dialog">Mapas</button>
+  </header>
+  <dialog id="selector-mapas" class="selector-mapas" aria-labelledby="titulo-mapas">
+    <form method="dialog"><button type="submit" aria-label="Cerrar selector">×</button></form>
+    <h2 id="titulo-mapas">Mapas de Europa</h2>
+    <label for="buscar-mapas">Buscar por título o código</label>
+    <input id="buscar-mapas" type="search" autocomplete="off">
+    <p id="estado-mapas" role="status"></p>
+    <div id="catalogo-mapas"></div>
+  </dialog>
+  <nav class="vistas" aria-label="Vistas del mapa">
+    <button id="perspectiva" type="button" aria-pressed="true" disabled>Perspectiva</button>
+    <button id="cenital" type="button" aria-pressed="false" disabled>Cenital</button>
+  </nav>
+  <details class="leyenda" id="leyenda">
+    <summary>Leyenda</summary>
+    <div id="simbolos" class="simbolos"></div>
+  </details>
+  <details class="hitos-mapa">
+    <summary>Claves del mapa</summary>
+    <div class="hitos-contenido">
+      <div id="claves-mapa"></div>
+      <details id="lecturas-mapa" class="lecturas-mapa">
+        <summary>Más sobre los lugares</summary>
+        <p id="introduccion-hitos"></p>
+        <ol id="notas-mapa"></ol>
+      </details>
+    </div>
+  </details>
+  <details class="cronologia" aria-labelledby="titulo-cronologia">
+    <summary id="titulo-cronologia">Cronología</summary>
+    <details class="culturas" id="culturas" hidden>
+      <summary>Culturas</summary>
+      <p>Pulsa una cultura para ver sus zonas orientativas. Las bandas no están a escala.</p>
+      <div class="bandas-scroll"><div id="bandas-culturales" class="bandas-culturales"></div></div>
+    </details>
+    <div class="cronologia-scroll"><div id="franjas" class="franjas"></div></div>
+  </details>
+  <section id="ficha" class="ficha" aria-labelledby="titulo-ficha" hidden>
+    <button id="cerrar-ficha" type="button" aria-label="Cerrar ficha">×</button>
+    <h2 id="titulo-ficha"></h2>
+    <p id="texto-ficha"></p>
+    <p id="enlace-ficha"></p>
+  </section>
+  <dialog class="bibliografia" id="bibliografia" aria-labelledby="titulo-bibliografia">
+    <form method="dialog"><button type="submit" aria-label="Cerrar bibliografía">×</button></form>
+    <div class="bibliografia-contenido">
+      <h2 id="titulo-bibliografia">Bibliografía</h2>
+      <div id="fuentes-mapa"></div>
+    </div>
+  </dialog>
+  <p id="estado" role="status">Cargando el terreno…</p>
+  <script src="./maplibre/maplibre-gl.js"></script>
+  <script src="./atlas.js?v=24"></script>
+  <script src="./historia.js?v=25"></script>
+</body>
+</html>

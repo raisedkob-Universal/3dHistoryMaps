@@ -1,0 +1,375 @@
+[
+  {
+    "title": "Antigüedad y mundo clásico",
+    "maps": [
+      {
+        "id": "1.12",
+        "title": "Paleolítico Superior en Europa",
+        "period": "35000–5000 a. C.",
+        "available": true
+      },
+      {
+        "id": "1.13",
+        "title": "Neolítico en Europa",
+        "period": "5000–2000 a. C.",
+        "available": false
+      },
+      {
+        "id": "1.14",
+        "title": "Edad de Bronce en Europa",
+        "period": "2000–500 a. C.",
+        "available": false
+      },
+      {
+        "id": "1.15",
+        "title": "Las primeras civilizaciones del Mediterráneo",
+        "period": "2000–1100 a. C.",
+        "available": false
+      },
+      {
+        "id": "1.16",
+        "title": "La expansión fenicia y griega en el Mediterráneo",
+        "period": "900–500 a. C.",
+        "available": false
+      },
+      {
+        "id": "1.17",
+        "title": "La creación de ciudades-estado griegas",
+        "period": "1100–500 a. C.",
+        "available": false
+      },
+      {
+        "id": "1.18",
+        "title": "Etruscos, griegos y cartagineses",
+        "period": "800–480 a. C.",
+        "available": false
+      },
+      {
+        "id": "2.01",
+        "title": "Las Guerras Médicas y la Grecia del siglo V",
+        "period": "499–435 a. C.",
+        "available": false
+      },
+      {
+        "id": "2.02",
+        "title": "La Guerra del Peloponeso y el auge de Macedonia",
+        "period": "435–336 a. C.",
+        "available": false
+      },
+      {
+        "id": "2.03",
+        "title": "Las conquistas de Alejandro Magno",
+        "period": "336–300 a. C.",
+        "available": false
+      },
+      {
+        "id": "2.04",
+        "title": "El mundo helenístico",
+        "period": "301–30 a. C.",
+        "available": false
+      },
+      {
+        "id": "2.06",
+        "title": "La Roma republicana y las Guerras Púnicas",
+        "period": "509–201 a. C.",
+        "available": false
+      },
+      {
+        "id": "2.07",
+        "title": "La expansión del Imperio romano",
+        "period": "201 a. C.–117 d. C.",
+        "available": false
+      },
+      {
+        "id": "2.08",
+        "title": "Economía y sociedad del Imperio romano",
+        "period": "27 a. C.–305 d. C.",
+        "available": false
+      },
+      {
+        "id": "2.09",
+        "title": "Crisis y recuperación del Imperio romano",
+        "period": "117–376 d. C.",
+        "available": false
+      },
+      {
+        "id": "2.10",
+        "title": "La caída del Imperio romano de Occidente",
+        "period": "376–480 d. C.",
+        "available": false
+      },
+      {
+        "id": "2.11",
+        "title": "Justiniano y los orígenes del Imperio bizantino",
+        "period": "480–629 d. C.",
+        "available": false
+      },
+      {
+        "id": "2.12",
+        "title": "Los celtas",
+        "period": "500 a. C.–600 d. C.",
+        "available": false
+      },
+      {
+        "id": "2.13",
+        "title": "Los germanos y los eslavos",
+        "period": "750 a. C.–600 d. C.",
+        "available": false
+      },
+      {
+        "id": "2.14",
+        "title": "Los nómadas de la estepa",
+        "period": "900 a. C.–600 d. C.",
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Edad Media",
+    "maps": [
+      {
+        "id": "3.01",
+        "title": "El auge del Imperio carolingio",
+        "period": "600–814",
+        "available": false
+      },
+      {
+        "id": "3.02",
+        "title": "La Europa de los vikingos",
+        "period": "793–1050",
+        "available": false
+      },
+      {
+        "id": "3.03",
+        "title": "La Europa feudal",
+        "period": "1050–1300",
+        "available": false
+      },
+      {
+        "id": "3.04",
+        "title": "Religión en la Europa medieval",
+        "period": "800–1300",
+        "available": false
+      },
+      {
+        "id": "3.05",
+        "title": "Guerras, revueltas y plagas en la Europa del siglo XIV",
+        "period": "1300–1400",
+        "available": false
+      },
+      {
+        "id": "3.06",
+        "title": "La economía de la Europa medieval",
+        "period": "1000–1500",
+        "available": false
+      },
+      {
+        "id": "3.07",
+        "title": "La Europa del Renacimiento",
+        "period": "1400–1492",
+        "available": false
+      },
+      {
+        "id": "3.08",
+        "title": "Las grandes conquistas árabes",
+        "period": "632–750",
+        "available": false
+      },
+      {
+        "id": "3.09",
+        "title": "El mundo árabe dividido",
+        "period": "750–1037",
+        "available": false
+      },
+      {
+        "id": "3.10",
+        "title": "El Imperio bizantino",
+        "period": "610–1204",
+        "available": false
+      },
+      {
+        "id": "3.11",
+        "title": "Los imperios turcos medievales",
+        "period": "1038–1492",
+        "available": false
+      },
+      {
+        "id": "3.12",
+        "title": "Las Cruzadas",
+        "period": "1096–1291",
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Edad Moderna",
+    "maps": [
+      {
+        "id": "4.01",
+        "title": "La Europa de la Reforma",
+        "period": "1492–1560",
+        "available": false
+      },
+      {
+        "id": "4.02",
+        "title": "La Europa de la Contrarreforma",
+        "period": "1560–1600",
+        "available": false
+      },
+      {
+        "id": "4.03",
+        "title": "La apuesta de Suecia por el dominio del Báltico",
+        "period": "1561–1721",
+        "available": false
+      },
+      {
+        "id": "4.04",
+        "title": "Europa en el período de la Guerra de los Treinta Años",
+        "period": "1600–1648",
+        "available": false
+      },
+      {
+        "id": "4.05",
+        "title": "Europa durante el reinado de Luis XIV",
+        "period": "1648–1715",
+        "available": false
+      },
+      {
+        "id": "4.06",
+        "title": "Desarrollo económico europeo",
+        "period": "1492–1783",
+        "available": false
+      },
+      {
+        "id": "4.07",
+        "title": "La expansión de Rusia",
+        "period": "1492–1783",
+        "available": false
+      },
+      {
+        "id": "4.08",
+        "title": "Europa en el Antiguo Régimen",
+        "period": "1715–1783",
+        "available": false
+      },
+      {
+        "id": "4.09",
+        "title": "El auge del Imperio otomano",
+        "period": "1492–1640",
+        "available": false
+      },
+      {
+        "id": "4.10",
+        "title": "El declive del Imperio otomano",
+        "period": "1640–1783",
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Siglo XIX",
+    "maps": [
+      {
+        "id": "5.01",
+        "title": "Europa en la era de la revolución",
+        "period": "1783–1800",
+        "available": false
+      },
+      {
+        "id": "5.02",
+        "title": "La Europa napoleónica",
+        "period": "1800–1815",
+        "available": false
+      },
+      {
+        "id": "5.03",
+        "title": "Aumento de los nacionalismos en Europa",
+        "period": "1815–1871",
+        "available": false
+      },
+      {
+        "id": "5.04",
+        "title": "La Revolución Industrial en Europa",
+        "period": "1783–1914",
+        "available": false
+      },
+      {
+        "id": "5.05",
+        "title": "La unificación de Alemania",
+        "period": "1848–1871",
+        "available": false
+      },
+      {
+        "id": "5.06",
+        "title": "El Imperio ruso",
+        "period": "1783–1917",
+        "available": false
+      },
+      {
+        "id": "5.07",
+        "title": "El sistema de alianzas europeas",
+        "period": "1871–1914",
+        "available": false
+      },
+      {
+        "id": "5.08",
+        "title": "El declive del poder otomano",
+        "period": "1783–1923",
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Siglos XX y XXI",
+    "maps": [
+      {
+        "id": "6.01",
+        "title": "Primera Guerra Mundial",
+        "period": "1914–1918",
+        "available": false
+      },
+      {
+        "id": "6.02",
+        "title": "Europa en el período de entreguerras",
+        "period": "1918–1939",
+        "available": false
+      },
+      {
+        "id": "6.03",
+        "title": "Segunda Guerra Mundial en Europa",
+        "period": "1939–1942",
+        "available": false
+      },
+      {
+        "id": "6.04",
+        "title": "Segunda Guerra Mundial en Europa",
+        "period": "1942–1945",
+        "available": false
+      },
+      {
+        "id": "6.05",
+        "title": "Europa dividida",
+        "period": "1945–1989",
+        "available": false
+      },
+      {
+        "id": "6.06",
+        "title": "Europa después de la Guerra Fría",
+        "period": "1989–siglo XXI",
+        "available": false
+      },
+      {
+        "id": "6.10",
+        "title": "La creación de la Unión Soviética",
+        "period": "1917–1941",
+        "available": false
+      },
+      {
+        "id": "6.11",
+        "title": "El declive de la Unión Soviética y de Rusia",
+        "period": "1941–siglo XXI",
+        "available": false
+      }
+    ]
+  }
+]

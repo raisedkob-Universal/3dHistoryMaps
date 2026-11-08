@@ -1,0 +1,6715 @@
+{
+  "id": "1.12",
+  "title": "Paleolítico Superior en Europa",
+  "legendStatus": "Yacimientos, culturas, hielo, vegetación y desplazamientos disponibles.",
+  "legend": [
+    [
+      "Paleolítico Superior",
+      [
+        [
+          "area-levante",
+          "Cultura auriñaciense levantina"
+        ],
+        [
+          "area",
+          "Cultura auriñaciense"
+        ],
+        [
+          "cueva",
+          "Cueva"
+        ],
+        [
+          "arte",
+          "Cueva con pinturas rupestres"
+        ],
+        [
+          "punto",
+          "Lugar al aire libre"
+        ],
+        [
+          "estructura",
+          "Lugar al aire libre con construcciones"
+        ],
+        [
+          "venus",
+          "Figurilla de Venus"
+        ],
+        [
+          "grabados",
+          "Grabados rupestres al aire libre"
+        ],
+        [
+          "plaquetas",
+          "Plaquetas con arte portátil"
+        ]
+      ]
+    ],
+    [
+      "Mesolítico",
+      [
+        [
+          "asentamiento",
+          "Asentamiento principal"
+        ],
+        [
+          "concha",
+          "Lugar con restos de conchas"
+        ],
+        [
+          "cementerio",
+          "Cementerio mesolítico · símbolo añadido"
+        ]
+      ]
+    ],
+    [
+      "Hielo y bosques",
+      [
+        [
+          "hielo-max",
+          "Máxima extensión del hielo · hace c. 18.000 años"
+        ],
+        [
+          "hielo",
+          "Extensión del hielo · 7000 a. C.",
+          "hielo-7000"
+        ],
+        [
+          "limite",
+          "Límite norte de bosques caducifolios · hace c. 18.000 años"
+        ],
+        [
+          "limite-reciente",
+          "Límite norte de bosques caducifolios · 7000 a. C."
+        ]
+      ]
+    ],
+    [
+      "Migración",
+      [
+        [
+          "ruta",
+          "Migración desde Oriente Medio · hace c. 40.000 años"
+        ]
+      ]
+    ],
+    [
+      "Ríos antiguos",
+      [
+        [
+          "rio",
+          "Antiguo curso del Támesis y del Rin · 7000 a. C."
+        ]
+      ]
+    ],
+    [
+      "Neandertales",
+      [
+        [
+          "neandertal",
+          "Yacimiento con presencia neandertal"
+        ]
+      ]
+    ]
+  ],
+  "chronology": [
+    {
+      "title": "Cultura",
+      "entries": [
+        {
+          "start": -41000,
+          "end": -41000,
+          "date": "c. 41.000 a. C.",
+          "title": "Herramientas con cuchillas",
+          "text": "Introducción de esta tecnología en Europa."
+        },
+        {
+          "start": -30000,
+          "end": -30000,
+          "date": "c. 30.000 a. C.",
+          "title": "Primeras pinturas rupestres",
+          "text": "En el suroeste de Francia y el norte de España."
+        },
+        {
+          "start": -25000,
+          "end": -22000,
+          "date": "25.000–22.000 a. C.",
+          "title": "Figurillas de Venus",
+          "text": "Hallazgos documentados desde España hasta Rusia."
+        },
+        {
+          "start": -20000,
+          "end": -20000,
+          "date": "c. 20.000 a. C.",
+          "title": "Técnica de presión y descamación",
+          "text": "Introducción de la técnica para fabricar herramientas."
+        },
+        {
+          "start": -17000,
+          "end": -17000,
+          "date": "17.000 a. C.",
+          "title": "Pinturas de Lascaux",
+          "text": "Pinturas rupestres de Lascaux, Francia.",
+          "placeId": "lascaux"
+        },
+        {
+          "start": -16000,
+          "end": -16000,
+          "date": "16.000 a. C.",
+          "title": "Herramientas microlíticas",
+          "text": "Desarrollo de las herramientas microlíticas."
+        },
+        {
+          "start": -14000,
+          "end": -14000,
+          "date": "14.000 a. C.",
+          "title": "Pinturas de Altamira",
+          "text": "Pinturas rupestres de Altamira, España.",
+          "placeId": "altamira"
+        },
+        {
+          "start": -8000,
+          "end": -8000,
+          "date": "8000 a. C.",
+          "title": "Transición hacia la agricultura",
+          "text": "Inicio de la transición en el sureste de Europa."
+        }
+      ]
+    },
+    {
+      "title": "Cambios físicos",
+      "entries": [
+        {
+          "start": -40000,
+          "end": -40000,
+          "date": "c. 40.000 a. C.",
+          "title": "Humanos anatómicamente modernos",
+          "text": "Aparición en Europa en torno a esta fecha."
+        },
+        {
+          "start": -28000,
+          "end": -28000,
+          "date": "c. 28.000 a. C.",
+          "title": "Últimos neandertales",
+          "text": "Datación de referencia para la desaparición de los últimos neandertales en España."
+        },
+        {
+          "start": -18000,
+          "end": -15000,
+          "date": "18.000–15.000 a. C.",
+          "title": "Fase más gélida",
+          "text": "Fase más gélida de la glaciación."
+        },
+        {
+          "start": -10000,
+          "end": -10000,
+          "date": "10.000 a. C.",
+          "title": "Fin de la última glaciación",
+          "text": "Fecha de referencia para el final de la última glaciación."
+        },
+        {
+          "start": -7000,
+          "end": -7000,
+          "date": "7000 a. C.",
+          "title": "Extensión de la capa de hielo",
+          "text": "Extensión del hielo representada para esta fecha.",
+          "association": "Fecha del atlas. La comparación disponible usa 18.000 y 10.000 años BP.",
+          "legendId": "hielo-7000"
+        }
+      ]
+    }
+  ],
+  "notesIntro": "Ocho notas para interpretar el mapa.",
+  "notes": [
+    {
+      "heading": "Suroeste de Francia.",
+      "body": "Los bosques aportaban combustible. Los valles protegidos, las cuevas y las rutas de los animales ayudan a explicar la concentración de población."
+    },
+    {
+      "heading": "Solutré y Předmostí.",
+      "body": "Los campamentos temporales facilitaban la caza especializada. En Solutré se cazaban caballos y en Předmostí, mamuts.",
+      "placeIds": [
+        "solutre",
+        "predmosti"
+      ]
+    },
+    {
+      "heading": "Vallon-Pont-d’Arc.",
+      "body": "En 1994 se descubrieron pinturas de animales, entre ellos rinocerontes lanudos y caballos. Se datan aproximadamente en hace 30.000 años.",
+      "placeIds": [
+        "chauvet"
+      ]
+    },
+    {
+      "heading": "Mezhyrich.",
+      "body": "En la actual Ucrania se conservan restos de viviendas construidas con huesos de mamut. Se datan en unos 18.000 años de antigüedad.",
+      "placeIds": [
+        "mezhyrich"
+      ]
+    },
+    {
+      "heading": "Lepenski Vir.",
+      "body": "En este asentamiento mesolítico aparecieron esculturas con rasgos de pez. Una posible interpretación es que tuvieran un significado religioso.",
+      "placeIds": [
+        "lepenski-vir"
+      ]
+    },
+    {
+      "heading": "Dinamarca.",
+      "body": "La cercanía de recursos marinos, fluviales y terrestres favoreció una alta densidad de población durante el Mesolítico.",
+      "placeIds": [
+        "ertebolle"
+      ]
+    },
+    {
+      "heading": "Cabeço da Arruda y Olenostrovski.",
+      "body": "Los dos lugares conservan enterramientos mesolíticos. Su datación se estudia por separado.",
+      "placeIds": [
+        "cabeco-arruda",
+        "oleniy-ostrov"
+      ]
+    },
+    {
+      "heading": "Oronsay.",
+      "body": "Los concheros de la isla conservan restos de la pesca y la recogida de moluscos durante el Mesolítico.",
+      "placeIds": [
+        "oronsay"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "La historia del mundo en mapas: atlas ilustrado",
+      "edition": "Madrid, Susaeta Ediciones, 2017.",
+      "reference": "Entrada 1.12, «Paleolítico Superior en Europa», p. 58 y siguiente. Referencia para la leyenda, la cronología y las notas del mapa.",
+      "url": "https://archive.org/details/lahistoriadelmun0000unse/page/n35/mode/2up",
+      "linkLabel": "Consultar la edición en Internet Archive"
+    },
+    {
+      "title": "UNESCO · Altamira",
+      "url": "https://whc.unesco.org/en/list/310/maps/",
+      "reference": "Coordenadas de Altamira, Tito Bustillo, El Pindal, El Castillo y Santimamiñe."
+    },
+    {
+      "title": "UNESCO · Valle del Vézère",
+      "url": "https://whc.unesco.org/document/199889",
+      "reference": "Coordenadas de Lascaux, Cro-Magnon y La Madeleine. Incluye las coordenadas de Font-de-Gaume."
+    },
+    {
+      "title": "UNESCO · Cueva de Chauvet",
+      "url": "https://whc.unesco.org/en/list/1426/maps/",
+      "reference": "Coordenadas de la cueva de Chauvet."
+    },
+    {
+      "title": "Journal of Archaeological Science · Mezhyrich",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440311003268",
+      "reference": "Localización aproximada del yacimiento."
+    },
+    {
+      "title": "Scientific Reports · Lepenski Vir",
+      "url": "https://www.nature.com/articles/s41598-018-31884-7",
+      "reference": "Localización aproximada y contexto arqueológico."
+    },
+    {
+      "title": "Solutré",
+      "url": "https://reservation.rochedesolutre.com/paleo-gestes-tailler-la-pierre-de-neandertal-a-sapiens.html",
+      "reference": "Ubicación de referencia del yacimiento de Solutré."
+    },
+    {
+      "title": "Předmostí",
+      "url": "https://www.archeologickyatlas.cz/cs/lokace/predmosti_pr_paleoliticka_stanice",
+      "reference": "Punto de referencia y hallazgos de Předmostí."
+    },
+    {
+      "title": "Cabeço da Arruda",
+      "url": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=342923",
+      "reference": "Inventario patrimonial portugués de los concheros de Muge."
+    },
+    {
+      "title": "Yuzhniy Oleniy Ostrov",
+      "url": "https://doi.org/10.1007/s12520-026-02437-1",
+      "reference": "Localización y cronología revisada del cementerio del lago Onega."
+    },
+    {
+      "title": "Oronsay",
+      "url": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,SM13655",
+      "reference": "Registro de Historic Environment Scotland del conchero de Cnoc Coig."
+    },
+    {
+      "title": "Estudio de Cnoc Coig, Universidad de Sheffield",
+      "url": "https://etheses.whiterose.ac.uk/5991/3/DX185512_1.1.pdf",
+      "reference": "Coordenadas aproximadas de la isla de Oronsay."
+    },
+    {
+      "title": "Muge 150th · trabajos arqueológicos",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=7538caf672372282ff6268d8e7b75db7e78128d5&repid=rep1&type=pdf",
+      "reference": "Localización aproximada del conchero de Cabeço da Arruda."
+    },
+    {
+      "title": "Arte rupestre del valle del Côa y Siega Verde",
+      "reference": "Coordenada orientativa publicada para el sector portugués.",
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_Rock_Art_Sites_in_the_C%C3%B4a_Valley_and_Siega_Verde"
+    },
+    {
+      "title": "Cova del Parpalló",
+      "reference": "Coordenadas publicadas de la cueva y descripción de los hallazgos.",
+      "url": "https://ca.wikipedia.org/wiki/Cova_del_Parpall%C3%B3"
+    },
+    {
+      "title": "Distribución arqueológica · Musteriense",
+      "reference": "Referencia para situar las zonas orientativas de presencia.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13037871/"
+    },
+    {
+      "title": "Distribución arqueológica · Chatelperroniense",
+      "reference": "Referencia para situar las zonas orientativas de presencia.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11700062/"
+    },
+    {
+      "title": "Distribución arqueológica · Gravetiense",
+      "reference": "Referencia para situar las zonas orientativas de presencia.",
+      "url": "https://www.nature.com/articles/s41562-023-01803-6"
+    },
+    {
+      "title": "Distribución arqueológica · Solutrense",
+      "reference": "Referencia para situar las zonas orientativas de presencia.",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0217996"
+    },
+    {
+      "title": "Distribución arqueológica · Magdaleniense",
+      "reference": "Referencia para situar las zonas orientativas de presencia.",
+      "url": "https://www.nature.com/articles/s41586-023-05726-0"
+    },
+    {
+      "title": "Willendorf",
+      "reference": "Coordenadas de Willendorf II.",
+      "url": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.599491/full"
+    },
+    {
+      "title": "Dolní Věstonice",
+      "reference": "Ubicación de referencia y hallazgos del conjunto.",
+      "url": "https://www.archeologickyatlas.cz/cs/lokace/dolni_vestonice_bv_paleolit"
+    },
+    {
+      "title": "Vogelherd",
+      "reference": "Coordenadas de la cueva en la candidatura a Patrimonio Mundial. Incluye las coordenadas de Hohle Fels.",
+      "url": "https://whc.unesco.org/document/155786"
+    },
+    {
+      "title": "Star Carr",
+      "reference": "Coordenadas e inventario arqueológico del asentamiento.",
+      "url": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/da408340-d2e7-4cf4-876d-856f2a398c22"
+    },
+    {
+      "title": "Museo de Historia Natural de Viena · Venus de Willendorf",
+      "reference": "Descripción e historia del hallazgo de la figurilla.",
+      "url": "https://www.nhm.at/en/research/prehistory/research/venus-research"
+    },
+    {
+      "title": "Téviec",
+      "reference": "Estudio de los enterramientos de Téviec y Hoëdic.",
+      "url": "https://doi.org/10.2307/j.ctvxrq11h.9"
+    },
+    {
+      "title": "Hoëdic",
+      "reference": "Registro geográfico del conchero de Hoëdic.",
+      "url": "https://www.mas.ncl.ac.uk/~nas13/out/NEST/Deliverables/FEPRE_database01-03-08.pdf"
+    },
+    {
+      "title": "Kostenki · yacimiento 17",
+      "reference": "Coordenadas y descripción de Kostenki 17.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0341816225003133"
+    },
+    {
+      "title": "Sungir",
+      "reference": "Localización y estudio de los enterramientos de Sungir.",
+      "url": "https://doi.org/10.15184/aqy.2017.223"
+    },
+    {
+      "title": "Mount Sandel",
+      "reference": "Registro de excavación y coordenadas publicadas.",
+      "url": "https://excavations.ie/report/1977-79/Derry/0032199/"
+    },
+    {
+      "title": "Châtelperron · Grotte des Fées",
+      "reference": "Referencia geográfica de las cuevas.",
+      "url": "https://fr.wikipedia.org/wiki/Grotte_des_F%C3%A9es_%28Ch%C3%A2telperron%29"
+    },
+    {
+      "title": "Téviec · localización del islote",
+      "reference": "Coordenada orientativa del islote bretón.",
+      "url": "https://fr.wikipedia.org/wiki/T%C3%A9viec"
+    },
+    {
+      "title": "Brassempouy · Grotte du Pape",
+      "reference": "Coordenadas de la Grotte du Pape.",
+      "url": "https://mapcarta.com/fr/N4316746244"
+    },
+    {
+      "title": "Les Trois Frères",
+      "reference": "Localización y referencias de la cueva decorada.",
+      "url": "https://fr.wikipedia.org/wiki/Grotte_des_Trois-Fr%C3%A8res"
+    },
+    {
+      "title": "Lespugue · Grotte des Rideaux",
+      "reference": "Localización de la cueva y documentación del hallazgo.",
+      "url": "https://fr.wikipedia.org/wiki/Grotte_des_Rideaux"
+    },
+    {
+      "title": "Abrigo de Aurignac",
+      "reference": "Localización publicada por la oficina de turismo de Comminges Pyrénées.",
+      "url": "https://www.cirkwi.com/fr/point-interet/3560231-abri-prehistorique-d-aurignac"
+    },
+    {
+      "title": "La Gravette",
+      "reference": "Punto de referencia publicado por Dordoña.",
+      "url": "https://www.cirkwi.com/en/point-interet/2711748-gisement-de-la-gravette"
+    },
+    {
+      "title": "Oban · cueva de MacArthur",
+      "reference": "Inventario patrimonial escocés. Coordenada geográfica publicada en OSGB36, usada como referencia aproximada.",
+      "url": "https://www.trove.scot/place/23066"
+    },
+    {
+      "title": "Paviland · Goat’s Hole",
+      "reference": "Coordenada de referencia de la entrada.",
+      "url": "https://mapcarta.com/N1791830965"
+    },
+    {
+      "title": "Creswell Crags",
+      "reference": "Coordenadas e inventario de Historic England.",
+      "url": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/f9f0046b-a634-48a5-9969-6485a6910e5e"
+    },
+    {
+      "title": "Molodova · yacimiento V",
+      "reference": "Coordenadas aproximadas procedentes de la base Cambridge Stage 3.",
+      "url": "https://www.fossilized.org/memosphere/locality_list_full.php"
+    },
+    {
+      "title": "Ageröd",
+      "reference": "Coordenadas de referencia del área de Ageröd.",
+      "url": "https://www.korpskriften.se/kunskap/plats?id=18573519"
+    },
+    {
+      "title": "Bisovaya · Byzovaya",
+      "reference": "Localización y estudio de las herramientas de Byzovaya.",
+      "url": "https://doi.org/10.1126/science.1203866"
+    },
+    {
+      "title": "PréhistoSite · Brassempouy",
+      "reference": "Descripción del conjunto arqueológico.",
+      "url": "https://www.prehistoire-brassempouy.fr/decouvrir-le-prehistosite/le-site-archeologique-des-grottes-du-pape"
+    },
+    {
+      "title": "Comisión Real de Monumentos de Gales · Paviland",
+      "reference": "Contexto del enterramiento paleolítico.",
+      "url": "https://rcahmw.gov.uk/paviland-cave-gower/"
+    },
+    {
+      "title": "Estudio de los niveles gravetienses de Molodova V",
+      "reference": "Contexto arqueológico del yacimiento.",
+      "url": "https://orbi.uliege.be/bitstream/2268/265785/1/Libois%20-%202021%20-%20Molodovo%20V%20%28Ukraine%29%20Spatial%20and%20Contextual%20Study%20of%20Gravettian%20Levels%2010%2C%209%20%26%208.pdf"
+    },
+    {
+      "title": "Investigación arqueológica de Ageröd I",
+      "reference": "Contexto mesolítico y conservación de los restos.",
+      "url": "https://doi.org/10.1371/journal.pone.0236105"
+    },
+    {
+      "title": "Pincevent · CNRS, UMR Temps",
+      "reference": "Contexto arqueológico y ocupaciones del Magdaleniense final.",
+      "url": "https://umrtemps.cnrs.fr/terrain/pincevent/"
+    },
+    {
+      "title": "Pincevent · localización del yacimiento",
+      "reference": "Coordenadas publicadas para el monumento histórico PA00087013.",
+      "url": "https://www.plan-du-patrimoine.fr/monument-historique/77/la-grande-paroisse/gisement-archeologique-de-pincevent/PA00087013/"
+    },
+    {
+      "title": "Datación directa del niño de Lapedo",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11887806/",
+      "reference": "Coordenadas WGS 84 del abrigo y contexto arqueológico."
+    },
+    {
+      "title": "Centro de la Edad de Piedra de Ertebølle",
+      "url": "https://retold.eu/museums/stenaldercentret-ertebolle-dk",
+      "reference": "Ubicación de referencia y contexto del conchero danés."
+    },
+    {
+      "title": "Movilidad mesolítica en Escandinavia",
+      "url": "https://link.springer.com/article/10.1007/s12520-022-01640-0",
+      "reference": "Coordenadas y contexto de Skateholm y Norje Sunnansund."
+    },
+    {
+      "title": "Proyecto arqueológico Melkøya",
+      "url": "https://www.antiquity.ac.uk/projgall/ramstad304",
+      "reference": "Excavaciones y ocupaciones de la isla."
+    },
+    {
+      "title": "Kartverket · Melkøya",
+      "url": "https://stadnamn.kartverket.no/fakta/748055",
+      "reference": "Coordenadas oficiales de referencia de la isla."
+    },
+    {
+      "title": "Hughes, Gyllencreutz, Lohne, Mangerud y Svendsen · DATED-1",
+      "edition": "PANGAEA, 2015. CC BY 3.0.",
+      "reference": "Contornos más probables de 18.000 y 10.000 años BP. Convertidos de KML a GeoJSON y simplificados para el visor.",
+      "url": "https://doi.pangaea.de/10.1594/PANGAEA.848117"
+    },
+    {
+      "title": "Reconstrucción del bosque europeo durante el Holoceno",
+      "url": "https://doi.pangaea.de/10.1594/PANGAEA.886656",
+      "reference": "Zanon, Davis, Marquer, Brewer y Kaplan (2018), corte de 9000 años BP. CC BY 3.0. Reproyectado a Mercator y coloreado para el visor."
+    },
+    {
+      "title": "Polen y cobertura arbórea durante el máximo glacial",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5130213/",
+      "reference": "Contexto paleobotánico del máximo glacial. El estudio usa una fecha distinta de la línea del atlas."
+    },
+    {
+      "title": "Modelo de dispersión auriñaciense",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358479/",
+      "reference": "Figura 4. Corredores propuestos para 44–41 ka, esquematizados en el visor."
+    },
+    {
+      "title": "Homo sapiens del Paleolítico Superior inicial en Bacho Kiro",
+      "url": "https://www.nature.com/articles/s41586-020-2259-z",
+      "reference": "Evidencia de presencia temprana de Homo sapiens en el sudeste de Europa."
+    },
+    {
+      "title": "Cronometría de El Sidrón",
+      "url": "https://hal.science/hal-03200074/file/archaeo1.pdf",
+      "reference": "Localización y contexto arqueológico de la cueva."
+    },
+    {
+      "title": "UNESCO · Complejo de Gorham",
+      "url": "https://whc.unesco.org/en/list/1500/maps/",
+      "reference": "Coordenadas del conjunto con evidencias de ocupación neandertal."
+    },
+    {
+      "title": "Datación directa de los restos de Vindija",
+      "url": "https://www.pnas.org/content/pnas/114/40/10606.full.pdf",
+      "reference": "Identificación y datación de restos neandertales."
+    },
+    {
+      "title": "Vindija · referencia geográfica",
+      "url": "https://mapcarta.com/N7925240742",
+      "reference": "Coordenada de referencia redondeada."
+    }
+  ],
+  "places": [
+    {
+      "id": "altamira",
+      "title": "Altamira",
+      "kind": "arte",
+      "coordinates": [
+        -4.119999999999999,
+        43.377
+      ],
+      "text": "Cueva con pinturas rupestres en Cantabria.",
+      "source": "https://whc.unesco.org/en/list/310/maps/"
+    },
+    {
+      "id": "lascaux",
+      "title": "Lascaux",
+      "kind": "arte",
+      "coordinates": [
+        1.1700000000000002,
+        45.05369444444444
+      ],
+      "text": "Cueva con pinturas rupestres en el valle del Vézère.",
+      "source": "https://whc.unesco.org/document/199889"
+    },
+    {
+      "id": "chauvet",
+      "title": "Chauvet · Vallon-Pont-d’Arc",
+      "kind": "arte",
+      "coordinates": [
+        4.416111111111111,
+        44.3875
+      ],
+      "text": "Cueva con pinturas de animales, entre ellos rinocerontes lanudos y caballos.",
+      "source": "https://whc.unesco.org/en/list/1426/maps/"
+    },
+    {
+      "id": "cro-magnon",
+      "title": "Abrigo de Cro-Magnon",
+      "kind": "cueva",
+      "coordinates": [
+        1.009611111111111,
+        44.94044444444444
+      ],
+      "text": "Abrigo rocoso del valle del Vézère.",
+      "source": "https://whc.unesco.org/document/199889"
+    },
+    {
+      "id": "la-madeleine",
+      "title": "Abrigo de La Madeleine",
+      "kind": "cueva",
+      "coordinates": [
+        1.0364166666666668,
+        44.96702777777778
+      ],
+      "text": "Abrigo rocoso del valle del Vézère.",
+      "source": "https://whc.unesco.org/document/199889"
+    },
+    {
+      "id": "mezhyrich",
+      "title": "Mezhyrich",
+      "kind": "estructura",
+      "coordinates": [
+        31.4,
+        49.63333333333333
+      ],
+      "text": "Campamento con viviendas construidas con huesos de mamut. Ubicación aproximada.",
+      "source": "https://www.sciencedirect.com/science/article/pii/S0305440311003268"
+    },
+    {
+      "id": "lepenski-vir",
+      "title": "Lepenski Vir",
+      "kind": "asentamiento",
+      "coordinates": [
+        22.016666666666666,
+        44.55
+      ],
+      "text": "Asentamiento del Danubio con esculturas que presentan rasgos de pez. Ubicación aproximada.",
+      "source": "https://www.nature.com/articles/s41598-018-31884-7",
+      "photo": {
+        "src": "./datos/imagenes/lepenski-vir.jpg",
+        "width": 560,
+        "height": 322,
+        "alt": "Esculturas de piedra procedentes de Lepenski Vir",
+        "caption": "Esculturas de Lepenski Vir · imagen reducida",
+        "credit": "Beko, Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Lepenski_Vir_sculptures.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    },
+    {
+      "id": "solutre",
+      "title": "Solutré",
+      "kind": "punto",
+      "coordinates": [
+        4.71878,
+        46.2976
+      ],
+      "text": "Yacimiento paleolítico al pie de la roca de Solutré. El punto indica el acceso al conjunto arqueológico.",
+      "source": "https://reservation.rochedesolutre.com/paleo-gestes-tailler-la-pierre-de-neandertal-a-sapiens.html"
+    },
+    {
+      "id": "predmosti",
+      "title": "Předmostí",
+      "kind": "punto",
+      "coordinates": [
+        17.43718888888889,
+        49.46689722222222
+      ],
+      "text": "Yacimiento paleolítico con acumulaciones de huesos de mamut. El punto corresponde al memorial del yacimiento.",
+      "source": "https://www.archeologickyatlas.cz/cs/lokace/predmosti_pr_paleoliticka_stanice"
+    },
+    {
+      "id": "cabeco-arruda",
+      "title": "Cabeço da Arruda",
+      "kind": "cementerio",
+      "coordinates": [
+        -8.66,
+        39.11
+      ],
+      "text": "Conchero mesolítico de Muge donde se encontraron enterramientos. Ubicación aproximada.",
+      "source": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=342923"
+    },
+    {
+      "id": "oleniy-ostrov",
+      "title": "Yuzhniy Oleniy Ostrov",
+      "kind": "cementerio",
+      "coordinates": [
+        35.57608333333334,
+        62.128972222222224
+      ],
+      "text": "Cementerio mesolítico de una isla del lago Onega. Estudios recientes sitúan su uso hacia 8250–8000 años calibrados antes del presente.",
+      "source": "https://doi.org/10.1007/s12520-026-02437-1"
+    },
+    {
+      "id": "oronsay",
+      "title": "Oronsay",
+      "kind": "concha",
+      "coordinates": [
+        -6.25,
+        56
+      ],
+      "text": "Isla con concheros mesolíticos como Cnoc Coig. El marcador sitúa la isla de forma aproximada.",
+      "source": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,SM13655"
+    },
+    {
+      "id": "tito-bustillo",
+      "title": "Tito Bustillo",
+      "kind": "arte",
+      "coordinates": [
+        -5.067777777777778,
+        43.46083333333333
+      ],
+      "text": "Cueva con arte rupestre paleolítico en Ribadesella, Asturias.",
+      "source": "https://whc.unesco.org/en/list/310/maps/"
+    },
+    {
+      "id": "el-pindal",
+      "title": "El Pindal",
+      "kind": "arte",
+      "coordinates": [
+        -4.532777777777778,
+        43.3975
+      ],
+      "text": "Cueva con arte rupestre paleolítico en Asturias, cerca de la costa.",
+      "source": "https://whc.unesco.org/en/list/310/maps/"
+    },
+    {
+      "id": "el-castillo",
+      "title": "El Castillo",
+      "kind": "arte",
+      "coordinates": [
+        -3.965616666666667,
+        43.292649999999995
+      ],
+      "text": "Cueva con arte rupestre en el conjunto de Monte Castillo, Cantabria.",
+      "source": "https://whc.unesco.org/en/list/310/maps/"
+    },
+    {
+      "id": "santimamine",
+      "title": "Santimamiñe",
+      "kind": "arte",
+      "coordinates": [
+        -2.6365305555555554,
+        43.346580555555555
+      ],
+      "text": "Cueva con arte rupestre paleolítico en Bizkaia.",
+      "source": "https://whc.unesco.org/en/list/310/maps/"
+    },
+    {
+      "id": "coa",
+      "title": "Valle del Côa",
+      "kind": "grabados",
+      "coordinates": [
+        -7.117,
+        41.033
+      ],
+      "text": "Conjunto de grabados rupestres al aire libre. El punto sitúa el valle de forma orientativa. Los grabados se reparten por varios enclaves.",
+      "source": "https://en.wikipedia.org/wiki/Prehistoric_Rock_Art_Sites_in_the_C%C3%B4a_Valley_and_Siega_Verde"
+    },
+    {
+      "id": "parpallo",
+      "title": "Cova del Parpalló",
+      "kind": "plaquetas",
+      "coordinates": [
+        -0.2717,
+        39.0042
+      ],
+      "text": "Cueva de Gandia donde se hallaron plaquetas de piedra grabadas y pintadas. Son piezas que se podían transportar.",
+      "source": "https://ca.wikipedia.org/wiki/Cova_del_Parpall%C3%B3"
+    },
+    {
+      "id": "willendorf",
+      "title": "Willendorf",
+      "kind": "venus",
+      "coordinates": [
+        15.404222222222222,
+        48.32319444444445
+      ],
+      "text": "En este yacimiento del Danubio se encontró la Venus de Willendorf, una pequeña figura humana tallada en piedra.",
+      "source": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.599491/full"
+    },
+    {
+      "id": "dolni-vestonice",
+      "title": "Dolní Věstonice",
+      "kind": "venus",
+      "coordinates": [
+        16.643027777777778,
+        48.8885
+      ],
+      "text": "Conjunto de campamentos paleolíticos conocido por el hallazgo de una figurilla de arcilla cocida. El punto indica el acceso de referencia del conjunto.",
+      "source": "https://www.archeologickyatlas.cz/cs/lokace/dolni_vestonice_bv_paleolit"
+    },
+    {
+      "id": "vogelherd",
+      "title": "Vogelherd",
+      "kind": "cueva",
+      "coordinates": [
+        10.193888888888889,
+        48.558611111111105
+      ],
+      "text": "Cueva del Jura de Suabia donde se hallaron pequeñas esculturas paleolíticas.",
+      "source": "https://whc.unesco.org/document/155786"
+    },
+    {
+      "id": "star-carr",
+      "title": "Star Carr",
+      "kind": "asentamiento",
+      "coordinates": [
+        -0.423676,
+        54.2143
+      ],
+      "text": "Asentamiento mesolítico junto a un antiguo lago. Se han encontrado restos de estructuras de madera.",
+      "source": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/da408340-d2e7-4cf4-876d-856f2a398c22"
+    },
+    {
+      "id": "teviec",
+      "title": "Téviec",
+      "kind": "concha",
+      "coordinates": [
+        -3.165277777777778,
+        47.55611111111111
+      ],
+      "text": "Islote bretón con un conchero y enterramientos mesolíticos. El marcador sitúa la isla de forma orientativa.",
+      "source": "https://doi.org/10.2307/j.ctvxrq11h.9"
+    },
+    {
+      "id": "hoedic",
+      "title": "Hoëdic",
+      "kind": "concha",
+      "coordinates": [
+        -2.87778,
+        47.34028
+      ],
+      "text": "Yacimiento costero bretón donde se encontraron restos de conchas y sepulturas mesolíticas. Ubicación aproximada.",
+      "source": "https://www.mas.ncl.ac.uk/~nas13/out/NEST/Deliverables/FEPRE_database01-03-08.pdf"
+    },
+    {
+      "id": "kostenki",
+      "title": "Kostenki · yacimiento 17",
+      "kind": "punto",
+      "coordinates": [
+        39.04697222222222,
+        51.394999999999996
+      ],
+      "text": "Yacimiento paleolítico al aire libre del valle del Don. El marcador identifica Kostenki 17, uno de los lugares del conjunto.",
+      "source": "https://www.sciencedirect.com/science/article/pii/S0341816225003133"
+    },
+    {
+      "id": "sungir",
+      "title": "Sungir",
+      "kind": "punto",
+      "coordinates": [
+        40.50833333333333,
+        56.175
+      ],
+      "text": "Yacimiento del Paleolítico Superior cerca de Vladímir. Sus enterramientos conservaban numerosos adornos personales.",
+      "source": "https://doi.org/10.15184/aqy.2017.223"
+    },
+    {
+      "id": "mount-sandel",
+      "title": "Mount Sandel",
+      "kind": "asentamiento",
+      "coordinates": [
+        -6.663951,
+        55.116207
+      ],
+      "text": "Asentamiento mesolítico junto al río Bann, en Irlanda del Norte.",
+      "source": "https://excavations.ie/report/1977-79/Derry/0032199/"
+    },
+    {
+      "id": "chatelperron",
+      "title": "Châtelperron · Grotte des Fées",
+      "kind": "cueva",
+      "coordinates": [
+        3.638333333333333,
+        46.41166666666666
+      ],
+      "text": "Conjunto de cuevas del centro de Francia que da nombre al Chatelperroniense.",
+      "source": "https://fr.wikipedia.org/wiki/Grotte_des_F%C3%A9es_%28Ch%C3%A2telperron%29"
+    },
+    {
+      "id": "brassempouy",
+      "title": "Brassempouy · Grotte du Pape",
+      "kind": "venus",
+      "coordinates": [
+        -0.71864,
+        43.62945
+      ],
+      "text": "Conjunto de cuevas donde se halló la Dama de Brassempouy, una pequeña cabeza tallada en marfil de mamut. El punto señala la Grotte du Pape.",
+      "source": "https://mapcarta.com/fr/N4316746244"
+    },
+    {
+      "id": "trois-freres",
+      "title": "Les Trois Frères",
+      "kind": "arte",
+      "coordinates": [
+        1.2116666666666667,
+        43.032222222222224
+      ],
+      "text": "Cueva decorada del Ariège. Conserva grabados paleolíticos.",
+      "source": "https://fr.wikipedia.org/wiki/Grotte_des_Trois-Fr%C3%A8res"
+    },
+    {
+      "id": "lespugue",
+      "title": "Lespugue · Grotte des Rideaux",
+      "kind": "venus",
+      "coordinates": [
+        0.6547222222222222,
+        43.23083333333334
+      ],
+      "text": "Cueva de las gargantas de la Save donde se encontró la Venus de Lespugue, tallada en marfil.",
+      "source": "https://fr.wikipedia.org/wiki/Grotte_des_Rideaux"
+    },
+    {
+      "id": "aurignac",
+      "title": "Abrigo de Aurignac",
+      "kind": "cueva",
+      "coordinates": [
+        0.86671,
+        43.2233
+      ],
+      "text": "Abrigo rocoso de la Alta Garona que da nombre al Auriñaciense.",
+      "source": "https://www.cirkwi.com/fr/point-interet/3560231-abri-prehistorique-d-aurignac"
+    },
+    {
+      "id": "la-gravette",
+      "title": "La Gravette",
+      "kind": "cueva",
+      "coordinates": [
+        0.7338,
+        44.8043
+      ],
+      "text": "Yacimiento de Bayac, en Dordoña, que da nombre al Gravetiense.",
+      "source": "https://www.cirkwi.com/en/point-interet/2711748-gisement-de-la-gravette"
+    },
+    {
+      "id": "oban",
+      "title": "Oban · cueva de MacArthur",
+      "kind": "cueva",
+      "coordinates": [
+        -5.47235,
+        56.4174
+      ],
+      "text": "Lugar de una cueva de Oban donde se hallaron útiles mesolíticos de hueso y piedra. El marcador indica aproximadamente la ubicación de la antigua cueva.",
+      "source": "https://www.trove.scot/place/23066"
+    },
+    {
+      "id": "paviland",
+      "title": "Paviland · Goat’s Hole",
+      "kind": "cueva",
+      "coordinates": [
+        -4.25552,
+        51.55014
+      ],
+      "text": "Cueva costera de Gales donde se descubrió un enterramiento paleolítico conocido como la Dama Roja de Paviland.",
+      "source": "https://mapcarta.com/N1791830965"
+    },
+    {
+      "id": "creswell",
+      "title": "Creswell Crags",
+      "kind": "arte",
+      "coordinates": [
+        -1.199414,
+        53.262131
+      ],
+      "text": "Garganta inglesa con varias cuevas y abrigos paleolíticos. El marcador sitúa el conjunto.",
+      "source": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/f9f0046b-a634-48a5-9969-6485a6910e5e"
+    },
+    {
+      "id": "molodova",
+      "title": "Molodova · yacimiento V",
+      "kind": "punto",
+      "coordinates": [
+        27.055,
+        48.547
+      ],
+      "text": "Yacimiento del valle del Dniéster con niveles gravetienses. El marcador sitúa aproximadamente Molodova V, uno de los enclaves del conjunto.",
+      "source": "https://www.fossilized.org/memosphere/locality_list_full.php"
+    },
+    {
+      "id": "agerod",
+      "title": "Ageröd",
+      "kind": "asentamiento",
+      "coordinates": [
+        13.42861111,
+        55.93611111
+      ],
+      "text": "Conjunto mesolítico en el sur de Suecia. El humedal conservó materiales orgánicos. El marcador indica aproximadamente el área arqueológica.",
+      "source": "https://www.korpskriften.se/kunskap/plats?id=18573519"
+    },
+    {
+      "id": "bisovaya",
+      "title": "Bisovaya · Byzovaya",
+      "kind": "punto",
+      "coordinates": [
+        57.419999999999995,
+        65.02361111111111
+      ],
+      "text": "Yacimiento paleolítico junto al río Pechora, cerca del círculo polar ártico. La atribución cultural de sus herramientas se ha debatido.",
+      "source": "https://doi.org/10.1126/science.1203866"
+    },
+    {
+      "id": "pincevent",
+      "title": "Pincevent",
+      "kind": "punto",
+      "coordinates": [
+        2.894956,
+        48.368703
+      ],
+      "text": "Campamento al aire libre junto al Sena. Los sedimentos del río conservaron restos de varias ocupaciones del Magdaleniense final.",
+      "source": "https://umrtemps.cnrs.fr/terrain/pincevent/"
+    },
+    {
+      "id": "font-de-gaume",
+      "title": "Font-de-Gaume",
+      "kind": "arte",
+      "coordinates": [
+        1.0265555555555554,
+        44.937
+      ],
+      "text": "Cueva decorada del valle del Vézère, con pinturas y grabados paleolíticos.",
+      "source": "https://whc.unesco.org/document/199889",
+      "complementary": true
+    },
+    {
+      "id": "hohle-fels",
+      "title": "Hohle Fels",
+      "kind": "venus",
+      "coordinates": [
+        9.754444444444445,
+        48.37888888888889
+      ],
+      "text": "Cueva del Jura de Suabia donde se halló una figurilla humana tallada en marfil.",
+      "source": "https://whc.unesco.org/document/155786",
+      "complementary": true
+    },
+    {
+      "id": "lagar-velho",
+      "title": "Abrigo do Lagar Velho",
+      "kind": "punto",
+      "coordinates": [
+        -8.734922222222222,
+        39.755633333333336
+      ],
+      "text": "Abrigo del valle de Lapedo, cerca de Leiria. Se conoce por el enterramiento de un niño del Paleolítico Superior.",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11887806/",
+      "complementary": true
+    },
+    {
+      "id": "ertebolle",
+      "title": "Ertebølle",
+      "kind": "concha",
+      "coordinates": [
+        9.178305,
+        56.81054
+      ],
+      "text": "Conchero del Mesolítico tardío junto al Limfjord, en Dinamarca. El marcador señala el centro de interpretación, cerca del yacimiento.",
+      "source": "https://retold.eu/museums/stenaldercentret-ertebolle-dk",
+      "complementary": true
+    },
+    {
+      "id": "skateholm",
+      "title": "Skateholm",
+      "kind": "cementerio",
+      "coordinates": [
+        13.483749999999999,
+        55.38613888888889
+      ],
+      "text": "Conjunto costero del sur de Suecia. Las excavaciones documentaron asentamientos y enterramientos de personas y perros.",
+      "source": "https://link.springer.com/article/10.1007/s12520-022-01640-0",
+      "complementary": true
+    },
+    {
+      "id": "norje-sunnansund",
+      "title": "Norje Sunnansund",
+      "kind": "asentamiento",
+      "coordinates": [
+        14.659166666666668,
+        56.10991666666667
+      ],
+      "text": "Asentamiento mesolítico del sur de Suecia con evidencias de pesca estacional y conservación del pescado mediante fermentación.",
+      "source": "https://link.springer.com/article/10.1007/s12520-022-01640-0",
+      "complementary": true
+    },
+    {
+      "id": "melkoya",
+      "title": "Melkøya",
+      "kind": "asentamiento",
+      "coordinates": [
+        23.59948,
+        70.68971
+      ],
+      "text": "Isla del norte de Noruega con ocupaciones antiguas de grupos cazadores y pescadores. El punto sitúa la isla de forma orientativa.",
+      "source": "https://www.antiquity.ac.uk/projgall/ramstad304",
+      "complementary": true
+    },
+    {
+      "id": "el-sidron",
+      "title": "El Sidrón",
+      "coordinates": [
+        -5.326111111111111,
+        43.38527777777778
+      ],
+      "text": "Cueva de Asturias con restos de varios individuos neandertales. Se marca la ubicación arqueológica.",
+      "source": "https://hal.science/hal-03200074/file/archaeo1.pdf",
+      "kind": "neandertal",
+      "complementary": true
+    },
+    {
+      "id": "gorham",
+      "title": "Complejo de cuevas de Gorham",
+      "coordinates": [
+        -5.342061111111111,
+        36.12266944444445
+      ],
+      "text": "Conjunto de Gibraltar con evidencias de ocupación neandertal. El punto señala el conjunto patrimonial.",
+      "source": "https://whc.unesco.org/en/list/1500/maps/",
+      "kind": "neandertal",
+      "complementary": true
+    },
+    {
+      "id": "vindija",
+      "title": "Cueva de Vindija",
+      "coordinates": [
+        16.08,
+        46.302
+      ],
+      "text": "Cueva del norte de Croacia donde se hallaron restos neandertales utilizados en estudios genéticos. Ubicación aproximada.",
+      "source": "https://www.pnas.org/content/pnas/114/40/10606.full.pdf",
+      "kind": "neandertal",
+      "complementary": true
+    }
+  ],
+  "cultures": [
+    {
+      "title": "Musteriense",
+      "row": 1,
+      "from": 1,
+      "to": 3,
+      "text": "Tradición del Paleolítico Medio. El mapa señala ejemplos de presencia en la península ibérica, Francia y Europa oriental. Los hallazgos abarcan más regiones y distintos momentos.",
+      "color": "#678dca",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#678dca"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  2,
+                  41
+                ],
+                [
+                  1.926,
+                  41.548
+                ],
+                [
+                  1.706,
+                  42.082
+                ],
+                [
+                  1.346,
+                  42.589
+                ],
+                [
+                  0.854,
+                  43.057
+                ],
+                [
+                  0.243,
+                  43.475
+                ],
+                [
+                  -0.473,
+                  43.832
+                ],
+                [
+                  -1.276,
+                  44.119
+                ],
+                [
+                  -2.146,
+                  44.329
+                ],
+                [
+                  -3.061,
+                  44.457
+                ],
+                [
+                  -4,
+                  44.5
+                ],
+                [
+                  -4.939,
+                  44.457
+                ],
+                [
+                  -5.854,
+                  44.329
+                ],
+                [
+                  -6.724,
+                  44.119
+                ],
+                [
+                  -7.527,
+                  43.832
+                ],
+                [
+                  -8.243,
+                  43.475
+                ],
+                [
+                  -8.854,
+                  43.057
+                ],
+                [
+                  -9.346,
+                  42.589
+                ],
+                [
+                  -9.706,
+                  42.082
+                ],
+                [
+                  -9.926,
+                  41.548
+                ],
+                [
+                  -10,
+                  41
+                ],
+                [
+                  -9.926,
+                  40.452
+                ],
+                [
+                  -9.706,
+                  39.918
+                ],
+                [
+                  -9.346,
+                  39.411
+                ],
+                [
+                  -8.854,
+                  38.943
+                ],
+                [
+                  -8.243,
+                  38.525
+                ],
+                [
+                  -7.527,
+                  38.168
+                ],
+                [
+                  -6.724,
+                  37.881
+                ],
+                [
+                  -5.854,
+                  37.671
+                ],
+                [
+                  -4.939,
+                  37.543
+                ],
+                [
+                  -4,
+                  37.5
+                ],
+                [
+                  -3.061,
+                  37.543
+                ],
+                [
+                  -2.146,
+                  37.671
+                ],
+                [
+                  -1.276,
+                  37.881
+                ],
+                [
+                  -0.473,
+                  38.168
+                ],
+                [
+                  0.243,
+                  38.525
+                ],
+                [
+                  0.854,
+                  38.943
+                ],
+                [
+                  1.346,
+                  39.411
+                ],
+                [
+                  1.706,
+                  39.918
+                ],
+                [
+                  1.926,
+                  40.452
+                ],
+                [
+                  2,
+                  41
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#678dca"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7.5,
+                  46
+                ],
+                [
+                  7.432,
+                  46.579
+                ],
+                [
+                  7.231,
+                  47.143
+                ],
+                [
+                  6.901,
+                  47.68
+                ],
+                [
+                  6.45,
+                  48.175
+                ],
+                [
+                  5.889,
+                  48.616
+                ],
+                [
+                  5.233,
+                  48.993
+                ],
+                [
+                  4.497,
+                  49.297
+                ],
+                [
+                  3.7,
+                  49.519
+                ],
+                [
+                  2.86,
+                  49.654
+                ],
+                [
+                  2,
+                  49.7
+                ],
+                [
+                  1.14,
+                  49.654
+                ],
+                [
+                  0.3,
+                  49.519
+                ],
+                [
+                  -0.497,
+                  49.297
+                ],
+                [
+                  -1.233,
+                  48.993
+                ],
+                [
+                  -1.889,
+                  48.616
+                ],
+                [
+                  -2.45,
+                  48.175
+                ],
+                [
+                  -2.901,
+                  47.68
+                ],
+                [
+                  -3.231,
+                  47.143
+                ],
+                [
+                  -3.432,
+                  46.579
+                ],
+                [
+                  -3.5,
+                  46
+                ],
+                [
+                  -3.432,
+                  45.421
+                ],
+                [
+                  -3.231,
+                  44.857
+                ],
+                [
+                  -2.901,
+                  44.32
+                ],
+                [
+                  -2.45,
+                  43.825
+                ],
+                [
+                  -1.889,
+                  43.384
+                ],
+                [
+                  -1.233,
+                  43.007
+                ],
+                [
+                  -0.497,
+                  42.703
+                ],
+                [
+                  0.3,
+                  42.481
+                ],
+                [
+                  1.14,
+                  42.346
+                ],
+                [
+                  2,
+                  42.3
+                ],
+                [
+                  2.86,
+                  42.346
+                ],
+                [
+                  3.7,
+                  42.481
+                ],
+                [
+                  4.497,
+                  42.703
+                ],
+                [
+                  5.233,
+                  43.007
+                ],
+                [
+                  5.889,
+                  43.384
+                ],
+                [
+                  6.45,
+                  43.825
+                ],
+                [
+                  6.901,
+                  44.32
+                ],
+                [
+                  7.231,
+                  44.857
+                ],
+                [
+                  7.432,
+                  45.421
+                ],
+                [
+                  7.5,
+                  46
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#678dca"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  31,
+                  46
+                ],
+                [
+                  30.914,
+                  46.626
+                ],
+                [
+                  30.657,
+                  47.236
+                ],
+                [
+                  30.237,
+                  47.816
+                ],
+                [
+                  29.663,
+                  48.351
+                ],
+                [
+                  28.95,
+                  48.828
+                ],
+                [
+                  28.114,
+                  49.236
+                ],
+                [
+                  27.178,
+                  49.564
+                ],
+                [
+                  26.163,
+                  49.804
+                ],
+                [
+                  25.095,
+                  49.951
+                ],
+                [
+                  24,
+                  50
+                ],
+                [
+                  22.905,
+                  49.951
+                ],
+                [
+                  21.837,
+                  49.804
+                ],
+                [
+                  20.822,
+                  49.564
+                ],
+                [
+                  19.886,
+                  49.236
+                ],
+                [
+                  19.05,
+                  48.828
+                ],
+                [
+                  18.337,
+                  48.351
+                ],
+                [
+                  17.763,
+                  47.816
+                ],
+                [
+                  17.343,
+                  47.236
+                ],
+                [
+                  17.086,
+                  46.626
+                ],
+                [
+                  17,
+                  46
+                ],
+                [
+                  17.086,
+                  45.374
+                ],
+                [
+                  17.343,
+                  44.764
+                ],
+                [
+                  17.763,
+                  44.184
+                ],
+                [
+                  18.337,
+                  43.649
+                ],
+                [
+                  19.05,
+                  43.172
+                ],
+                [
+                  19.886,
+                  42.764
+                ],
+                [
+                  20.822,
+                  42.436
+                ],
+                [
+                  21.837,
+                  42.196
+                ],
+                [
+                  22.905,
+                  42.049
+                ],
+                [
+                  24,
+                  42
+                ],
+                [
+                  25.095,
+                  42.049
+                ],
+                [
+                  26.163,
+                  42.196
+                ],
+                [
+                  27.178,
+                  42.436
+                ],
+                [
+                  28.114,
+                  42.764
+                ],
+                [
+                  28.95,
+                  43.172
+                ],
+                [
+                  29.663,
+                  43.649
+                ],
+                [
+                  30.237,
+                  44.184
+                ],
+                [
+                  30.657,
+                  44.764
+                ],
+                [
+                  30.914,
+                  45.374
+                ],
+                [
+                  31,
+                  46
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chatelperroniense",
+      "row": 1,
+      "from": 3,
+      "to": 6,
+      "text": "Sus yacimientos se concentran principalmente en Francia y el norte de España. Las manchas sitúan esas regiones de referencia.",
+      "color": "#a56baa",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#a56baa"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  5.2,
+                  45.9
+                ],
+                [
+                  5.145,
+                  46.307
+                ],
+                [
+                  4.98,
+                  46.703
+                ],
+                [
+                  4.71,
+                  47.08
+                ],
+                [
+                  4.341,
+                  47.428
+                ],
+                [
+                  3.882,
+                  47.738
+                ],
+                [
+                  3.345,
+                  48.003
+                ],
+                [
+                  2.743,
+                  48.217
+                ],
+                [
+                  2.091,
+                  48.373
+                ],
+                [
+                  1.404,
+                  48.468
+                ],
+                [
+                  0.7,
+                  48.5
+                ],
+                [
+                  -0.004,
+                  48.468
+                ],
+                [
+                  -0.691,
+                  48.373
+                ],
+                [
+                  -1.343,
+                  48.217
+                ],
+                [
+                  -1.945,
+                  48.003
+                ],
+                [
+                  -2.482,
+                  47.738
+                ],
+                [
+                  -2.941,
+                  47.428
+                ],
+                [
+                  -3.31,
+                  47.08
+                ],
+                [
+                  -3.58,
+                  46.703
+                ],
+                [
+                  -3.745,
+                  46.307
+                ],
+                [
+                  -3.8,
+                  45.9
+                ],
+                [
+                  -3.745,
+                  45.493
+                ],
+                [
+                  -3.58,
+                  45.097
+                ],
+                [
+                  -3.31,
+                  44.72
+                ],
+                [
+                  -2.941,
+                  44.372
+                ],
+                [
+                  -2.482,
+                  44.062
+                ],
+                [
+                  -1.945,
+                  43.797
+                ],
+                [
+                  -1.343,
+                  43.583
+                ],
+                [
+                  -0.691,
+                  43.427
+                ],
+                [
+                  -0.004,
+                  43.332
+                ],
+                [
+                  0.7,
+                  43.3
+                ],
+                [
+                  1.404,
+                  43.332
+                ],
+                [
+                  2.091,
+                  43.427
+                ],
+                [
+                  2.743,
+                  43.583
+                ],
+                [
+                  3.345,
+                  43.797
+                ],
+                [
+                  3.882,
+                  44.062
+                ],
+                [
+                  4.341,
+                  44.372
+                ],
+                [
+                  4.71,
+                  44.72
+                ],
+                [
+                  4.98,
+                  45.097
+                ],
+                [
+                  5.145,
+                  45.493
+                ],
+                [
+                  5.2,
+                  45.9
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#a56baa"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  0,
+                  43.1
+                ],
+                [
+                  -0.043,
+                  43.249
+                ],
+                [
+                  -0.171,
+                  43.394
+                ],
+                [
+                  -0.381,
+                  43.531
+                ],
+                [
+                  -0.668,
+                  43.658
+                ],
+                [
+                  -1.025,
+                  43.772
+                ],
+                [
+                  -1.443,
+                  43.869
+                ],
+                [
+                  -1.911,
+                  43.946
+                ],
+                [
+                  -2.418,
+                  44.004
+                ],
+                [
+                  -2.952,
+                  44.038
+                ],
+                [
+                  -3.5,
+                  44.05
+                ],
+                [
+                  -4.048,
+                  44.038
+                ],
+                [
+                  -4.582,
+                  44.004
+                ],
+                [
+                  -5.089,
+                  43.946
+                ],
+                [
+                  -5.557,
+                  43.869
+                ],
+                [
+                  -5.975,
+                  43.772
+                ],
+                [
+                  -6.332,
+                  43.658
+                ],
+                [
+                  -6.619,
+                  43.531
+                ],
+                [
+                  -6.829,
+                  43.394
+                ],
+                [
+                  -6.957,
+                  43.249
+                ],
+                [
+                  -7,
+                  43.1
+                ],
+                [
+                  -6.957,
+                  42.951
+                ],
+                [
+                  -6.829,
+                  42.806
+                ],
+                [
+                  -6.619,
+                  42.669
+                ],
+                [
+                  -6.332,
+                  42.542
+                ],
+                [
+                  -5.975,
+                  42.428
+                ],
+                [
+                  -5.557,
+                  42.331
+                ],
+                [
+                  -5.089,
+                  42.254
+                ],
+                [
+                  -4.582,
+                  42.196
+                ],
+                [
+                  -4.048,
+                  42.162
+                ],
+                [
+                  -3.5,
+                  42.15
+                ],
+                [
+                  -2.952,
+                  42.162
+                ],
+                [
+                  -2.418,
+                  42.196
+                ],
+                [
+                  -1.911,
+                  42.254
+                ],
+                [
+                  -1.443,
+                  42.331
+                ],
+                [
+                  -1.025,
+                  42.428
+                ],
+                [
+                  -0.668,
+                  42.542
+                ],
+                [
+                  -0.381,
+                  42.669
+                ],
+                [
+                  -0.171,
+                  42.806
+                ],
+                [
+                  -0.043,
+                  42.951
+                ],
+                [
+                  0,
+                  43.1
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Auriñaciense",
+      "row": 2,
+      "from": 3,
+      "to": 8,
+      "text": "Zonas aproximadas de presencia auriñaciense según la reconstrucción del mapa de referencia. Ocre para el área europea y terracota para la levantina. Los límites son orientativos.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Auriñaciense europeo",
+            "color": "#e7a84f"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -5.5,
+                  43.2
+                ],
+                [
+                  -2.2,
+                  43.3
+                ],
+                [
+                  -1.6,
+                  45.7
+                ],
+                [
+                  -0.7,
+                  47.5
+                ],
+                [
+                  2.3,
+                  48.3
+                ],
+                [
+                  5.4,
+                  48.9
+                ],
+                [
+                  9.2,
+                  49.8
+                ],
+                [
+                  13.6,
+                  50.4
+                ],
+                [
+                  17.3,
+                  51
+                ],
+                [
+                  21.4,
+                  50
+                ],
+                [
+                  24.8,
+                  48.3
+                ],
+                [
+                  27.7,
+                  46.7
+                ],
+                [
+                  28.7,
+                  44.3
+                ],
+                [
+                  27.2,
+                  42.1
+                ],
+                [
+                  24.7,
+                  40.6
+                ],
+                [
+                  22.7,
+                  39.8
+                ],
+                [
+                  21.6,
+                  41.1
+                ],
+                [
+                  19.4,
+                  42.4
+                ],
+                [
+                  17.3,
+                  44.1
+                ],
+                [
+                  14.4,
+                  45.5
+                ],
+                [
+                  11.5,
+                  46.1
+                ],
+                [
+                  7.4,
+                  44
+                ],
+                [
+                  4.1,
+                  43.6
+                ],
+                [
+                  2.3,
+                  42.4
+                ],
+                [
+                  0.1,
+                  42.1
+                ],
+                [
+                  -2.5,
+                  42.4
+                ],
+                [
+                  -5.5,
+                  43.2
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Auriñaciense levantino",
+            "color": "#be6d4b"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  35.2,
+                  36.7
+                ],
+                [
+                  36.5,
+                  36.4
+                ],
+                [
+                  36.9,
+                  35.5
+                ],
+                [
+                  36.5,
+                  34.5
+                ],
+                [
+                  36.2,
+                  33
+                ],
+                [
+                  35.5,
+                  31.1
+                ],
+                [
+                  34.8,
+                  31
+                ],
+                [
+                  34.8,
+                  32.1
+                ],
+                [
+                  35,
+                  33.7
+                ],
+                [
+                  35.2,
+                  35.1
+                ],
+                [
+                  35.2,
+                  36.7
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "color": "#e7a84f"
+    },
+    {
+      "title": "Gravetiense",
+      "row": 2,
+      "from": 8,
+      "to": 12,
+      "text": "Los hallazgos se reparten por gran parte de Europa. El mapa muestra ejemplos regionales desde la península ibérica hasta la llanura rusa, además de Francia, Europa central e Italia.",
+      "color": "#c47f49",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#c47f49"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.2,
+                  41
+                ],
+                [
+                  -0.257,
+                  41.532
+                ],
+                [
+                  -0.425,
+                  42.051
+                ],
+                [
+                  -0.701,
+                  42.544
+                ],
+                [
+                  -1.079,
+                  42.998
+                ],
+                [
+                  -1.547,
+                  43.404
+                ],
+                [
+                  -2.096,
+                  43.751
+                ],
+                [
+                  -2.712,
+                  44.029
+                ],
+                [
+                  -3.379,
+                  44.234
+                ],
+                [
+                  -4.08,
+                  44.358
+                ],
+                [
+                  -4.8,
+                  44.4
+                ],
+                [
+                  -5.52,
+                  44.358
+                ],
+                [
+                  -6.221,
+                  44.234
+                ],
+                [
+                  -6.888,
+                  44.029
+                ],
+                [
+                  -7.504,
+                  43.751
+                ],
+                [
+                  -8.053,
+                  43.404
+                ],
+                [
+                  -8.521,
+                  42.998
+                ],
+                [
+                  -8.899,
+                  42.544
+                ],
+                [
+                  -9.175,
+                  42.051
+                ],
+                [
+                  -9.343,
+                  41.532
+                ],
+                [
+                  -9.4,
+                  41
+                ],
+                [
+                  -9.343,
+                  40.468
+                ],
+                [
+                  -9.175,
+                  39.949
+                ],
+                [
+                  -8.899,
+                  39.456
+                ],
+                [
+                  -8.521,
+                  39.002
+                ],
+                [
+                  -8.053,
+                  38.596
+                ],
+                [
+                  -7.504,
+                  38.249
+                ],
+                [
+                  -6.888,
+                  37.971
+                ],
+                [
+                  -6.221,
+                  37.766
+                ],
+                [
+                  -5.52,
+                  37.642
+                ],
+                [
+                  -4.8,
+                  37.6
+                ],
+                [
+                  -4.08,
+                  37.642
+                ],
+                [
+                  -3.379,
+                  37.766
+                ],
+                [
+                  -2.712,
+                  37.971
+                ],
+                [
+                  -2.096,
+                  38.249
+                ],
+                [
+                  -1.547,
+                  38.596
+                ],
+                [
+                  -1.079,
+                  39.002
+                ],
+                [
+                  -0.701,
+                  39.456
+                ],
+                [
+                  -0.425,
+                  39.949
+                ],
+                [
+                  -0.257,
+                  40.468
+                ],
+                [
+                  -0.2,
+                  41
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#c47f49"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  6.7,
+                  46.5
+                ],
+                [
+                  6.64,
+                  46.938
+                ],
+                [
+                  6.46,
+                  47.365
+                ],
+                [
+                  6.166,
+                  47.771
+                ],
+                [
+                  5.764,
+                  48.146
+                ],
+                [
+                  5.265,
+                  48.48
+                ],
+                [
+                  4.68,
+                  48.765
+                ],
+                [
+                  4.025,
+                  48.995
+                ],
+                [
+                  3.314,
+                  49.163
+                ],
+                [
+                  2.567,
+                  49.266
+                ],
+                [
+                  1.8,
+                  49.3
+                ],
+                [
+                  1.033,
+                  49.266
+                ],
+                [
+                  0.286,
+                  49.163
+                ],
+                [
+                  -0.425,
+                  48.995
+                ],
+                [
+                  -1.08,
+                  48.765
+                ],
+                [
+                  -1.665,
+                  48.48
+                ],
+                [
+                  -2.164,
+                  48.146
+                ],
+                [
+                  -2.566,
+                  47.771
+                ],
+                [
+                  -2.86,
+                  47.365
+                ],
+                [
+                  -3.04,
+                  46.938
+                ],
+                [
+                  -3.1,
+                  46.5
+                ],
+                [
+                  -3.04,
+                  46.062
+                ],
+                [
+                  -2.86,
+                  45.635
+                ],
+                [
+                  -2.566,
+                  45.229
+                ],
+                [
+                  -2.164,
+                  44.854
+                ],
+                [
+                  -1.665,
+                  44.52
+                ],
+                [
+                  -1.08,
+                  44.235
+                ],
+                [
+                  -0.425,
+                  44.005
+                ],
+                [
+                  0.286,
+                  43.837
+                ],
+                [
+                  1.033,
+                  43.734
+                ],
+                [
+                  1.8,
+                  43.7
+                ],
+                [
+                  2.567,
+                  43.734
+                ],
+                [
+                  3.314,
+                  43.837
+                ],
+                [
+                  4.025,
+                  44.005
+                ],
+                [
+                  4.68,
+                  44.235
+                ],
+                [
+                  5.265,
+                  44.52
+                ],
+                [
+                  5.764,
+                  44.854
+                ],
+                [
+                  6.166,
+                  45.229
+                ],
+                [
+                  6.46,
+                  45.635
+                ],
+                [
+                  6.64,
+                  46.062
+                ],
+                [
+                  6.7,
+                  46.5
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#c47f49"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.3,
+                  48.4
+                ],
+                [
+                  22.226,
+                  48.822
+                ],
+                [
+                  22.006,
+                  49.234
+                ],
+                [
+                  21.646,
+                  49.626
+                ],
+                [
+                  21.154,
+                  49.987
+                ],
+                [
+                  20.543,
+                  50.309
+                ],
+                [
+                  19.827,
+                  50.584
+                ],
+                [
+                  19.024,
+                  50.806
+                ],
+                [
+                  18.154,
+                  50.968
+                ],
+                [
+                  17.239,
+                  51.067
+                ],
+                [
+                  16.3,
+                  51.1
+                ],
+                [
+                  15.361,
+                  51.067
+                ],
+                [
+                  14.446,
+                  50.968
+                ],
+                [
+                  13.576,
+                  50.806
+                ],
+                [
+                  12.773,
+                  50.584
+                ],
+                [
+                  12.057,
+                  50.309
+                ],
+                [
+                  11.446,
+                  49.987
+                ],
+                [
+                  10.954,
+                  49.626
+                ],
+                [
+                  10.594,
+                  49.234
+                ],
+                [
+                  10.374,
+                  48.822
+                ],
+                [
+                  10.3,
+                  48.4
+                ],
+                [
+                  10.374,
+                  47.978
+                ],
+                [
+                  10.594,
+                  47.566
+                ],
+                [
+                  10.954,
+                  47.174
+                ],
+                [
+                  11.446,
+                  46.813
+                ],
+                [
+                  12.057,
+                  46.491
+                ],
+                [
+                  12.773,
+                  46.216
+                ],
+                [
+                  13.576,
+                  45.994
+                ],
+                [
+                  14.446,
+                  45.832
+                ],
+                [
+                  15.361,
+                  45.733
+                ],
+                [
+                  16.3,
+                  45.7
+                ],
+                [
+                  17.239,
+                  45.733
+                ],
+                [
+                  18.154,
+                  45.832
+                ],
+                [
+                  19.024,
+                  45.994
+                ],
+                [
+                  19.827,
+                  46.216
+                ],
+                [
+                  20.543,
+                  46.491
+                ],
+                [
+                  21.154,
+                  46.813
+                ],
+                [
+                  21.646,
+                  47.174
+                ],
+                [
+                  22.006,
+                  47.566
+                ],
+                [
+                  22.226,
+                  47.978
+                ],
+                [
+                  22.3,
+                  48.4
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#c47f49"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  15.4,
+                  43
+                ],
+                [
+                  15.364,
+                  43.375
+                ],
+                [
+                  15.258,
+                  43.742
+                ],
+                [
+                  15.084,
+                  44.09
+                ],
+                [
+                  14.846,
+                  44.411
+                ],
+                [
+                  14.551,
+                  44.697
+                ],
+                [
+                  14.205,
+                  44.942
+                ],
+                [
+                  13.817,
+                  45.138
+                ],
+                [
+                  13.396,
+                  45.283
+                ],
+                [
+                  12.954,
+                  45.37
+                ],
+                [
+                  12.5,
+                  45.4
+                ],
+                [
+                  12.046,
+                  45.37
+                ],
+                [
+                  11.604,
+                  45.283
+                ],
+                [
+                  11.183,
+                  45.138
+                ],
+                [
+                  10.795,
+                  44.942
+                ],
+                [
+                  10.449,
+                  44.697
+                ],
+                [
+                  10.154,
+                  44.411
+                ],
+                [
+                  9.916,
+                  44.09
+                ],
+                [
+                  9.742,
+                  43.742
+                ],
+                [
+                  9.636,
+                  43.375
+                ],
+                [
+                  9.6,
+                  43
+                ],
+                [
+                  9.636,
+                  42.625
+                ],
+                [
+                  9.742,
+                  42.258
+                ],
+                [
+                  9.916,
+                  41.91
+                ],
+                [
+                  10.154,
+                  41.589
+                ],
+                [
+                  10.449,
+                  41.303
+                ],
+                [
+                  10.795,
+                  41.058
+                ],
+                [
+                  11.183,
+                  40.862
+                ],
+                [
+                  11.604,
+                  40.717
+                ],
+                [
+                  12.046,
+                  40.63
+                ],
+                [
+                  12.5,
+                  40.6
+                ],
+                [
+                  12.954,
+                  40.63
+                ],
+                [
+                  13.396,
+                  40.717
+                ],
+                [
+                  13.817,
+                  40.862
+                ],
+                [
+                  14.205,
+                  41.058
+                ],
+                [
+                  14.551,
+                  41.303
+                ],
+                [
+                  14.846,
+                  41.589
+                ],
+                [
+                  15.084,
+                  41.91
+                ],
+                [
+                  15.258,
+                  42.258
+                ],
+                [
+                  15.364,
+                  42.625
+                ],
+                [
+                  15.4,
+                  43
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#c47f49"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  42.5,
+                  50
+                ],
+                [
+                  42.432,
+                  50.485
+                ],
+                [
+                  42.231,
+                  50.958
+                ],
+                [
+                  41.901,
+                  51.407
+                ],
+                [
+                  41.45,
+                  51.822
+                ],
+                [
+                  40.889,
+                  52.192
+                ],
+                [
+                  40.233,
+                  52.508
+                ],
+                [
+                  39.497,
+                  52.762
+                ],
+                [
+                  38.7,
+                  52.948
+                ],
+                [
+                  37.86,
+                  53.062
+                ],
+                [
+                  37,
+                  53.1
+                ],
+                [
+                  36.14,
+                  53.062
+                ],
+                [
+                  35.3,
+                  52.948
+                ],
+                [
+                  34.503,
+                  52.762
+                ],
+                [
+                  33.767,
+                  52.508
+                ],
+                [
+                  33.111,
+                  52.192
+                ],
+                [
+                  32.55,
+                  51.822
+                ],
+                [
+                  32.099,
+                  51.407
+                ],
+                [
+                  31.769,
+                  50.958
+                ],
+                [
+                  31.568,
+                  50.485
+                ],
+                [
+                  31.5,
+                  50
+                ],
+                [
+                  31.568,
+                  49.515
+                ],
+                [
+                  31.769,
+                  49.042
+                ],
+                [
+                  32.099,
+                  48.593
+                ],
+                [
+                  32.55,
+                  48.178
+                ],
+                [
+                  33.111,
+                  47.808
+                ],
+                [
+                  33.767,
+                  47.492
+                ],
+                [
+                  34.503,
+                  47.238
+                ],
+                [
+                  35.3,
+                  47.052
+                ],
+                [
+                  36.14,
+                  46.938
+                ],
+                [
+                  37,
+                  46.9
+                ],
+                [
+                  37.86,
+                  46.938
+                ],
+                [
+                  38.7,
+                  47.052
+                ],
+                [
+                  39.497,
+                  47.238
+                ],
+                [
+                  40.233,
+                  47.492
+                ],
+                [
+                  40.889,
+                  47.808
+                ],
+                [
+                  41.45,
+                  48.178
+                ],
+                [
+                  41.901,
+                  48.593
+                ],
+                [
+                  42.231,
+                  49.042
+                ],
+                [
+                  42.432,
+                  49.515
+                ],
+                [
+                  42.5,
+                  50
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Solutrense",
+      "row": 2,
+      "from": 12,
+      "to": 15,
+      "text": "Los hallazgos solutrenses se documentan sobre todo en Francia y la península ibérica. Las manchas sirven para localizar esas regiones.",
+      "color": "#479a85",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#479a85"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  0.8,
+                  41.1
+                ],
+                [
+                  0.737,
+                  41.663
+                ],
+                [
+                  0.55,
+                  42.212
+                ],
+                [
+                  0.244,
+                  42.734
+                ],
+                [
+                  -0.174,
+                  43.216
+                ],
+                [
+                  -0.694,
+                  43.646
+                ],
+                [
+                  -1.302,
+                  44.012
+                ],
+                [
+                  -1.985,
+                  44.308
+                ],
+                [
+                  -2.724,
+                  44.524
+                ],
+                [
+                  -3.502,
+                  44.656
+                ],
+                [
+                  -4.3,
+                  44.7
+                ],
+                [
+                  -5.098,
+                  44.656
+                ],
+                [
+                  -5.876,
+                  44.524
+                ],
+                [
+                  -6.615,
+                  44.308
+                ],
+                [
+                  -7.298,
+                  44.012
+                ],
+                [
+                  -7.906,
+                  43.646
+                ],
+                [
+                  -8.426,
+                  43.216
+                ],
+                [
+                  -8.844,
+                  42.734
+                ],
+                [
+                  -9.15,
+                  42.212
+                ],
+                [
+                  -9.337,
+                  41.663
+                ],
+                [
+                  -9.4,
+                  41.1
+                ],
+                [
+                  -9.337,
+                  40.537
+                ],
+                [
+                  -9.15,
+                  39.988
+                ],
+                [
+                  -8.844,
+                  39.466
+                ],
+                [
+                  -8.426,
+                  38.984
+                ],
+                [
+                  -7.906,
+                  38.554
+                ],
+                [
+                  -7.298,
+                  38.188
+                ],
+                [
+                  -6.615,
+                  37.892
+                ],
+                [
+                  -5.876,
+                  37.676
+                ],
+                [
+                  -5.098,
+                  37.544
+                ],
+                [
+                  -4.3,
+                  37.5
+                ],
+                [
+                  -3.502,
+                  37.544
+                ],
+                [
+                  -2.724,
+                  37.676
+                ],
+                [
+                  -1.985,
+                  37.892
+                ],
+                [
+                  -1.302,
+                  38.188
+                ],
+                [
+                  -0.694,
+                  38.554
+                ],
+                [
+                  -0.174,
+                  38.984
+                ],
+                [
+                  0.244,
+                  39.466
+                ],
+                [
+                  0.55,
+                  39.988
+                ],
+                [
+                  0.737,
+                  40.537
+                ],
+                [
+                  0.8,
+                  41.1
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#479a85"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  6,
+                  45.8
+                ],
+                [
+                  5.95,
+                  46.175
+                ],
+                [
+                  5.799,
+                  46.542
+                ],
+                [
+                  5.553,
+                  46.89
+                ],
+                [
+                  5.217,
+                  47.211
+                ],
+                [
+                  4.799,
+                  47.497
+                ],
+                [
+                  4.31,
+                  47.742
+                ],
+                [
+                  3.761,
+                  47.938
+                ],
+                [
+                  3.167,
+                  48.083
+                ],
+                [
+                  2.541,
+                  48.17
+                ],
+                [
+                  1.9,
+                  48.2
+                ],
+                [
+                  1.259,
+                  48.17
+                ],
+                [
+                  0.633,
+                  48.083
+                ],
+                [
+                  0.039,
+                  47.938
+                ],
+                [
+                  -0.51,
+                  47.742
+                ],
+                [
+                  -0.999,
+                  47.497
+                ],
+                [
+                  -1.417,
+                  47.211
+                ],
+                [
+                  -1.753,
+                  46.89
+                ],
+                [
+                  -1.999,
+                  46.542
+                ],
+                [
+                  -2.15,
+                  46.175
+                ],
+                [
+                  -2.2,
+                  45.8
+                ],
+                [
+                  -2.15,
+                  45.425
+                ],
+                [
+                  -1.999,
+                  45.058
+                ],
+                [
+                  -1.753,
+                  44.71
+                ],
+                [
+                  -1.417,
+                  44.389
+                ],
+                [
+                  -0.999,
+                  44.103
+                ],
+                [
+                  -0.51,
+                  43.858
+                ],
+                [
+                  0.039,
+                  43.662
+                ],
+                [
+                  0.633,
+                  43.517
+                ],
+                [
+                  1.259,
+                  43.43
+                ],
+                [
+                  1.9,
+                  43.4
+                ],
+                [
+                  2.541,
+                  43.43
+                ],
+                [
+                  3.167,
+                  43.517
+                ],
+                [
+                  3.761,
+                  43.662
+                ],
+                [
+                  4.31,
+                  43.858
+                ],
+                [
+                  4.799,
+                  44.103
+                ],
+                [
+                  5.217,
+                  44.389
+                ],
+                [
+                  5.553,
+                  44.71
+                ],
+                [
+                  5.799,
+                  45.058
+                ],
+                [
+                  5.95,
+                  45.425
+                ],
+                [
+                  6,
+                  45.8
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Magdaleniense",
+      "row": 2,
+      "from": 15,
+      "to": 19,
+      "text": "Hay yacimientos magdalenienses en Europa occidental y central. Aquí se destacan el norte ibérico, Francia y varios ejemplos centroeuropeos.",
+      "color": "#cc6176",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#cc6176"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  1,
+                  42.8
+                ],
+                [
+                  0.946,
+                  43.019
+                ],
+                [
+                  0.785,
+                  43.233
+                ],
+                [
+                  0.52,
+                  43.436
+                ],
+                [
+                  0.16,
+                  43.623
+                ],
+                [
+                  -0.289,
+                  43.79
+                ],
+                [
+                  -0.814,
+                  43.933
+                ],
+                [
+                  -1.402,
+                  44.047
+                ],
+                [
+                  -2.04,
+                  44.131
+                ],
+                [
+                  -2.712,
+                  44.183
+                ],
+                [
+                  -3.4,
+                  44.2
+                ],
+                [
+                  -4.088,
+                  44.183
+                ],
+                [
+                  -4.76,
+                  44.131
+                ],
+                [
+                  -5.398,
+                  44.047
+                ],
+                [
+                  -5.986,
+                  43.933
+                ],
+                [
+                  -6.511,
+                  43.79
+                ],
+                [
+                  -6.96,
+                  43.623
+                ],
+                [
+                  -7.32,
+                  43.436
+                ],
+                [
+                  -7.585,
+                  43.233
+                ],
+                [
+                  -7.746,
+                  43.019
+                ],
+                [
+                  -7.8,
+                  42.8
+                ],
+                [
+                  -7.746,
+                  42.581
+                ],
+                [
+                  -7.585,
+                  42.367
+                ],
+                [
+                  -7.32,
+                  42.164
+                ],
+                [
+                  -6.96,
+                  41.977
+                ],
+                [
+                  -6.511,
+                  41.81
+                ],
+                [
+                  -5.986,
+                  41.667
+                ],
+                [
+                  -5.398,
+                  41.553
+                ],
+                [
+                  -4.76,
+                  41.469
+                ],
+                [
+                  -4.088,
+                  41.417
+                ],
+                [
+                  -3.4,
+                  41.4
+                ],
+                [
+                  -2.712,
+                  41.417
+                ],
+                [
+                  -2.04,
+                  41.469
+                ],
+                [
+                  -1.402,
+                  41.553
+                ],
+                [
+                  -0.814,
+                  41.667
+                ],
+                [
+                  -0.289,
+                  41.81
+                ],
+                [
+                  0.16,
+                  41.977
+                ],
+                [
+                  0.52,
+                  42.164
+                ],
+                [
+                  0.785,
+                  42.367
+                ],
+                [
+                  0.946,
+                  42.581
+                ],
+                [
+                  1,
+                  42.8
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#cc6176"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  6.5,
+                  46
+                ],
+                [
+                  6.441,
+                  46.469
+                ],
+                [
+                  6.265,
+                  46.927
+                ],
+                [
+                  5.977,
+                  47.362
+                ],
+                [
+                  5.583,
+                  47.763
+                ],
+                [
+                  5.094,
+                  48.121
+                ],
+                [
+                  4.521,
+                  48.427
+                ],
+                [
+                  3.879,
+                  48.673
+                ],
+                [
+                  3.183,
+                  48.853
+                ],
+                [
+                  2.451,
+                  48.963
+                ],
+                [
+                  1.7,
+                  49
+                ],
+                [
+                  0.949,
+                  48.963
+                ],
+                [
+                  0.217,
+                  48.853
+                ],
+                [
+                  -0.479,
+                  48.673
+                ],
+                [
+                  -1.121,
+                  48.427
+                ],
+                [
+                  -1.694,
+                  48.121
+                ],
+                [
+                  -2.183,
+                  47.763
+                ],
+                [
+                  -2.577,
+                  47.362
+                ],
+                [
+                  -2.865,
+                  46.927
+                ],
+                [
+                  -3.041,
+                  46.469
+                ],
+                [
+                  -3.1,
+                  46
+                ],
+                [
+                  -3.041,
+                  45.531
+                ],
+                [
+                  -2.865,
+                  45.073
+                ],
+                [
+                  -2.577,
+                  44.638
+                ],
+                [
+                  -2.183,
+                  44.237
+                ],
+                [
+                  -1.694,
+                  43.879
+                ],
+                [
+                  -1.121,
+                  43.573
+                ],
+                [
+                  -0.479,
+                  43.327
+                ],
+                [
+                  0.217,
+                  43.147
+                ],
+                [
+                  0.949,
+                  43.037
+                ],
+                [
+                  1.7,
+                  43
+                ],
+                [
+                  2.451,
+                  43.037
+                ],
+                [
+                  3.183,
+                  43.147
+                ],
+                [
+                  3.879,
+                  43.327
+                ],
+                [
+                  4.521,
+                  43.573
+                ],
+                [
+                  5.094,
+                  43.879
+                ],
+                [
+                  5.583,
+                  44.237
+                ],
+                [
+                  5.977,
+                  44.638
+                ],
+                [
+                  6.265,
+                  45.073
+                ],
+                [
+                  6.441,
+                  45.531
+                ],
+                [
+                  6.5,
+                  46
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#cc6176"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  20.4,
+                  49.2
+                ],
+                [
+                  20.316,
+                  49.56
+                ],
+                [
+                  20.067,
+                  49.911
+                ],
+                [
+                  19.659,
+                  50.244
+                ],
+                [
+                  19.101,
+                  50.552
+                ],
+                [
+                  18.408,
+                  50.826
+                ],
+                [
+                  17.597,
+                  51.061
+                ],
+                [
+                  16.687,
+                  51.249
+                ],
+                [
+                  15.701,
+                  51.387
+                ],
+                [
+                  14.664,
+                  51.472
+                ],
+                [
+                  13.6,
+                  51.5
+                ],
+                [
+                  12.536,
+                  51.472
+                ],
+                [
+                  11.499,
+                  51.387
+                ],
+                [
+                  10.513,
+                  51.249
+                ],
+                [
+                  9.603,
+                  51.061
+                ],
+                [
+                  8.792,
+                  50.826
+                ],
+                [
+                  8.099,
+                  50.552
+                ],
+                [
+                  7.541,
+                  50.244
+                ],
+                [
+                  7.133,
+                  49.911
+                ],
+                [
+                  6.884,
+                  49.56
+                ],
+                [
+                  6.8,
+                  49.2
+                ],
+                [
+                  6.884,
+                  48.84
+                ],
+                [
+                  7.133,
+                  48.489
+                ],
+                [
+                  7.541,
+                  48.156
+                ],
+                [
+                  8.099,
+                  47.848
+                ],
+                [
+                  8.792,
+                  47.574
+                ],
+                [
+                  9.603,
+                  47.339
+                ],
+                [
+                  10.513,
+                  47.151
+                ],
+                [
+                  11.499,
+                  47.013
+                ],
+                [
+                  12.536,
+                  46.928
+                ],
+                [
+                  13.6,
+                  46.9
+                ],
+                [
+                  14.664,
+                  46.928
+                ],
+                [
+                  15.701,
+                  47.013
+                ],
+                [
+                  16.687,
+                  47.151
+                ],
+                [
+                  17.597,
+                  47.339
+                ],
+                [
+                  18.408,
+                  47.574
+                ],
+                [
+                  19.101,
+                  47.848
+                ],
+                [
+                  19.659,
+                  48.156
+                ],
+                [
+                  20.067,
+                  48.489
+                ],
+                [
+                  20.316,
+                  48.84
+                ],
+                [
+                  20.4,
+                  49.2
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "environments": [
+    {
+      "id": "hielo-18ka",
+      "title": "Hielo · 18.000 años BP",
+      "date": "18.000 años BP",
+      "text": "Reconstrucción del hielo de hace 18.000 años de referencia, incluidos los mantos británico-irlandés y escandinavo. Su extensión máxima se alcanzó en momentos diferentes según la región. BP cuenta los años hacia atrás desde 1950.",
+      "color": "#f7fbff",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#f7fbff",
+            "opacity": 0.67
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  57.639,
+                  76.5739
+                ],
+                [
+                  60.478,
+                  77.0898
+                ],
+                [
+                  63.637,
+                  77.562
+                ],
+                [
+                  64.8795,
+                  77.8306
+                ],
+                [
+                  65.5868,
+                  78.0672
+                ],
+                [
+                  66.5932,
+                  78.5479
+                ],
+                [
+                  67.7648,
+                  78.9966
+                ],
+                [
+                  68.097,
+                  79.2031
+                ],
+                [
+                  68.1828,
+                  79.4343
+                ],
+                [
+                  68.0428,
+                  79.8577
+                ],
+                [
+                  68.043,
+                  80.0396
+                ],
+                [
+                  68.5555,
+                  80.888
+                ],
+                [
+                  68.579,
+                  81.1992
+                ],
+                [
+                  68.3932,
+                  81.4111
+                ],
+                [
+                  67.8731,
+                  81.7021
+                ],
+                [
+                  67.11,
+                  81.9148
+                ],
+                [
+                  65.3378,
+                  82.059
+                ],
+                [
+                  61.9861,
+                  82.4633
+                ],
+                [
+                  58.3748,
+                  82.7628
+                ],
+                [
+                  57.1708,
+                  82.7809
+                ],
+                [
+                  50.9311,
+                  82.4695
+                ],
+                [
+                  46.0642,
+                  82.1413
+                ],
+                [
+                  42.9274,
+                  81.7836
+                ],
+                [
+                  39.8194,
+                  81.2937
+                ],
+                [
+                  38.4679,
+                  81.1796
+                ],
+                [
+                  35.0018,
+                  81.2458
+                ],
+                [
+                  32.4888,
+                  81.4067
+                ],
+                [
+                  30.7015,
+                  81.3578
+                ],
+                [
+                  28.2679,
+                  81.1565
+                ],
+                [
+                  24.8455,
+                  81.2671
+                ],
+                [
+                  22.7602,
+                  81.2086
+                ],
+                [
+                  16.8108,
+                  80.6631
+                ],
+                [
+                  10.8983,
+                  79.9236
+                ],
+                [
+                  9.0193,
+                  79.5606
+                ],
+                [
+                  8.6754,
+                  79.345
+                ],
+                [
+                  8.6489,
+                  79.2273
+                ],
+                [
+                  8.7239,
+                  79.0995
+                ],
+                [
+                  9.8575,
+                  78.6628
+                ],
+                [
+                  10.6786,
+                  77.9562
+                ],
+                [
+                  11.7419,
+                  77.6398
+                ],
+                [
+                  12.6818,
+                  77.1995
+                ],
+                [
+                  13.5381,
+                  76.8894
+                ],
+                [
+                  15.3328,
+                  76.4215
+                ],
+                [
+                  15.7521,
+                  76.2458
+                ],
+                [
+                  16.6641,
+                  76.0779
+                ],
+                [
+                  16.5504,
+                  75.928
+                ],
+                [
+                  16.6676,
+                  75.6924
+                ],
+                [
+                  16.3246,
+                  75.4086
+                ],
+                [
+                  16.476,
+                  75.1533
+                ],
+                [
+                  16.3859,
+                  74.4604
+                ],
+                [
+                  16.4407,
+                  74.1727
+                ],
+                [
+                  15.9423,
+                  73.5572
+                ],
+                [
+                  15.8682,
+                  73.3438
+                ],
+                [
+                  16.139,
+                  72.8943
+                ],
+                [
+                  16.7441,
+                  72.3557
+                ],
+                [
+                  17.1473,
+                  72.159
+                ],
+                [
+                  17.4546,
+                  71.7811
+                ],
+                [
+                  17.4903,
+                  71.5669
+                ],
+                [
+                  17.4449,
+                  71.3217
+                ],
+                [
+                  17.5246,
+                  71.2016
+                ],
+                [
+                  17.5064,
+                  71.0264
+                ],
+                [
+                  17.6472,
+                  70.704
+                ],
+                [
+                  17.6206,
+                  70.3914
+                ],
+                [
+                  17.4868,
+                  70.16
+                ],
+                [
+                  16.9948,
+                  69.9729
+                ],
+                [
+                  16.7144,
+                  69.7979
+                ],
+                [
+                  16.5487,
+                  69.4618
+                ],
+                [
+                  16.2142,
+                  69.1926
+                ],
+                [
+                  16.0285,
+                  69.1597
+                ],
+                [
+                  15.5694,
+                  69.2044
+                ],
+                [
+                  14.9913,
+                  69.0878
+                ],
+                [
+                  12.7234,
+                  68.4595
+                ],
+                [
+                  11.9804,
+                  68.1427
+                ],
+                [
+                  11.4283,
+                  67.8038
+                ],
+                [
+                  11.3124,
+                  67.5338
+                ],
+                [
+                  11.3545,
+                  67.3895
+                ],
+                [
+                  11.7467,
+                  66.9526
+                ],
+                [
+                  11.7722,
+                  66.8264
+                ],
+                [
+                  11.7053,
+                  66.7372
+                ],
+                [
+                  11.1273,
+                  66.5656
+                ],
+                [
+                  10.9717,
+                  66.4002
+                ],
+                [
+                  10.8811,
+                  66.1894
+                ],
+                [
+                  10.7155,
+                  66.0423
+                ],
+                [
+                  10.4896,
+                  65.9269
+                ],
+                [
+                  9.8551,
+                  65.7656
+                ],
+                [
+                  9.6304,
+                  65.4941
+                ],
+                [
+                  9.297,
+                  65.3042
+                ],
+                [
+                  7.6362,
+                  65.0466
+                ],
+                [
+                  7.3518,
+                  64.9499
+                ],
+                [
+                  7.1258,
+                  64.6903
+                ],
+                [
+                  6.6325,
+                  64.3312
+                ],
+                [
+                  6.3793,
+                  63.8805
+                ],
+                [
+                  6.1539,
+                  63.6719
+                ],
+                [
+                  5.9886,
+                  63.4119
+                ],
+                [
+                  5.6415,
+                  63.2841
+                ],
+                [
+                  5.095,
+                  62.9827
+                ],
+                [
+                  4.02,
+                  62.6231
+                ],
+                [
+                  3.9354,
+                  62.545
+                ],
+                [
+                  3.8745,
+                  62.2201
+                ],
+                [
+                  4.3589,
+                  61.7155
+                ],
+                [
+                  4.4239,
+                  60.9811
+                ],
+                [
+                  4.6168,
+                  60.6283
+                ],
+                [
+                  4.8369,
+                  60.0204
+                ],
+                [
+                  4.9293,
+                  59.4456
+                ],
+                [
+                  5.0363,
+                  59.163
+                ],
+                [
+                  5.3084,
+                  58.8264
+                ],
+                [
+                  5.4015,
+                  58.5815
+                ],
+                [
+                  5.5502,
+                  58.4561
+                ],
+                [
+                  5.5722,
+                  58.3318
+                ],
+                [
+                  5.9566,
+                  58.0464
+                ],
+                [
+                  6.8409,
+                  57.677
+                ],
+                [
+                  7.8692,
+                  57.4443
+                ],
+                [
+                  8.9506,
+                  57.5554
+                ],
+                [
+                  9.8479,
+                  57.8886
+                ],
+                [
+                  10.1712,
+                  57.9536
+                ],
+                [
+                  10.5202,
+                  57.9391
+                ],
+                [
+                  10.8246,
+                  57.7947
+                ],
+                [
+                  11.2247,
+                  56.6805
+                ],
+                [
+                  11.1556,
+                  56.1478
+                ],
+                [
+                  10.9657,
+                  55.9168
+                ],
+                [
+                  10.4838,
+                  55.6209
+                ],
+                [
+                  9.8635,
+                  55.3675
+                ],
+                [
+                  9.7127,
+                  55.1964
+                ],
+                [
+                  9.6641,
+                  54.9863
+                ],
+                [
+                  9.7541,
+                  54.7927
+                ],
+                [
+                  10.1585,
+                  54.3851
+                ],
+                [
+                  10.7285,
+                  54.2543
+                ],
+                [
+                  10.8214,
+                  54.0546
+                ],
+                [
+                  10.9721,
+                  53.9455
+                ],
+                [
+                  11.7959,
+                  53.8727
+                ],
+                [
+                  12.5971,
+                  53.9458
+                ],
+                [
+                  13.6586,
+                  53.5945
+                ],
+                [
+                  14.1262,
+                  53.3187
+                ],
+                [
+                  14.7686,
+                  53.236
+                ],
+                [
+                  15.4727,
+                  53.4258
+                ],
+                [
+                  15.5559,
+                  53.5085
+                ],
+                [
+                  16.1274,
+                  53.7135
+                ],
+                [
+                  16.6115,
+                  53.729
+                ],
+                [
+                  16.8419,
+                  54.0044
+                ],
+                [
+                  17.5371,
+                  54.1085
+                ],
+                [
+                  17.9788,
+                  54.2771
+                ],
+                [
+                  18.2374,
+                  54.1535
+                ],
+                [
+                  18.381,
+                  53.8776
+                ],
+                [
+                  18.5248,
+                  53.7376
+                ],
+                [
+                  18.7707,
+                  53.6524
+                ],
+                [
+                  19.5203,
+                  53.6563
+                ],
+                [
+                  20.1623,
+                  53.8814
+                ],
+                [
+                  21.7298,
+                  54.0875
+                ],
+                [
+                  23.0863,
+                  54.1618
+                ],
+                [
+                  23.7802,
+                  54.0864
+                ],
+                [
+                  24.0346,
+                  54.2288
+                ],
+                [
+                  24.3867,
+                  54.5733
+                ],
+                [
+                  24.7972,
+                  54.8148
+                ],
+                [
+                  25.1831,
+                  54.9065
+                ],
+                [
+                  25.5121,
+                  55.1151
+                ],
+                [
+                  25.8761,
+                  55.2412
+                ],
+                [
+                  26.0155,
+                  55.4525
+                ],
+                [
+                  26.1413,
+                  55.5358
+                ],
+                [
+                  27.2995,
+                  55.2826
+                ],
+                [
+                  27.7821,
+                  55.4308
+                ],
+                [
+                  28.2561,
+                  55.4655
+                ],
+                [
+                  28.725,
+                  55.3418
+                ],
+                [
+                  29.4799,
+                  55.0172
+                ],
+                [
+                  30.0781,
+                  55.0665
+                ],
+                [
+                  30.201,
+                  55.1246
+                ],
+                [
+                  30.3518,
+                  55.3463
+                ],
+                [
+                  30.4833,
+                  55.4146
+                ],
+                [
+                  31.1478,
+                  55.4233
+                ],
+                [
+                  31.6588,
+                  55.5164
+                ],
+                [
+                  32.055,
+                  55.9785
+                ],
+                [
+                  32.0733,
+                  56.1256
+                ],
+                [
+                  31.951,
+                  56.4231
+                ],
+                [
+                  32.0418,
+                  56.6045
+                ],
+                [
+                  32.1938,
+                  56.7249
+                ],
+                [
+                  32.6149,
+                  56.7589
+                ],
+                [
+                  33.0756,
+                  56.8736
+                ],
+                [
+                  33.5519,
+                  56.8745
+                ],
+                [
+                  33.6353,
+                  56.9634
+                ],
+                [
+                  33.4847,
+                  57.2235
+                ],
+                [
+                  33.5662,
+                  57.2959
+                ],
+                [
+                  33.7482,
+                  57.3878
+                ],
+                [
+                  34.2277,
+                  57.3551
+                ],
+                [
+                  34.3931,
+                  57.5412
+                ],
+                [
+                  34.8491,
+                  57.5787
+                ],
+                [
+                  35.4852,
+                  57.8928
+                ],
+                [
+                  35.6046,
+                  58.0022
+                ],
+                [
+                  35.8348,
+                  58.4313
+                ],
+                [
+                  36.0256,
+                  59.1539
+                ],
+                [
+                  36.505,
+                  59.3556
+                ],
+                [
+                  36.8161,
+                  59.5512
+                ],
+                [
+                  37.6859,
+                  59.729
+                ],
+                [
+                  38.7244,
+                  59.6648
+                ],
+                [
+                  38.8332,
+                  59.7048
+                ],
+                [
+                  38.8617,
+                  59.8367
+                ],
+                [
+                  38.9647,
+                  59.8473
+                ],
+                [
+                  39.1149,
+                  59.8106
+                ],
+                [
+                  39.3169,
+                  59.6301
+                ],
+                [
+                  41.1743,
+                  58.8065
+                ],
+                [
+                  41.4445,
+                  58.8047
+                ],
+                [
+                  41.8344,
+                  58.9992
+                ],
+                [
+                  42.3338,
+                  59.0799
+                ],
+                [
+                  42.3639,
+                  59.19
+                ],
+                [
+                  42.0876,
+                  59.3179
+                ],
+                [
+                  42.1156,
+                  59.386
+                ],
+                [
+                  42.3837,
+                  59.5143
+                ],
+                [
+                  42.3565,
+                  59.6029
+                ],
+                [
+                  42.2587,
+                  59.6578
+                ],
+                [
+                  41.8565,
+                  59.713
+                ],
+                [
+                  41.3929,
+                  59.6147
+                ],
+                [
+                  40.7249,
+                  59.696
+                ],
+                [
+                  39.6136,
+                  59.9544
+                ],
+                [
+                  39.3885,
+                  60.1432
+                ],
+                [
+                  39.3988,
+                  60.2725
+                ],
+                [
+                  39.5344,
+                  60.421
+                ],
+                [
+                  39.5088,
+                  60.7006
+                ],
+                [
+                  39.5633,
+                  60.7956
+                ],
+                [
+                  39.2815,
+                  61.0819
+                ],
+                [
+                  39.2584,
+                  61.1986
+                ],
+                [
+                  39.864,
+                  61.5599
+                ],
+                [
+                  39.8266,
+                  61.9072
+                ],
+                [
+                  39.9686,
+                  62.0061
+                ],
+                [
+                  40.3305,
+                  62.0374
+                ],
+                [
+                  40.7348,
+                  61.771
+                ],
+                [
+                  40.9285,
+                  61.7205
+                ],
+                [
+                  41.0752,
+                  61.7684
+                ],
+                [
+                  41.16,
+                  61.9256
+                ],
+                [
+                  40.9877,
+                  62.2891
+                ],
+                [
+                  41.0792,
+                  62.4889
+                ],
+                [
+                  41.7906,
+                  62.4723
+                ],
+                [
+                  42.2746,
+                  62.195
+                ],
+                [
+                  42.3147,
+                  62.0963
+                ],
+                [
+                  42.2845,
+                  61.8338
+                ],
+                [
+                  42.4052,
+                  61.6376
+                ],
+                [
+                  42.2204,
+                  61.2558
+                ],
+                [
+                  42.1946,
+                  61.0634
+                ],
+                [
+                  42.34,
+                  60.8675
+                ],
+                [
+                  42.8925,
+                  60.5964
+                ],
+                [
+                  43.2761,
+                  60.6081
+                ],
+                [
+                  43.5175,
+                  60.7551
+                ],
+                [
+                  43.0946,
+                  61.037
+                ],
+                [
+                  42.8738,
+                  61.4906
+                ],
+                [
+                  43.0567,
+                  61.8646
+                ],
+                [
+                  43.4471,
+                  62.0611
+                ],
+                [
+                  43.7356,
+                  62.0331
+                ],
+                [
+                  43.9728,
+                  61.9264
+                ],
+                [
+                  44.6928,
+                  61.3991
+                ],
+                [
+                  44.7484,
+                  61.0891
+                ],
+                [
+                  45.0042,
+                  60.9688
+                ],
+                [
+                  45.2241,
+                  61.0695
+                ],
+                [
+                  45.151,
+                  61.2972
+                ],
+                [
+                  45.2353,
+                  61.6273
+                ],
+                [
+                  45.3994,
+                  61.7095
+                ],
+                [
+                  45.6934,
+                  61.6695
+                ],
+                [
+                  46.0034,
+                  61.5198
+                ],
+                [
+                  46.1347,
+                  61.4119
+                ],
+                [
+                  46.367,
+                  61.0294
+                ],
+                [
+                  46.6375,
+                  60.9426
+                ],
+                [
+                  46.7519,
+                  60.9638
+                ],
+                [
+                  47.1878,
+                  61.2453
+                ],
+                [
+                  48.0543,
+                  61.3291
+                ],
+                [
+                  48.8516,
+                  61.6016
+                ],
+                [
+                  48.9378,
+                  61.7334
+                ],
+                [
+                  48.5872,
+                  61.8873
+                ],
+                [
+                  48.5359,
+                  61.974
+                ],
+                [
+                  48.6059,
+                  62.015
+                ],
+                [
+                  48.5159,
+                  62.0661
+                ],
+                [
+                  48.282,
+                  62.0461
+                ],
+                [
+                  47.828,
+                  61.664
+                ],
+                [
+                  47.2748,
+                  61.6278
+                ],
+                [
+                  46.672,
+                  61.7899
+                ],
+                [
+                  45.7351,
+                  62.2174
+                ],
+                [
+                  44.0267,
+                  62.6133
+                ],
+                [
+                  43.6873,
+                  62.8447
+                ],
+                [
+                  43.6222,
+                  63.1223
+                ],
+                [
+                  43.4656,
+                  63.3913
+                ],
+                [
+                  43.5778,
+                  63.6079
+                ],
+                [
+                  43.9449,
+                  63.7627
+                ],
+                [
+                  44.724,
+                  63.8287
+                ],
+                [
+                  44.8783,
+                  63.9559
+                ],
+                [
+                  44.928,
+                  64.088
+                ],
+                [
+                  44.8262,
+                  64.252
+                ],
+                [
+                  44.6535,
+                  64.3434
+                ],
+                [
+                  43.4509,
+                  64.44
+                ],
+                [
+                  43.144,
+                  64.5099
+                ],
+                [
+                  42.9314,
+                  64.6643
+                ],
+                [
+                  42.7492,
+                  64.9667
+                ],
+                [
+                  42.3206,
+                  65.1027
+                ],
+                [
+                  42.1906,
+                  65.2173
+                ],
+                [
+                  42.2311,
+                  65.3088
+                ],
+                [
+                  42.5224,
+                  65.5264
+                ],
+                [
+                  42.2979,
+                  65.9121
+                ],
+                [
+                  43.1106,
+                  65.9951
+                ],
+                [
+                  43.4805,
+                  66.1545
+                ],
+                [
+                  43.387,
+                  66.3443
+                ],
+                [
+                  42.9974,
+                  66.7885
+                ],
+                [
+                  42.8645,
+                  67.1064
+                ],
+                [
+                  42.975,
+                  67.634
+                ],
+                [
+                  42.9318,
+                  67.9051
+                ],
+                [
+                  43.0834,
+                  68.3114
+                ],
+                [
+                  43.1105,
+                  68.7053
+                ],
+                [
+                  43.2445,
+                  68.7995
+                ],
+                [
+                  43.291,
+                  68.9383
+                ],
+                [
+                  43.4723,
+                  69.032
+                ],
+                [
+                  44.2561,
+                  69.1377
+                ],
+                [
+                  45.5976,
+                  69.5423
+                ],
+                [
+                  45.9424,
+                  69.749
+                ],
+                [
+                  46.8053,
+                  70.5001
+                ],
+                [
+                  47.521,
+                  70.9554
+                ],
+                [
+                  47.992,
+                  71.1786
+                ],
+                [
+                  48.9281,
+                  71.4547
+                ],
+                [
+                  49.7423,
+                  71.7737
+                ],
+                [
+                  51.1652,
+                  72.6244
+                ],
+                [
+                  51.4327,
+                  72.9464
+                ],
+                [
+                  51.9138,
+                  73.2838
+                ],
+                [
+                  52.1258,
+                  73.5968
+                ],
+                [
+                  52.1645,
+                  73.795
+                ],
+                [
+                  52.1289,
+                  73.9668
+                ],
+                [
+                  51.6267,
+                  74.4318
+                ],
+                [
+                  51.5567,
+                  74.6459
+                ],
+                [
+                  51.725,
+                  75.0174
+                ],
+                [
+                  52.1649,
+                  75.3532
+                ],
+                [
+                  52.7461,
+                  75.5892
+                ],
+                [
+                  53.78,
+                  75.8498
+                ],
+                [
+                  57.639,
+                  76.5739
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#f7fbff",
+            "opacity": 0.67
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -3.5904,
+                  51.7169
+                ],
+                [
+                  -3.2837,
+                  51.7715
+                ],
+                [
+                  -3.1427,
+                  51.9004
+                ],
+                [
+                  -3.0267,
+                  52.2143
+                ],
+                [
+                  -3.12,
+                  52.7057
+                ],
+                [
+                  -3.4418,
+                  53.161
+                ],
+                [
+                  -3.68,
+                  53.3156
+                ],
+                [
+                  -4.1906,
+                  53.2962
+                ],
+                [
+                  -4.3098,
+                  53.1596
+                ],
+                [
+                  -4.211,
+                  53.0159
+                ],
+                [
+                  -4.0658,
+                  52.3879
+                ],
+                [
+                  -3.938,
+                  52.1409
+                ],
+                [
+                  -3.9238,
+                  51.8952
+                ],
+                [
+                  -3.8155,
+                  51.758
+                ],
+                [
+                  -3.5904,
+                  51.7169
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#f7fbff",
+            "opacity": 0.67
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -7.7717,
+                  56.9452
+                ],
+                [
+                  -7.6652,
+                  56.7693
+                ],
+                [
+                  -7.5001,
+                  56.7589
+                ],
+                [
+                  -7.1454,
+                  56.4852
+                ],
+                [
+                  -7.0997,
+                  56.2882
+                ],
+                [
+                  -7.1479,
+                  56.0887
+                ],
+                [
+                  -7.535,
+                  55.6589
+                ],
+                [
+                  -7.6217,
+                  55.4891
+                ],
+                [
+                  -7.6266,
+                  55.3322
+                ],
+                [
+                  -8.3688,
+                  55.0432
+                ],
+                [
+                  -8.6654,
+                  54.8545
+                ],
+                [
+                  -9.3059,
+                  54.7394
+                ],
+                [
+                  -9.397,
+                  54.6424
+                ],
+                [
+                  -9.2545,
+                  54.3785
+                ],
+                [
+                  -9.3085,
+                  54.2472
+                ],
+                [
+                  -9.4686,
+                  54.1767
+                ],
+                [
+                  -9.8133,
+                  54.145
+                ],
+                [
+                  -10.2529,
+                  53.9638
+                ],
+                [
+                  -10.2842,
+                  53.8515
+                ],
+                [
+                  -10.2268,
+                  53.4723
+                ],
+                [
+                  -10.3519,
+                  52.985
+                ],
+                [
+                  -10.3134,
+                  52.8627
+                ],
+                [
+                  -10.1947,
+                  52.7521
+                ],
+                [
+                  -9.9789,
+                  52.6795
+                ],
+                [
+                  -9.4388,
+                  52.6246
+                ],
+                [
+                  -8.9962,
+                  52.4362
+                ],
+                [
+                  -8.3851,
+                  52.4585
+                ],
+                [
+                  -8.2917,
+                  52.5481
+                ],
+                [
+                  -8.4151,
+                  52.6345
+                ],
+                [
+                  -8.4095,
+                  52.8081
+                ],
+                [
+                  -7.9951,
+                  52.8349
+                ],
+                [
+                  -7.7834,
+                  52.7803
+                ],
+                [
+                  -7.55,
+                  52.8551
+                ],
+                [
+                  -7.2138,
+                  53.0942
+                ],
+                [
+                  -6.4606,
+                  53.3994
+                ],
+                [
+                  -5.3599,
+                  54.2405
+                ],
+                [
+                  -4.9011,
+                  54.2918
+                ],
+                [
+                  -4.7363,
+                  54.1301
+                ],
+                [
+                  -4.4926,
+                  54.098
+                ],
+                [
+                  -4.2507,
+                  53.9702
+                ],
+                [
+                  -3.6129,
+                  53.9645
+                ],
+                [
+                  -3.3532,
+                  53.7743
+                ],
+                [
+                  -3.0103,
+                  53.7557
+                ],
+                [
+                  -2.6267,
+                  53.9279
+                ],
+                [
+                  -2.3518,
+                  54.4681
+                ],
+                [
+                  -2.0896,
+                  54.65
+                ],
+                [
+                  -1.7461,
+                  54.7256
+                ],
+                [
+                  -1.3231,
+                  54.7252
+                ],
+                [
+                  -0.7742,
+                  54.6279
+                ],
+                [
+                  -0.3203,
+                  54.4211
+                ],
+                [
+                  0.2999,
+                  54.4443
+                ],
+                [
+                  0.62,
+                  54.5308
+                ],
+                [
+                  0.8444,
+                  54.6575
+                ],
+                [
+                  1.196,
+                  55.012
+                ],
+                [
+                  1.3139,
+                  55.2518
+                ],
+                [
+                  1.2761,
+                  55.6331
+                ],
+                [
+                  1.0776,
+                  55.949
+                ],
+                [
+                  0.9398,
+                  56.0482
+                ],
+                [
+                  0.5056,
+                  56.1912
+                ],
+                [
+                  0.1078,
+                  56.6065
+                ],
+                [
+                  -0.1677,
+                  56.7716
+                ],
+                [
+                  -0.7345,
+                  56.8515
+                ],
+                [
+                  -1.9881,
+                  56.5321
+                ],
+                [
+                  -2.3686,
+                  56.5855
+                ],
+                [
+                  -2.5085,
+                  56.7125
+                ],
+                [
+                  -2.4092,
+                  57.0368
+                ],
+                [
+                  -2.5512,
+                  57.3014
+                ],
+                [
+                  -2.5163,
+                  57.43
+                ],
+                [
+                  -2.0084,
+                  57.6855
+                ],
+                [
+                  -1.0654,
+                  57.9807
+                ],
+                [
+                  -0.6871,
+                  58.2055
+                ],
+                [
+                  -0.5016,
+                  58.4223
+                ],
+                [
+                  -0.5718,
+                  58.9569
+                ],
+                [
+                  -0.2613,
+                  59.1684
+                ],
+                [
+                  -0.1377,
+                  59.3447
+                ],
+                [
+                  0.0816,
+                  60.1073
+                ],
+                [
+                  -0.2294,
+                  60.6549
+                ],
+                [
+                  -0.3758,
+                  60.788
+                ],
+                [
+                  -0.584,
+                  60.8534
+                ],
+                [
+                  -1.2854,
+                  60.855
+                ],
+                [
+                  -2.1992,
+                  60.4628
+                ],
+                [
+                  -2.5059,
+                  60.3658
+                ],
+                [
+                  -2.9242,
+                  60.3197
+                ],
+                [
+                  -3.0147,
+                  60.2074
+                ],
+                [
+                  -2.897,
+                  59.8328
+                ],
+                [
+                  -3.0356,
+                  59.7272
+                ],
+                [
+                  -3.3647,
+                  59.6752
+                ],
+                [
+                  -3.8543,
+                  59.7989
+                ],
+                [
+                  -4.2155,
+                  59.7901
+                ],
+                [
+                  -4.8352,
+                  59.6207
+                ],
+                [
+                  -5.4113,
+                  59.3719
+                ],
+                [
+                  -5.6283,
+                  59.2185
+                ],
+                [
+                  -5.7489,
+                  59.0081
+                ],
+                [
+                  -5.7302,
+                  58.7942
+                ],
+                [
+                  -5.5326,
+                  58.4166
+                ],
+                [
+                  -5.5621,
+                  58.3263
+                ],
+                [
+                  -5.6926,
+                  58.2325
+                ],
+                [
+                  -6.1854,
+                  58.4551
+                ],
+                [
+                  -6.5799,
+                  58.5371
+                ],
+                [
+                  -6.9024,
+                  58.5394
+                ],
+                [
+                  -7.2001,
+                  58.4345
+                ],
+                [
+                  -7.7108,
+                  58.0434
+                ],
+                [
+                  -8.2131,
+                  57.4349
+                ],
+                [
+                  -8.0557,
+                  57.1823
+                ],
+                [
+                  -7.7717,
+                  56.9452
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hielo-10ka",
+      "title": "Hielo · 10.000 años BP",
+      "date": "10.000 años BP",
+      "text": "Reconstrucción de los restos del manto escandinavo hace 10.000 años de referencia. Es una fecha anterior al estado de 7000 a. C. citado en la leyenda. BP cuenta los años hacia atrás desde 1950.",
+      "color": "#e6f3ff",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#e6f3ff",
+            "opacity": 0.67
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7.7672,
+                  61.556
+                ],
+                [
+                  7.8293,
+                  61.3594
+                ],
+                [
+                  8.0817,
+                  61.0258
+                ],
+                [
+                  8.3373,
+                  60.9208
+                ],
+                [
+                  8.7955,
+                  60.8667
+                ],
+                [
+                  9.8249,
+                  60.9736
+                ],
+                [
+                  11.6421,
+                  61.344
+                ],
+                [
+                  12.2088,
+                  61.6138
+                ],
+                [
+                  12.5969,
+                  61.9552
+                ],
+                [
+                  12.8071,
+                  62.0617
+                ],
+                [
+                  13.6058,
+                  62.3063
+                ],
+                [
+                  14.0624,
+                  62.3424
+                ],
+                [
+                  14.4964,
+                  62.5327
+                ],
+                [
+                  15.0797,
+                  62.6977
+                ],
+                [
+                  15.3741,
+                  62.8962
+                ],
+                [
+                  15.8371,
+                  63.0938
+                ],
+                [
+                  16.1459,
+                  63.683
+                ],
+                [
+                  16.6375,
+                  64.0061
+                ],
+                [
+                  17.183,
+                  64.2857
+                ],
+                [
+                  18.032,
+                  64.5226
+                ],
+                [
+                  18.8595,
+                  64.8303
+                ],
+                [
+                  19.7179,
+                  65.3284
+                ],
+                [
+                  20.7305,
+                  65.7576
+                ],
+                [
+                  22.085,
+                  66.6072
+                ],
+                [
+                  22.2753,
+                  66.9001
+                ],
+                [
+                  22.2712,
+                  67.1689
+                ],
+                [
+                  22.1418,
+                  67.3517
+                ],
+                [
+                  21.7026,
+                  67.5673
+                ],
+                [
+                  20.3737,
+                  67.9732
+                ],
+                [
+                  18.8695,
+                  68.0317
+                ],
+                [
+                  17.6738,
+                  67.8163
+                ],
+                [
+                  16.3103,
+                  67.2477
+                ],
+                [
+                  16.0139,
+                  67.0498
+                ],
+                [
+                  15.4413,
+                  66.5685
+                ],
+                [
+                  14.393,
+                  65.4122
+                ],
+                [
+                  13.3691,
+                  64.6605
+                ],
+                [
+                  12.8728,
+                  63.9671
+                ],
+                [
+                  12.6818,
+                  63.2802
+                ],
+                [
+                  12.4106,
+                  62.997
+                ],
+                [
+                  12.3961,
+                  62.8155
+                ],
+                [
+                  12.2106,
+                  62.6015
+                ],
+                [
+                  11.1773,
+                  62.1591
+                ],
+                [
+                  10.6567,
+                  62.0103
+                ],
+                [
+                  10.328,
+                  61.9632
+                ],
+                [
+                  8.2443,
+                  61.9292
+                ],
+                [
+                  7.9208,
+                  61.8115
+                ],
+                [
+                  7.7672,
+                  61.556
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bosque-18000",
+      "title": "Límite de bosque · hace unos 18.000 años",
+      "date": "Hace unos 18.000 años",
+      "color": "#83c94c",
+      "text": "Límite septentrional orientativo de los bosques caducifolios, reconstruido de forma esquemática a partir del atlas. La línea resume una transición de vegetación. Las reconstrucciones basadas en polen permiten contrastar la tendencia general.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#83c94c"
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -9.2,
+                39.2
+              ],
+              [
+                -6.5,
+                39.4
+              ],
+              [
+                -3.6,
+                39.5
+              ],
+              [
+                -0.5,
+                40
+              ],
+              [
+                2.2,
+                41.4
+              ],
+              [
+                5.2,
+                43.5
+              ],
+              [
+                8.5,
+                43.6
+              ],
+              [
+                11.4,
+                42.1
+              ],
+              [
+                13.5,
+                43.2
+              ],
+              [
+                16.5,
+                44.5
+              ],
+              [
+                20.5,
+                44.1
+              ],
+              [
+                25.6,
+                43.8
+              ],
+              [
+                29.8,
+                43.6
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bosque-7000",
+      "title": "Vegetación · cerca de 7000 a. C.",
+      "date": "9000 años BP",
+      "color": "#14804a",
+      "text": "Reconstrucción basada en polen de hace unos 9000 años BP, cerca de 7000 a. C. Cuanto más intenso es el verde, mayor es la cobertura de árboles estimada. La capa representa árboles en general. Las zonas transparentes pueden tener poca cobertura o carecer de datos.",
+      "areas": [],
+      "heading": "Cobertura forestal",
+      "raster": {
+        "url": "./datos/imagenes/bosque-9000.png",
+        "coordinates": [
+          [
+            -11,
+            71.5
+          ],
+          [
+            43,
+            71.5
+          ],
+          [
+            43,
+            29
+          ],
+          [
+            -11,
+            29
+          ]
+        ]
+      }
+    },
+    {
+      "id": "sapiens-oriente",
+      "title": "Homo sapiens · de Oriente Medio a Europa",
+      "heading": "Homo sapiens · de Oriente Medio a Europa",
+      "date": "Hace unos 40.000 años, según el atlas",
+      "text": "Dirección aproximada desde el Levante por Anatolia hacia los Balcanes. La flecha esquematiza el mapa de referencia. En el sudeste europeo hay restos de Homo sapiens anteriores a esa fecha.",
+      "color": "#7135b5",
+      "group": "Poblaciones y desplazamientos",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#7135b5",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                35.7,
+                32.7
+              ],
+              [
+                36.4,
+                35.4
+              ],
+              [
+                34,
+                37.5
+              ],
+              [
+                29,
+                39
+              ],
+              [
+                26.5,
+                41.2
+              ],
+              [
+                24,
+                43
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": -45.4482063293753,
+            "icon": "flecha-sapiens"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              24,
+              43
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sapiens-danubio",
+      "title": "Homo sapiens · corredor del Danubio",
+      "heading": "Homo sapiens · corredor del Danubio",
+      "date": "44.000–41.000 años atrás · modelo",
+      "text": "Posible dispersión auriñaciense desde los Balcanes hacia Europa central, siguiendo el corredor del Danubio y regiones próximas. Es un resultado del modelo.",
+      "color": "#7135b5",
+      "group": "Poblaciones y desplazamientos",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#7135b5",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                26.8,
+                44.4
+              ],
+              [
+                23.2,
+                44.2
+              ],
+              [
+                20.9,
+                45
+              ],
+              [
+                18.8,
+                47
+              ],
+              [
+                16.3,
+                48.2
+              ],
+              [
+                13.2,
+                48.6
+              ],
+              [
+                9.2,
+                48.5
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": -92.16068833220942,
+            "icon": "flecha-sapiens"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              9.2,
+              48.5
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sapiens-mediterraneo",
+      "title": "Homo sapiens · corredor mediterráneo",
+      "heading": "Homo sapiens · corredor mediterráneo",
+      "date": "44.000–41.000 años atrás · modelo",
+      "text": "Posible dispersión por el norte de Italia y el sur de Francia, con una rama hacia la cornisa cantábrica. El trazado resume el modelo a escala continental.",
+      "color": "#7135b5",
+      "group": "Poblaciones y desplazamientos",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#7135b5",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                15.4,
+                45.8
+              ],
+              [
+                12.4,
+                45.3
+              ],
+              [
+                8.1,
+                44.2
+              ],
+              [
+                5.3,
+                43.6
+              ],
+              [
+                2.5,
+                43.1
+              ],
+              [
+                -0.8,
+                43.5
+              ],
+              [
+                -4.2,
+                43.4
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": -92.31806928948548,
+            "icon": "flecha-sapiens"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -4.2,
+              43.4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sapiens-noroeste",
+      "title": "Homo sapiens · noroeste de Europa",
+      "heading": "Homo sapiens · noroeste de Europa",
+      "date": "44.000–41.000 años atrás · modelo",
+      "text": "El modelo sugiere una rama desde el sur de Francia hacia la cuenca de París y las islas británicas. El fondo muestra las costas actuales.",
+      "color": "#7135b5",
+      "group": "Poblaciones y desplazamientos",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#7135b5",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                2.8,
+                43.8
+              ],
+              [
+                2,
+                46
+              ],
+              [
+                2.3,
+                48.9
+              ],
+              [
+                1.2,
+                50.2
+              ],
+              [
+                -0.4,
+                51.3
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": -42.2847592800026,
+            "icon": "flecha-sapiens"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -0.4,
+              51.3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "neandertal-expansion",
+      "title": "Neandertales · posible expansión",
+      "heading": "Neandertales · posible expansión",
+      "date": "Desde hace unos 65.000 años · hipótesis",
+      "text": "Un estudio de ADN mitocondrial y arqueología propone que una población del suroeste de Francia se expandió por Europa. Las flechas muestran direcciones generales, sin vincular el viaje a yacimientos concretos. Esta hipótesis es anterior a las rutas auriñacienses.",
+      "color": "#d45016",
+      "group": "Poblaciones y desplazamientos",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#d45016",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                0.8,
+                45
+              ],
+              [
+                0,
+                43.8
+              ],
+              [
+                -2.5,
+                42.7
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": -120.90933770492165,
+            "icon": "flecha-neandertal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2.5,
+              42.7
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#d45016",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                0.8,
+                45
+              ],
+              [
+                3,
+                47
+              ],
+              [
+                5.6,
+                49.3
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": 36.39595869866282,
+            "icon": "flecha-neandertal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              5.6,
+              49.3
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#d45016",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                0.8,
+                45
+              ],
+              [
+                6,
+                46
+              ],
+              [
+                11,
+                46.8
+              ],
+              [
+                17.5,
+                47.4
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": 82.23430015810416,
+            "icon": "flecha-neandertal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              17.5,
+              47.4
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "guide": [
+    {
+      "title": "Una Europa cubierta de hielo",
+      "text": "Los mantos de hielo cubrieron grandes extensiones del norte de Europa. Alterna las dos reconstrucciones y fíjate en cuánto se reduce el hielo escandinavo.",
+      "actions": [
+        {
+          "label": "Hace 18.000 años BP",
+          "environmentId": "hielo-18ka"
+        },
+        {
+          "label": "Hace 10.000 años BP",
+          "environmentId": "hielo-10ka"
+        }
+      ]
+    },
+    {
+      "title": "El arte del Paleolítico",
+      "text": "En cuevas como Altamira y Lascaux se pintaban animales en las paredes. En Parpalló, las imágenes se grababan o pintaban sobre pequeñas placas de piedra que podían transportarse.",
+      "actions": [
+        {
+          "label": "Altamira",
+          "placeId": "altamira"
+        },
+        {
+          "label": "Lascaux",
+          "placeId": "lascaux"
+        },
+        {
+          "label": "Parpalló",
+          "placeId": "parpallo"
+        }
+      ]
+    },
+    {
+      "title": "Cazar y construir",
+      "text": "Los restos animales cuentan historias distintas. Solutré y Předmostí ayudan a comparar los animales que se cazaban. En Mezhyrich, los huesos de mamut también sirvieron para construir viviendas.",
+      "actions": [
+        {
+          "label": "Solutré",
+          "placeId": "solutre"
+        },
+        {
+          "label": "Předmostí",
+          "placeId": "predmosti"
+        },
+        {
+          "label": "Mezhyrich",
+          "placeId": "mezhyrich"
+        }
+      ]
+    },
+    {
+      "title": "Vivir junto al agua",
+      "text": "Los concheros de Oronsay y Ertebølle conservan restos de recursos costeros. Lepenski Vir, junto al Danubio, permite comparar la vida a orillas de un río con la de la costa.",
+      "actions": [
+        {
+          "label": "Oronsay",
+          "placeId": "oronsay"
+        },
+        {
+          "label": "Ertebølle",
+          "placeId": "ertebolle"
+        },
+        {
+          "label": "Lepenski Vir",
+          "placeId": "lepenski-vir"
+        }
+      ]
+    },
+    {
+      "title": "Culturas y hallazgos",
+      "text": "Las tradiciones del Paleolítico se reconocen por conjuntos de herramientas, adornos y otras piezas. Compara la distribución aproximada del Auriñaciense y el Gravetiense. Las manchas indican regiones de referencia.",
+      "actions": [
+        {
+          "label": "Auriñaciense",
+          "cultureTitle": "Auriñaciense"
+        },
+        {
+          "label": "Gravetiense",
+          "cultureTitle": "Gravetiense"
+        }
+      ]
+    },
+    {
+      "title": "Lo que cuentan los enterramientos",
+      "text": "Los enterramientos conservan objetos y pistas sobre cómo se trataba a los muertos. Sungir, Lagar Velho y Skateholm permiten comparar lugares y momentos distintos, del Paleolítico Superior al Mesolítico.",
+      "actions": [
+        {
+          "label": "Sungir",
+          "placeId": "sungir"
+        },
+        {
+          "label": "Lagar Velho",
+          "placeId": "lagar-velho"
+        },
+        {
+          "label": "Skateholm",
+          "placeId": "skateholm"
+        }
+      ]
+    },
+    {
+      "title": "Dos poblaciones, distintas dispersiones",
+      "text": "Compara la expansión neandertal propuesta por un estudio genético con los corredores de Homo sapiens. Los puntos sitúan hallazgos y las flechas muestran hipótesis o direcciones aproximadas.",
+      "actions": [
+        {
+          "label": "Expansión neandertal",
+          "environmentId": "neandertal-expansion"
+        },
+        {
+          "label": "Corredor del Danubio",
+          "environmentId": "sapiens-danubio"
+        },
+        {
+          "label": "El Sidrón",
+          "placeId": "el-sidron"
+        }
+      ],
+      "illustration": {
+        "src": "./datos/imagenes/poblaciones-paleoliticas.png",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Dos retratos ilustrados con ropa de piel. Neandertal a la izquierda y Homo sapiens a la derecha.",
+        "caption": "Neandertal (izquierda) y Homo sapiens (derecha). Reconstrucción artística generada con IA."
+      }
+    }
+  ]
+}

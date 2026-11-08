@@ -185,7 +185,7 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
       renderLayers();
       card.hidden = !selectedLayers.has(entry);
       if (!card.hidden) {
-        if (entry.focusCoordinates) focusPlace({ coordinates: entry.focusCoordinates });
+        if (entry.focusCoordinates) focusPlace({ coordinates: entry.focusCoordinates, zoom: entry.focusZoom });
         document.querySelector('#titulo-ficha').textContent = (entry.heading ?? entry.title) + ' · ' + (entry.date ?? 'zonas orientativas');
         document.querySelector('#texto-ficha').textContent = entry.text;
         document.querySelector('#enlace-ficha').textContent = '';
@@ -245,7 +245,7 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
     const { date, title, text, association, legendId, placeId } = entry;
     const place = placeById.get(placeId);
     if (place) focusPlace(place);
-    else if (entry.focusCoordinates) focusPlace({ coordinates: entry.focusCoordinates });
+    else if (entry.focusCoordinates) focusPlace({ coordinates: entry.focusCoordinates, zoom: entry.focusZoom });
     document.querySelector('#titulo-ficha').textContent = title + ' · ' + date;
     document.querySelector('#texto-ficha').textContent = text;
     document.querySelector('#enlace-ficha').textContent = place ? 'Lugar señalado en el mapa.' : association ?? '';

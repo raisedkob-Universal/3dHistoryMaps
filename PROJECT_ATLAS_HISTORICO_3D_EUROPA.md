@@ -205,3 +205,11 @@ La selección comprende ahora tres casos, con Cheddar Man como ejemplo del oeste
 La colección de poblaciones de 1.12 se amplía a cinco tarjetas con Zvejnieki y Vasylivka. Cada caso conserva fechas y fuentes identificadas por versión. La agricultura sigue pendiente del mapa complementario.
 
 La comparación de poblaciones reúne ahora nueve casos regionales, al añadir Falkenstein, Padina, Les Perrats y Chan do Lindeiro. Se distinguen fechas de muestras y fechas del contexto arqueológico, especialmente en Les Perrats. Los marcadores indican referencias arqueológicas y regionales. La agricultura continúa pendiente del mapa complementario.
+
+## 12. Transición agrícola y revisión cronológica
+
+Tras recibir el GIF de difusión agrícola y el PDF Paleolítico en Europa, se activa en 1.12 el grupo Vegetación y agricultura. Incluye las capas vegetales existentes y una síntesis agrícola complementaria de 9500–7000 a. C., con cuatro áreas propias orientativas del Cercano Oriente y Anatolia central. El GIF inspira el intervalo inicial y las publicaciones arqueológicas sustentan el contenido. La extensión posterior de los cultivos por Europa se desarrollará en 1.13.
+
+El enlace didáctico entre mapas se sitúa hacia 7000 a. C., con solapamiento introductorio y cronologías regionales. La anterior referencia a un cierre universal o definitivo de 1.12 en 8000 a. C. queda revisada. Los 58 códigos y los períodos del catálogo se preservan hasta cotejarlos con el libro. Para 1.13 sigue registrado 5000–2000 a. C., pendiente de comprobación.
+
+El PDF aportado usa AP con referencia a 1950 y sitúa el comienzo del Mesolítico en torno a 11.700 AP. La fecha de 6400 AP atribuida a Argisa en su página 18 presenta una inconsistencia y queda pendiente de contraste con la referencia original. No se utiliza para fijar el Neolítico. El estudio de Revenia-Korinos (Maniatis y Adaktylou, 2021) proporciona una referencia regional de 6600–6550 a. C. La ficha documental de 1.12 conserva el cotejo y las decisiones de representación.

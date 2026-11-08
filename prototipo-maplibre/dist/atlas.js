@@ -416,7 +416,7 @@ function init() {
   });
   mapElement.addEventListener('atlas:enfocar', event => {
     placePopup?.remove();
-    map.easeTo({ center: event.detail.coordinates, zoom: Math.max(6.2, map.getZoom()) });
+    map.easeTo({ center: event.detail.coordinates, zoom: event.detail.zoom ?? Math.max(6.2, map.getZoom()) });
   });
 
   map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'top-right');

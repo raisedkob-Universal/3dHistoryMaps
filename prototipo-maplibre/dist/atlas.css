@@ -217,3 +217,6 @@ body:has(.cronologia[open] .culturas[open]) .maplibregl-ctrl-bottom-right { bott
 .poblacion-detalle ul { padding-left: 1.1rem; }
 .poblacion-detalle a { color: #bfe6f4; }
 .poblacion-intervalo, .poblacion-fecha { color: #e3c8fc; font-size: .75rem; }
+
+.simbolo-cueva-grabados { height: auto; background: transparent; color: #f2a791; font-size: 1rem; line-height: 1; }
+.lugar-cueva-grabados { font-size: 18px; }

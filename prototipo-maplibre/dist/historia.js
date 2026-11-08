@@ -203,7 +203,7 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
     card.hidden = true;
   };
 
-  const glyphs = { cueva: '◆', arte: '✋︎', estructura: '▲', venus: '♟', asentamiento: '⌂', concha: '◒', cementerio: '✦', neandertal: '⬟', grabados: '≋', plaquetas: '▤' };
+  const glyphs = { cueva: '◆', arte: '✋︎', estructura: '▲', venus: '♟', asentamiento: '⌂', concha: '◒', cementerio: '✦', neandertal: '⬟', grabados: '≋', 'cueva-grabados': '◇', plaquetas: '▤' };
 
   for (const [index, [title, entries]] of legend.entries()) {
     const group = document.createElement('details');

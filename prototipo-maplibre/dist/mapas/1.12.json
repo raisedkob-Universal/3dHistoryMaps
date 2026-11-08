@@ -15,6 +15,10 @@
           "Cueva con pinturas rupestres"
         ],
         [
+          "cueva-grabados",
+          "Cueva con grabados rupestres"
+        ],
+        [
           "punto",
           "Lugar al aire libre"
         ],
@@ -679,6 +683,17 @@
       "edition": "Radiocarbon (2021).",
       "reference": "Datación del comienzo de la ocupación agrícola de Revenia hacia 6600–6550 a. C. Referencia para la transición regional hacia el próximo mapa, sin extrapolar una fecha única a toda Europa.",
       "url": "https://doi.org/10.1017/RDC.2021.26"
+    },
+    {
+      "title": "Vergès Bosch y Salas-Altès · Filling gaps: the Palaeolithic rock art of the Cova de la Font Major on the north-east Iberian Peninsula",
+      "edition": "Antiquity, publicación en línea del 5 de noviembre de 2026.",
+      "reference": "Inventario de 280 motivos, incluidas 55 figuras zoomorfas. Conjunto identificado en 2019. Atribución de numerosas representaciones a fases premagdalenienses, con cronología todavía abierta. Se incorpora como yacimiento complementario.",
+      "url": "https://doi.org/10.15184/aqy.2026.10447"
+    },
+    {
+      "title": "Cova de la Font Major · memoria arqueológica",
+      "reference": "Referencia de localización en l’Espluga de Francolí. La memoria publica UTM 31N ETRS89, X 341354, Y 4584704. El visor sitúa de manera aproximada el acceso a la cavidad, 1.103 E, 41.398 N. El marcador no identifica el sector interior de los grabados.",
+      "url": "https://calaix-pro.csuc.cat/bitstream/handle/10687/453093/qmem15880.pdf?isAllowed=y&sequence=1"
     }
   ],
   "places": [
@@ -1252,6 +1267,18 @@
       "source": "https://www.pnas.org/content/pnas/114/40/10606.full.pdf",
       "kind": "neandertal",
       "complementary": true
+    },
+    {
+      "id": "font-major",
+      "title": "Cova de la Font Major",
+      "kind": "cueva-grabados",
+      "coordinates": [
+        1.103,
+        41.398
+      ],
+      "complementary": true,
+      "text": "Cueva con grabados rupestres en l’Espluga de Francolí, Tarragona. El estudio de 2026 documenta 280 motivos, incluidos 55 animales. Numerosas figuras se atribuyen a fases anteriores al Magdaleniense por comparación de sus formas. La cronología sigue en estudio. Los grabados se identificaron en 2019 sobre paredes frágiles y se documentan con técnicas digitales y modelos 3D. El marcador sitúa aproximadamente la entrada de la cueva.",
+      "source": "https://doi.org/10.15184/aqy.2026.10447"
     }
   ],
   "cultures": [
@@ -7942,6 +7969,10 @@
         {
           "label": "Parpalló",
           "placeId": "parpallo"
+        },
+        {
+          "label": "Font Major · grabados",
+          "placeId": "font-major"
         }
       ]
     },

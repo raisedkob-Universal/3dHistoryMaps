@@ -406,7 +406,7 @@ function init() {
       button.className = 'lugar-historico lugar-' + place.kind;
       button.title = place.title;
       button.setAttribute('aria-label', place.title);
-      button.textContent = { arte: '✋︎', cueva: '◆', venus: '♟', estructura: '▲', asentamiento: '⌂', concha: '◒', cementerio: '✦', neandertal: '⬟', grabados: '≋', plaquetas: '▤' }[place.kind] ?? '●';
+      button.textContent = { arte: '✋︎', cueva: '◆', venus: '♟', estructura: '▲', asentamiento: '⌂', concha: '◒', cementerio: '✦', neandertal: '⬟', grabados: '≋', 'cueva-grabados': '◇', plaquetas: '▤' }[place.kind] ?? '●';
       button.onclick = event => {
         event.stopPropagation();
         openPlace(place);

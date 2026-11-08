@@ -207,6 +207,7 @@ body:has(.cronologia[open] .culturas[open]) .maplibregl-ctrl-bottom-right { bott
 .poblacion-tarjeta strong { font-size: .85rem; }
 .poblacion-tarjeta span { margin-top: .15rem; font-size: .7rem; line-height: 1.25; }
 .poblacion-tarjeta:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+.poblacion-popup { z-index: 3; }
 .poblacion-popup .maplibregl-popup-content { background: #10242e; color: #f5f1e8; max-height: min(65dvh, 480px); overflow-y: auto; padding: 1rem; border: 1px solid #d5b4f2; border-radius: 8px; }
 .poblacion-popup .maplibregl-popup-close-button { color: #f5f1e8; font-size: 1.2rem; }
 .poblacion-detalle { font-size: .83rem; line-height: 1.4; }

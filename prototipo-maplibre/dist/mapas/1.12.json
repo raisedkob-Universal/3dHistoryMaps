@@ -607,13 +607,13 @@
     {
       "title": "Mathieson y colaboradores · The genomic history of southeastern Europe",
       "edition": "Nature 555, 197–203 (2018).",
-      "reference": "Parentescos de los cazadores-recolectores de Zvejnieki y del actual territorio de Ucrania. Se emplean como ejemplos I4630, I1819 e I1763. Las fechas y coordenadas se cotejan con el catálogo de muestras identificado por versión.",
+      "reference": "Parentescos de los cazadores-recolectores de Zvejnieki y del actual territorio de Ucrania. Se emplean como ejemplos I4630, I1819 e I1763. Las fechas y coordenadas se cotejan con el catálogo de muestras identificado por versión. Se incorporan también Falkenstein y Padina.",
       "url": "https://doi.org/10.1038/nature25778"
     },
     {
       "title": "Poseidon Community Archive · 2018_MathiesonNature",
       "edition": "Metadatos derivados del estudio y AADR v424. Archivo fijado en la revisión 7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168.",
-      "reference": "I4630, Zvejnieki, 7465–7078 a. C., R1b1a1a(xR1b1a1a2). I1819, Vasil’evka, 8825–8561 a. C., R1a. I1763, Vasil’evka, 8280–7967 a. C., I2a1. Fechas de los campos Date_BC_AD_Start y Stop, tipo C14. Las ubicaciones del visor se contrastan por separado con fuentes patrimoniales y arqueológicas.",
+      "reference": "I4630, Zvejnieki, 7465–7078 a. C., R1b1a1a(xR1b1a1a2). I1819, Vasil’evka, 8825–8561 a. C., R1a. I1763, Vasil’evka, 8280–7967 a. C., I2a1. Fechas de los campos Date_BC_AD_Start y Stop, tipo C14. Las ubicaciones del visor se contrastan por separado con fuentes patrimoniales y arqueológicas. Falkenstein, 7460–7040 a. C., I2a2a. Padina I5239, 8535–8230 a. C.; I5236, 8290–7825 a. C., I2a1. Padina conserva la referencia del catálogo. La ubicación de Falkenstein se contrasta con el inventario arqueológico de la Universidad de Tubinga.",
       "url": "https://github.com/poseidon-framework/community-archive/blob/7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168/2018_MathiesonNature/2018_MathiesonNature.janno"
     },
     {
@@ -626,6 +626,36 @@
       "edition": "Encyclopedia of Modern Ukraine, Academia Nacional de Ciencias de Ucrania, 2018, actualización 2025.",
       "reference": "Identifica los cementerios mesolíticos de Vasylivka en el distrito de Synelnykove, región de Dnipropetrovsk. El visor usa una referencia regional redondeada de los rápidos del Dniéper (35.2 E, 48.2 N), no la ciudad homónima de Zaporizhzhia indicada por las coordenadas del catálogo genético.",
       "url": "https://esu.com.ua/article-66140"
+    },
+    {
+      "title": "Brunel y colaboradores · Ancient genomes from present-day France unveil 7,000 years of its demographic history",
+      "edition": "PNAS 117, 12791–12798 (2020).",
+      "reference": "Estudio de cinco individuos mesolíticos de Les Perrats. El visor presenta tres muestras recogidas en el catálogo, con fechas contextuales de 7177–7057 a. C.",
+      "url": "https://doi.org/10.1073/pnas.1918034117"
+    },
+    {
+      "title": "Poseidon Community Archive · 2020_Brunel_France",
+      "edition": "Revisión fijada 807f385b5d7826337ca63fa4d3f51400e31c0347.",
+      "reference": "PER1150503, PER3023 y PER3123. Tipo de datación contextual, 7177–7057 a. C. PER3123 se registra como I2a1b2. El marcador utiliza una referencia redondeada de Agris, 0.34 E, 45.78 N, próxima a las tres coordenadas ligeramente distintas del catálogo.",
+      "url": "https://github.com/poseidon-framework/community-archive/blob/807f385b5d7826337ca63fa4d3f51400e31c0347/2020_Brunel_France/Brunel_France.janno"
+    },
+    {
+      "title": "González-Fortes y colaboradores · Paleogenomic Evidence for Multi-generational Mixing between Neolithic Farmers and Mesolithic Hunter-Gatherers in the Lower Danube Basin",
+      "edition": "Current Biology 27, 1801–1810 (2017).",
+      "reference": "Incluye a Chan_Meso, de Chan do Lindeiro, como referencia mesolítica ibérica. Tabla 1 y métodos. Intervalo de 9255–9007 cal BP, convertido aproximadamente en 7305–7057 a. C.; linaje materno U5b.",
+      "url": "https://doi.org/10.1016/j.cub.2017.05.023"
+    },
+    {
+      "title": "González Fortes, Grandal d’Anglade, Vidal Romaní y Hofreiter · Análisis genético del individuo de Chan do Lindeiro",
+      "edition": "Cadernos do Laboratorio Xeolóxico de Laxe 39, 111–127 (2017).",
+      "reference": "Identificación de Elba y contexto geográfico de Chan do Lindeiro, Pedrafita do Cebreiro, Lugo. Estudio mitocondrial con asignación U5b1. El marcador es una referencia regional redondeada, 7.03 O, 42.73 N.",
+      "url": "https://revistas.udc.es/index.php/CADLAXE/article/view/cadlaxe.2017.39.0.3558"
+    },
+    {
+      "title": "J. Götze · Inventario de yacimientos, sección 9.3.2 Falkensteinhöhle",
+      "edition": "Universidad de Tubinga. Apartado de localización arqueológica.",
+      "reference": "Identifica la cueva en Beuron y publica 48°06′00″ N, 09°04′34″ E. Se emplea como referencia de ubicación en vez de la coordenada simplificada del catálogo genético.",
+      "url": "https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/46919/pdf/Veroeffentlichung_Magisterarbeit_J._Goetze.pdf?isAllowed=y&sequence=1"
     }
   ],
   "places": [
@@ -6767,7 +6797,7 @@
       "title": "Poblaciones hacia 9000–7000 a. C.",
       "heading": "Parentescos entre poblaciones mesolíticas",
       "date": "9000–7000 a. C. · comparación complementaria",
-      "text": "Pulsa las tarjetas del mapa para explorar los hallazgos de ADN antiguo. Esta selección presenta ejemplos documentados del oeste, sur y este de Europa, Escandinavia y el Báltico. Las fechas de cada muestra aparecen en su ficha. Los parentescos genéticos ayudan a reconstruir contactos y movimientos entre personas. Un haplogrupo sigue una línea materna o paterna dentro de esa historia. El intervalo amplía la comparación más allá del final de 8000 a. C. del mapa principal.",
+      "text": "Pulsa las tarjetas del mapa para explorar los hallazgos de ADN antiguo. Esta selección reúne ejemplos de nueve zonas europeas, con lugares estudiados en Britania, Francia, Iberia, Europa central, Italia, el Danubio, Escandinavia, el Báltico y el Dniéper. Las fechas de cada muestra aparecen en su ficha. Los parentescos genéticos ayudan a reconstruir contactos y movimientos entre personas. Un haplogrupo sigue una línea materna o paterna dentro de esa historia. El intervalo amplía la comparación más allá del final de 8000 a. C. del mapa principal.",
       "color": "#d5b4f2",
       "group": "Poblaciones y desplazamientos",
       "populationCards": [
@@ -6885,6 +6915,106 @@
             {
               "id": "I1763 · Vasylivka",
               "date": "8280–7967 a. C."
+            }
+          ]
+        },
+        {
+          "id": "mesolitico-centro-europa",
+          "title": "Europa central",
+          "subtitle": "Falkenstein · una cueva del Jura suabo",
+          "coordinates": [
+            9.0761,
+            48.1
+          ],
+          "date": "7460–7040 a. C.",
+          "text": "Los restos de la cueva de Falkenstein, en el suroeste de la actual Alemania, aportan un ejemplo de los cazadores-recolectores de Europa central. Su ADN permite comparar a una persona de esta región con los hallazgos de otras partes del continente.",
+          "evidence": "La muestra Falkenstein tiene una datación por radiocarbono de 7460–7040 a. C. La posición toma como referencia la zona de la cueva en Beuron, recogida en el inventario académico de la Universidad de Tubinga.",
+          "genetics": "El catálogo registra el linaje paterno I2a2a, de la familia I2. Ese linaje es una parte de la ascendencia de la persona estudiada. Sus relaciones con otras poblaciones se investigan también mediante el conjunto del ADN.",
+          "sourceUrl": "https://doi.org/10.1038/nature25778",
+          "sourceLabel": "Mathieson y colaboradores, 2018",
+          "sampleSourceUrl": "https://github.com/poseidon-framework/community-archive/blob/7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168/2018_MathiesonNature/2018_MathiesonNature.janno",
+          "samples": [
+            {
+              "id": "Falkenstein",
+              "date": "7460–7040 a. C."
+            }
+          ]
+        },
+        {
+          "id": "mesolitico-danubio",
+          "title": "Balcanes y Danubio",
+          "subtitle": "Padina · cazadores-recolectores junto al río",
+          "coordinates": [
+            22.01057,
+            44.59588
+          ],
+          "date": "8535–8230 y 8290–7825 a. C.",
+          "text": "Padina se encuentra en la región de las Puertas de Hierro del Danubio. Los restos humanos de esta zona permiten estudiar a sus comunidades cazadoras-recolectoras y compararlas con otras poblaciones europeas. Aquí se presentan dos personas de fechas diferentes.",
+          "evidence": "Las muestras I5239 e I5236 tienen intervalos de radiocarbono dentro de 9000–7000 a. C. Las coordenadas son la referencia del yacimiento registrada en el catálogo.",
+          "genetics": "I5236 se asigna al linaje paterno I2a1. Para explicar las relaciones entre las poblaciones del Danubio, los investigadores comparan además muchos fragmentos del ADN de personas de distintos yacimientos.",
+          "sourceUrl": "https://doi.org/10.1038/nature25778",
+          "sourceLabel": "Mathieson y colaboradores, 2018",
+          "sampleSourceUrl": "https://github.com/poseidon-framework/community-archive/blob/7bb5a6ad7d5eb0ae46a4cb95383209a96fe7e168/2018_MathiesonNature/2018_MathiesonNature.janno",
+          "samples": [
+            {
+              "id": "I5239 · Padina",
+              "date": "8535–8230 a. C."
+            },
+            {
+              "id": "I5236 · Padina",
+              "date": "8290–7825 a. C."
+            }
+          ]
+        },
+        {
+          "id": "mesolitico-francia",
+          "title": "Francia",
+          "subtitle": "Les Perrats · cazadores-recolectores de Charente",
+          "coordinates": [
+            0.34,
+            45.78
+          ],
+          "date": "Hacia 7177–7057 a. C.",
+          "text": "En Les Perrats, cerca de Agris, se estudió el ADN de varios cazadores-recolectores. Los hallazgos permiten ampliar la comparación hacia el territorio de la actual Francia y explorar la diversidad de las poblaciones mesolíticas.",
+          "evidence": "Se incluyen tres muestras del catálogo. El intervalo de 7177–7057 a. C. corresponde al contexto arqueológico del conjunto. El marcador sitúa de forma orientativa la zona de Agris.",
+          "genetics": "La muestra PER3123 tiene registrado un linaje paterno de la familia I2, clasificado como I2a1b2 en el catálogo. El estudio genómico del conjunto ayuda a comparar a estas personas con otros cazadores-recolectores europeos.",
+          "sourceUrl": "https://doi.org/10.1073/pnas.1918034117",
+          "sourceLabel": "Brunel y colaboradores, 2020",
+          "sampleSourceUrl": "https://github.com/poseidon-framework/community-archive/blob/807f385b5d7826337ca63fa4d3f51400e31c0347/2020_Brunel_France/Brunel_France.janno",
+          "samples": [
+            {
+              "id": "PER1150503",
+              "date": "7177–7057 a. C. · fecha del contexto"
+            },
+            {
+              "id": "PER3023",
+              "date": "7177–7057 a. C. · fecha del contexto"
+            },
+            {
+              "id": "PER3123",
+              "date": "7177–7057 a. C. · fecha del contexto"
+            }
+          ]
+        },
+        {
+          "id": "mesolitico-iberia",
+          "title": "Península ibérica",
+          "subtitle": "Chan do Lindeiro · Elba, una mujer de Galicia",
+          "coordinates": [
+            -7.03,
+            42.73
+          ],
+          "date": "7305–7057 a. C.",
+          "text": "Elba es el nombre dado a una mujer cuyos restos se encontraron en la cueva de Chan do Lindeiro, en las montañas de Lugo. El estudio de sus huesos y de su ADN permite conocer una historia individual y compararla con la de otros cazadores-recolectores europeos.",
+          "evidence": "La muestra Chan_Meso se fecha entre 9255 y 9007 años calibrados BP, aproximadamente 7305–7057 a. C. La posición es una referencia redondeada de la zona de Pedrafita do Cebreiro.",
+          "genetics": "El estudio genómico registra un linaje materno U5b. Un análisis específico de su ADN mitocondrial lo precisa como U5b1. Esa línea de ascendencia forma parte de la historia de Elba, que también se investiga mediante otros fragmentos de su ADN.",
+          "sourceUrl": "https://doi.org/10.1016/j.cub.2017.05.023",
+          "sourceLabel": "González-Fortes y colaboradores, 2017",
+          "sampleSourceUrl": "https://revistas.udc.es/index.php/CADLAXE/article/view/cadlaxe.2017.39.0.3558",
+          "samples": [
+            {
+              "id": "Chan_Meso · Elba",
+              "date": "9255–9007 cal BP · aproximadamente 7305–7057 a. C."
             }
           ]
         }

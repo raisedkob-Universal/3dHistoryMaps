@@ -203,3 +203,5 @@ La entrada 1.12 añade una comparación complementaria de 9000–7000 a. C., dif
 La selección comprende ahora tres casos, con Cheddar Man como ejemplo del oeste de Europa. La incorporación de agricultura y comunidades anatolias queda pendiente del mapa complementario que aportará el propietario. Recordar este asunto al recibirlo.
 
 La colección de poblaciones de 1.12 se amplía a cinco tarjetas con Zvejnieki y Vasylivka. Cada caso conserva fechas y fuentes identificadas por versión. La agricultura sigue pendiente del mapa complementario.
+
+La comparación de poblaciones reúne ahora nueve casos regionales, al añadir Falkenstein, Padina, Les Perrats y Chan do Lindeiro. Se distinguen fechas de muestras y fechas del contexto arqueológico, especialmente en Les Perrats. Los marcadores indican referencias arqueológicas y regionales. La agricultura continúa pendiente del mapa complementario.

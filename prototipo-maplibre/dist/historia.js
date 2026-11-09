@@ -343,6 +343,37 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
     tracks.append(row);
   }
 
+  const cultureScroller = document.querySelector('.bandas-scroll');
+  const chronologyScroller = document.querySelector('.cronologia-scroll');
+  const chronologyDetails = document.querySelector('.cronologia');
+  function sizeCultureTrack() {
+    const width = tracks.scrollWidth;
+    if (width) bands.style.width = width + 'px';
+  }
+  sizeCultureTrack();
+  if (!chronologyDetails.dataset.cultureTrackReady) {
+    chronologyDetails.dataset.cultureTrackReady = 'true';
+    chronologyDetails.addEventListener('toggle', () => requestAnimationFrame(sizeCultureTrack));
+    window.addEventListener('resize', sizeCultureTrack);
+  }
+  if (!cultureScroller.dataset.scrollSyncReady) {
+    cultureScroller.dataset.scrollSyncReady = 'true';
+    let syncing = false;
+    const syncScroll = (source, target) => {
+      if (syncing) return;
+      const sourceRange = source.scrollWidth - source.clientWidth;
+      const targetRange = target.scrollWidth - target.clientWidth;
+      const position = sourceRange > 0 ? source.scrollLeft / sourceRange : 0;
+      const nextScroll = position * Math.max(0, targetRange);
+      if (Math.abs(target.scrollLeft - nextScroll) < 1) return;
+      syncing = true;
+      target.scrollLeft = nextScroll;
+      requestAnimationFrame(() => { syncing = false; });
+    };
+    cultureScroller.addEventListener('scroll', () => syncScroll(cultureScroller, chronologyScroller), { passive: true });
+    chronologyScroller.addEventListener('scroll', () => syncScroll(chronologyScroller, cultureScroller), { passive: true });
+  }
+
   close.onclick = () => {
     clearLayers();
     card.hidden = true;

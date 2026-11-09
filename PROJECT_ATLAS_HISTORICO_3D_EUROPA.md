@@ -22,6 +22,7 @@ Crear un atlas histórico interactivo en navegador, con una base geográfica tri
 - Mapa protagonista de la pantalla; cronología siempre accesible.
 - Incorporación progresiva, mapa a mapa, sin exigir completar el catálogo antes de publicar un prototipo.
 - El atlas de Susaeta es la **fuente organizadora principal**. Otras fuentes se incorporarán para completar vacíos o contrastar información; se admitirán reconstrucciones propias justificadas y citadas.
+- En la interfaz didáctica, las explicaciones hablan directamente de los hechos: no comentan los archivos de trabajo ni mencionan el formato de un documento o la editorial. Las referencias completas se muestran únicamente en Bibliografía.
 - Evitar reproducir directamente imágenes protegidas del libro en una web pública; elaborar cartografía propia a partir de datos y fuentes con derechos de uso adecuados.
 
 ## 3. Base cartográfica y alojamiento

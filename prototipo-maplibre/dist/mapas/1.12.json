@@ -76,43 +76,43 @@
           "end": -41000,
           "date": "c. 41.000 a. C.",
           "title": "Herramientas con cuchillas",
-          "text": "El atlas sitúa en este momento la introducción de esta tecnología en Europa."
+          "text": "Durante este período se difundió en Europa la fabricación de herramientas con cuchillas."
         },
         {
           "start": -35000,
           "end": -35000,
           "date": "c. 37.000 AP (≈ 35.000 a. C.)",
           "title": "Arte de la cueva de Chauvet",
-          "text": "El PDF cita pinturas de Chauvet entre las más antiguas conocidas. AP cuenta los años desde 1950; su conversión a. C. es aproximada.",
+          "text": "Las pinturas de Chauvet se encuentran entre las manifestaciones de arte rupestre más antiguas conocidas. AP significa “antes del presente” y toma 1950 como referencia; la equivalencia a. C. es aproximada.",
           "placeId": "chauvet"
         },
         {
           "start": -30000,
           "end": -30000,
-          "date": "c. 30.000 a. C. (Susaeta)",
+          "date": "c. 30.000 a. C.",
           "title": "Pinturas rupestres en Francia y España",
-          "text": "El atlas destaca el suroeste de Francia y el norte de España. El PDF añade que algunas pinturas de Chauvet podrían ser anteriores."
+          "text": "En el suroeste de Francia y el norte de la península ibérica se conservan importantes conjuntos de arte rupestre. Algunas pinturas de Chauvet podrían ser anteriores."
         },
         {
           "start": -25000,
           "end": -22000,
           "date": "25.000–22.000 a. C.",
           "title": "Figurillas de Venus",
-          "text": "El atlas señala hallazgos desde la península ibérica hasta Rusia."
+          "text": "Se han encontrado figurillas femeninas en lugares muy distantes, desde la península ibérica hasta Rusia."
         },
         {
           "start": -20000,
           "end": -20000,
           "date": "c. 20.000 a. C.",
           "title": "Fabricación de herramientas",
-          "text": "El atlas destaca la técnica de presión y descamación para dar forma a las herramientas."
+          "text": "La técnica de presión permitía desprender pequeñas láminas de piedra y dar forma a herramientas especializadas."
         },
         {
           "start": -17000,
           "end": -17000,
           "date": "17.000 a. C.",
           "title": "Pinturas de Lascaux",
-          "text": "El atlas sitúa en esta fecha aproximada las pinturas de Lascaux, en Francia.",
+          "text": "La cueva de Lascaux, en Francia, conserva un gran conjunto de pinturas rupestres.",
           "placeId": "lascaux"
         },
         {
@@ -120,14 +120,14 @@
           "end": -16000,
           "date": "16.000 a. C.",
           "title": "Herramientas microlíticas",
-          "text": "El atlas destaca el desarrollo de herramientas pequeñas y especializadas."
+          "text": "Se extendió el uso de herramientas pequeñas, útiles para fabricar puntas y otros instrumentos compuestos."
         },
         {
           "start": -14000,
           "end": -14000,
           "date": "14.000 a. C.",
           "title": "Pinturas de Altamira",
-          "text": "El atlas sitúa en esta fecha aproximada las pinturas de Altamira, en la península ibérica.",
+          "text": "La cueva de Altamira, en la península ibérica, conserva pinturas rupestres de este período.",
           "placeId": "altamira"
         },
         {
@@ -135,14 +135,14 @@
           "end": -9750,
           "date": "c. 11.700 AP (≈ 9750 a. C.)",
           "title": "Comienza el Mesolítico",
-          "text": "El PDF lo presenta como una etapa de transición: las comunidades siguen cazando, pescando y recolectando mientras cambia el clima y el paisaje."
+          "text": "Durante esta etapa de transición, las comunidades siguieron cazando, pescando y recolectando mientras cambiaban el clima y el paisaje."
         },
         {
           "start": -7000,
           "end": -7000,
           "date": "Hacia 7000 a. C.",
           "title": "La agricultura se acerca a Europa",
-          "text": "La capa complementaria resume focos agrícolas del Próximo Oriente y Anatolia hasta este período. La expansión por Europa fue posterior y desigual; se desarrollará en el mapa siguiente."
+          "text": "Los primeros focos agrícolas se desarrollaron en el Próximo Oriente y Anatolia. La expansión por Europa fue posterior y desigual."
         }
       ]
     },
@@ -154,21 +154,21 @@
           "end": -43000,
           "date": "c. 45.000 AP (≈ 43.000 a. C.)",
           "title": "Primeras evidencias de Homo sapiens",
-          "text": "El PDF cita hallazgos tempranos en Europa, entre ellos Bacho Kiro, Kent y Grotta del Cavallo. La equivalencia en a. C. es aproximada."
+          "text": "En lugares como Bacho Kiro, Kent y Grotta del Cavallo hay evidencias tempranas de presencia de Homo sapiens en Europa. Las equivalencias a. C. son aproximadas."
         },
         {
           "start": -28000,
           "end": -28000,
-          "date": "c. 28.000 a. C. (Susaeta)",
+          "date": "c. 28.000 a. C.",
           "title": "Últimos neandertales en España",
-          "text": "Es la fecha de referencia que ofrece el atlas para la desaparición de los últimos neandertales en España; no representa por sí sola todas las regiones europeas."
+          "text": "Se han propuesto fechas cercanas a esta para los últimos neandertales de la península ibérica. Su desaparición ocurrió en momentos distintos según la región."
         },
         {
           "start": -19000,
           "end": -16000,
           "date": "21.000–18.000 AP (≈ 19.000–16.000 a. C.)",
           "title": "Máximo de la última glaciación",
-          "text": "El PDF sitúa entre estas fechas el último máximo glacial. Gran parte de Europa quedó despoblada y algunas poblaciones sobrevivieron en refugios del sur."
+          "text": "Gran parte de Europa quedó despoblada durante esta etapa fría. Algunas poblaciones sobrevivieron en refugios del sur y regresaron después."
         },
         {
           "start": -12750,
@@ -182,21 +182,21 @@
           "end": -10950,
           "date": "c. 12.900 AP (≈ 11.000 a. C.)",
           "title": "Vuelve una etapa fría",
-          "text": "El Dryas Reciente interrumpió el calentamiento antes del final de la última glaciación."
+          "text": "El Dryas Reciente interrumpió el calentamiento antes de la llegada de una etapa más templada."
         },
         {
           "start": -9750,
           "end": -9750,
           "date": "c. 11.700 AP (≈ 9750 a. C.)",
           "title": "Comienza el Holoceno",
-          "text": "Se inicia una etapa de clima más templado. El paisaje europeo cambia: retrocede el hielo y se expanden los bosques."
+          "text": "El clima se hizo más templado. Retrocedió el hielo y se expandieron los bosques."
         },
         {
           "start": -7000,
           "end": -7000,
-          "date": "7000 a. C. (fecha del atlas)",
+          "date": "7000 a. C.",
           "title": "Referencia del hielo y los bosques",
-          "text": "El atlas compara la extensión del hielo y el límite de los bosques para esta fecha. Es una referencia de sus capas, no el final de todos los glaciares.",
+          "text": "Hacia esta fecha, el gran manto de hielo continental se había retirado de Europa. La referencia permite comparar el hielo y los bosques; no significa que desaparecieran todos los glaciares.",
           "association": "Las otras comparaciones del mapa son aproximadas y están fechadas por separado."
         }
       ]
@@ -218,7 +218,7 @@
     },
     {
       "heading": "Vallon-Pont-d’Arc.",
-      "body": "En 1994 se descubrieron pinturas de animales, entre ellos rinocerontes lanudos y caballos. El PDF señala que algunas pinturas de Chauvet podrían remontarse a unos 37.000 años AP (aprox. 35.000 a. C.); el atlas ofrece la referencia más general de hace unos 30.000 años.",
+      "body": "En 1994 se descubrieron pinturas de animales, entre ellos rinocerontes lanudos y caballos. Algunas pinturas de la cueva podrían remontarse a unos 37.000 años AP (aprox. 35.000 a. C.), por lo que estarían entre las más antiguas conocidas en Europa.",
       "placeIds": [
         "chauvet"
       ]
@@ -547,7 +547,7 @@
     {
       "title": "Polen y cobertura arbórea durante el máximo glacial",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5130213/",
-      "reference": "Contexto paleobotánico del máximo glacial. El estudio usa una fecha distinta de la línea del atlas."
+      "reference": "Contexto paleobotánico del máximo glacial. El estudio usa una fecha distinta de la línea representada."
     },
     {
       "title": "Modelo de dispersión auriñaciense",
@@ -582,12 +582,12 @@
     {
       "title": "Stroeven y colaboradores · Deglaciation of Fennoscandia",
       "edition": "Quaternary Science Reviews 147, 2016, pp. 91–121.",
-      "reference": "Cronología de la retirada final del manto escandinavo, después de 9700 años calibrados BP. Consulta bibliográfica para contextualizar la referencia de 7000 a. C. del atlas.",
+      "reference": "Cronología de la retirada final del manto escandinavo, después de 9700 años calibrados BP. Consulta bibliográfica para contextualizar la referencia de 7000 a. C. del mapa.",
       "url": "https://bolin.su.se/data/stroeven-2016-deglaciation-1"
     },
     {
       "title": "Qiu y colaboradores · Modelling northern peatland area and carbon dynamics since the Holocene",
-      "edition": "Geoscientific Model Development 12, 2019. Suplemento, texto S6, p. 8 del PDF.",
+      "edition": "Geoscientific Model Development 12, 2019. Suplemento, texto S6, p. 8 del suplemento.",
       "reference": "Síntesis de DATED-1 que sitúa la desaparición propuesta del manto escandinavo hacia 9000 años BP o algo antes, aproximadamente 7050 a. C. Apoya la explicación didáctica cercana a 7000 a. C., con fecha aproximada.",
       "url": "https://gmd.copernicus.org/articles/12/2961/2019/gmd-12-2961-2019-supplement.pdf"
     },
@@ -703,8 +703,8 @@
       "url": "https://doi.org/10.1086/659307"
     },
     {
-      "title": "Paleolítico en Europa · PDF de Wikipedia aportado por el propietario",
-      "reference": "Cotejo visual de las páginas 1–2, 16–19 del PDF aportado por el propietario. Incluye cronologías culturales, el último máximo glacial, el calentamiento Bølling, el Dryas Reciente, el inicio del Holoceno y culturas mesolíticas. AP se refiere a 1950; las equivalencias aproximadas a. C. restan 1950 años y no sustituyen la calibración arqueológica. La cifra de Argisa en la página 18 sigue pendiente de contraste.",
+      "title": "Paleolítico en Europa · Wikipedia",
+      "reference": "Apartados sobre Prehistoria europea y Mesolítico; fechas culturales, procesos climáticos y áreas de distribución. AP toma 1950 como referencia; las equivalencias aproximadas a. C. no sustituyen la calibración arqueológica.",
       "url": "https://es.wikipedia.org/wiki/Paleol%C3%ADtico_en_Europa"
     },
     {
@@ -723,6 +723,26 @@
       "title": "Cova de la Font Major · memoria arqueológica",
       "reference": "Referencia de localización en l’Espluga de Francolí. La memoria publica UTM 31N ETRS89, X 341354, Y 4584704. El visor sitúa de manera aproximada el acceso a la cavidad, 1.103 E, 41.398 N. El marcador no identifica el sector interior de los grabados.",
       "url": "https://calaix-pro.csuc.cat/bitstream/handle/10687/453093/qmem15880.pdf?isAllowed=y&sequence=1"
+    },
+    {
+      "title": "Culturas mesolíticas de Francia · Université Toulouse-Jean Jaurès",
+      "url": "https://chasseurs-cueilleurs-uoh.univ-tlse2.fr/M03P0201.html",
+      "reference": "Distribución regional y contexto del Sauveterriense, Tardenoisiense, Montadiense y Castelnoviense."
+    },
+    {
+      "title": "Kunda en la región báltica · Ostrauskas",
+      "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2002~1367165683856/J.04~2002~1367165683856.pdf",
+      "reference": "Yacimientos y expansión oriental de la cultura Kunda hacia el Báltico, Finlandia y las regiones de los lagos Ladoga y Onega."
+    },
+    {
+      "title": "Poblamiento mesolítico del norte de Europa · Carpelan",
+      "url": "https://www.sgr.fi/sust/SUST242.pdf",
+      "reference": "Contexto geográfico de Swideriense, Maglemosiense y Kunda en el norte y este de Europa."
+    },
+    {
+      "title": "Komsakulturen · Nationalencyklopedin",
+      "url": "https://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/komsakulturen",
+      "reference": "Localización de yacimientos de la cultura Komsa en Troms y Finnmark, el norte de Noruega y la península de Kola."
     }
   ],
   "places": [
@@ -1866,7 +1886,7 @@
       "row": 1,
       "from": 1,
       "to": 3,
-      "text": "Tradición del Paleolítico Medio. El mapa señala algunos lugares de referencia, pero el PDF no fija aquí sus límites completos.",
+      "text": "Tradición del Paleolítico Medio, anterior al período principal de este mapa. Los yacimientos señalan algunos lugares donde se han encontrado herramientas de esta tradición.",
       "color": "#678dca",
       "areas": [
         {
@@ -2408,7 +2428,7 @@
       "row": 1,
       "from": 3,
       "to": 6,
-      "text": "El PDF sitúa esta tradición en Francia y España y la relaciona, por lo general, con los últimos neandertales. AP cuenta desde 1950; la conversión a. C. es orientativa.",
+      "text": "Se desarrolló en Francia y la península ibérica y se relaciona con los últimos neandertales. La zona coloreada es orientativa; los hallazgos no forman una frontera continua.",
       "color": "#a56baa",
       "areas": [
         {
@@ -2773,7 +2793,7 @@
       "row": 2,
       "from": 3,
       "to": 8,
-      "text": "Tradición del Paleolítico Superior temprano. El PDF señala su presencia en Europa y el atlas diferencia un área europea y otra levantina. Los contornos del mapa son orientativos.",
+      "text": "Tradición del Paleolítico Superior temprano. Las dos manchas distinguen las áreas europea y levantina representadas en el mapa; sus límites son aproximados.",
       "areas": [
         {
           "type": "Feature",
@@ -2964,7 +2984,7 @@
       "row": 2,
       "from": 8,
       "to": 12,
-      "text": "Tradición extendida por distintas regiones de Europa. El PDF explica que las poblaciones y sus vínculos cambiaron a lo largo del período.",
+      "text": "Se extendió por distintas regiones de Europa. Las manchas señalan zonas de hallazgos, no un territorio continuo ni fronteras.",
       "color": "#c47f49",
       "areas": [
         {
@@ -3860,7 +3880,7 @@
       "row": 2,
       "from": 12,
       "to": 15,
-      "text": "El PDF lo sitúa durante la última gran fase fría y destaca sus finas puntas de piedra en forma de hoja. El intervalo indicado es el del contexto climático, no un límite cultural exacto.",
+      "text": "Se desarrolló durante una etapa muy fría y es conocido por sus finas puntas de piedra en forma de hoja. El área coloreada es aproximada.",
       "color": "#479a85",
       "areas": [
         {
@@ -4225,7 +4245,7 @@
       "row": 2,
       "from": 15,
       "to": 19,
-      "text": "El PDF destaca el arte de cuevas como Lascaux y Altamira y el trabajo de hueso. No fija en estas páginas los límites completos de esta tradición.",
+      "text": "Tradición del Paleolítico Superior final, conocida por el arte rupestre y el trabajo de hueso. Las manchas indican zonas con yacimientos, no un límite político.",
       "color": "#cc6176",
       "areas": [
         {
@@ -4769,7 +4789,69 @@
       "to": 13,
       "color": "#b97952",
       "date": "13.600–11.800 AP (≈ 11.650–9850 a. C.)",
-      "text": "Tradición de cazadores de renos del norte de Europa. El PDF describe un paisaje de tundra y taiga y herramientas robustas de piedra."
+      "text": "Tradición de cazadores de renos del sur de Escandinavia y las tierras vecinas. El área coloreada es aproximada.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#b97952",
+            "opacity": 0.34,
+            "outline": "#b97952",
+            "title": "Bromme · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7.7,
+                  54.4
+                ],
+                [
+                  9.2,
+                  55.5
+                ],
+                [
+                  9.8,
+                  57.1
+                ],
+                [
+                  11.3,
+                  58.5
+                ],
+                [
+                  13.5,
+                  59
+                ],
+                [
+                  15.6,
+                  58.2
+                ],
+                [
+                  16.7,
+                  56.7
+                ],
+                [
+                  15,
+                  55.2
+                ],
+                [
+                  12.8,
+                  54.5
+                ],
+                [
+                  10.2,
+                  54.1
+                ],
+                [
+                  7.7,
+                  54.4
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Ahrensburgiense",
@@ -4778,7 +4860,73 @@
       "to": 16,
       "color": "#7993ad",
       "date": "11.000–10.000 AP (≈ 9050–8050 a. C.)",
-      "text": "Cazadores nómadas del centro y norte de Europa, especialmente de renos. El PDF la relaciona con el Dryas Reciente y describe campamentos junto a lagos y ríos."
+      "text": "Cazadores nómadas de renos del norte de Alemania, Dinamarca y regiones cercanas. El área coloreada es aproximada.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#7993ad",
+            "opacity": 0.34,
+            "outline": "#7993ad",
+            "title": "Ahrensburgiense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  5.5,
+                  51.8
+                ],
+                [
+                  7.6,
+                  53.1
+                ],
+                [
+                  8.2,
+                  55.1
+                ],
+                [
+                  9.3,
+                  56.4
+                ],
+                [
+                  11.1,
+                  57.3
+                ],
+                [
+                  13.5,
+                  57.5
+                ],
+                [
+                  16.5,
+                  56.5
+                ],
+                [
+                  17.1,
+                  54.9
+                ],
+                [
+                  15.2,
+                  53.2
+                ],
+                [
+                  12.7,
+                  52.3
+                ],
+                [
+                  9.7,
+                  51.7
+                ],
+                [
+                  5.5,
+                  51.8
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Aziliense",
@@ -4786,8 +4934,70 @@
       "from": 1,
       "to": 4,
       "color": "#7eaa8c",
-      "date": "El mapa del PDF no indica fechas",
-      "text": "El PDF incluye un mapa de distribución de yacimientos azilienses en Europa occidental. La figura muestra lugares, pero no permite fijar aquí un intervalo cronológico."
+      "date": "Fecha no precisada",
+      "text": "Tradición con yacimientos en el norte de la península ibérica y el suroeste de Francia. El contorno señala una región aproximada.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#7eaa8c",
+            "opacity": 0.34,
+            "outline": "#7eaa8c",
+            "title": "Aziliense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -8.5,
+                  42.2
+                ],
+                [
+                  -7.4,
+                  44.5
+                ],
+                [
+                  -4.5,
+                  46.4
+                ],
+                [
+                  -1.4,
+                  47.2
+                ],
+                [
+                  2.5,
+                  46.4
+                ],
+                [
+                  4.7,
+                  44.8
+                ],
+                [
+                  4.1,
+                  42.9
+                ],
+                [
+                  1.6,
+                  41.5
+                ],
+                [
+                  -2.5,
+                  41.4
+                ],
+                [
+                  -6.4,
+                  41.8
+                ],
+                [
+                  -8.5,
+                  42.2
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Swideriense",
@@ -4795,8 +5005,78 @@
       "from": 4,
       "to": 7,
       "color": "#9a83b6",
-      "date": "El mapa del PDF no indica fechas",
-      "text": "El PDF muestra la distribución de yacimientos swiderienses en Europa central y oriental. No se deduce una frontera continua a partir de esa figura."
+      "date": "Fecha no precisada",
+      "text": "Tradición de cazadores de renos de Europa central y oriental, extendida hacia la zona báltica y el oeste de Rusia. La mancha es orientativa.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#9a83b6",
+            "opacity": 0.34,
+            "outline": "#9a83b6",
+            "title": "Swideriense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  13,
+                  48
+                ],
+                [
+                  16.2,
+                  48.5
+                ],
+                [
+                  20.2,
+                  48.9
+                ],
+                [
+                  24.7,
+                  49.9
+                ],
+                [
+                  29.5,
+                  51.1
+                ],
+                [
+                  31.5,
+                  53.4
+                ],
+                [
+                  30,
+                  56.3
+                ],
+                [
+                  26.4,
+                  57.2
+                ],
+                [
+                  22.4,
+                  56.2
+                ],
+                [
+                  18.5,
+                  54.9
+                ],
+                [
+                  15.1,
+                  53.2
+                ],
+                [
+                  13,
+                  50.8
+                ],
+                [
+                  13,
+                  48
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Komsa",
@@ -4805,7 +5085,69 @@
       "to": 10,
       "color": "#5d9a9a",
       "date": "12.000–4.000 AP (≈ 10.050–2050 a. C.) · continúa después del mapa",
-      "text": "Tradición de cazadores y pescadores de la costa norte de Noruega. El PDF describe una fuerte relación con el mar y la caza de focas; gran parte de su duración queda fuera del tramo de este mapa."
+      "text": "Comunidades de la costa norte de Noruega y la península de Kola. La pesca y la caza marina, incluidas las focas, fueron importantes. La zona es aproximada.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#5d9a9a",
+            "opacity": 0.34,
+            "outline": "#5d9a9a",
+            "title": "Komsa · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  14,
+                  67.2
+                ],
+                [
+                  17.1,
+                  68.1
+                ],
+                [
+                  19,
+                  69.3
+                ],
+                [
+                  22,
+                  70.5
+                ],
+                [
+                  26.2,
+                  71.2
+                ],
+                [
+                  29.5,
+                  70.4
+                ],
+                [
+                  29.1,
+                  68.9
+                ],
+                [
+                  26,
+                  67.8
+                ],
+                [
+                  22.2,
+                  67
+                ],
+                [
+                  18.7,
+                  66.5
+                ],
+                [
+                  14,
+                  67.2
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Sauveteriense",
@@ -4814,7 +5156,69 @@
       "to": 4,
       "color": "#a68e54",
       "date": "10.000–9.000 AP (≈ 8050–7050 a. C.)",
-      "text": "Una de las etapas mesolíticas enumeradas por el PDF. Sus fechas son aproximadas y se expresan primero como aparecen en la fuente."
+      "text": "Tradición mesolítica del sur de Francia, con presencia en zonas vecinas de Europa occidental. El área coloreada es aproximada.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#a68e54",
+            "opacity": 0.34,
+            "outline": "#a68e54",
+            "title": "Sauveteriense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -2,
+                  41
+                ],
+                [
+                  0.2,
+                  42.4
+                ],
+                [
+                  2,
+                  43.6
+                ],
+                [
+                  4.8,
+                  44.5
+                ],
+                [
+                  7.7,
+                  44.1
+                ],
+                [
+                  9.6,
+                  42.7
+                ],
+                [
+                  9,
+                  40.8
+                ],
+                [
+                  6.7,
+                  39.8
+                ],
+                [
+                  3.8,
+                  40.1
+                ],
+                [
+                  1,
+                  40.4
+                ],
+                [
+                  -2,
+                  41
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Tardenoisiense",
@@ -4823,7 +5227,61 @@
       "to": 7,
       "color": "#b36d63",
       "date": "12.000–7.000 AP (≈ 10.050–5050 a. C.)",
-      "text": "Etapa mesolítica citada por el PDF. Solo su parte más antigua coincide con el final del intervalo representado en este mapa."
+      "text": "El nombre se relaciona con la región de Tardenois, en el norte de Francia. También se encuentran tradiciones afines en Europa central; el contorno solo localiza la región de referencia.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#b36d63",
+            "opacity": 0.34,
+            "outline": "#b36d63",
+            "title": "Tardenoisiense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.8,
+                  48.4
+                ],
+                [
+                  0.8,
+                  49.2
+                ],
+                [
+                  1.7,
+                  50.4
+                ],
+                [
+                  3.7,
+                  50.7
+                ],
+                [
+                  4.6,
+                  49.7
+                ],
+                [
+                  4.2,
+                  48.8
+                ],
+                [
+                  2.7,
+                  48.3
+                ],
+                [
+                  1,
+                  48
+                ],
+                [
+                  -0.8,
+                  48.4
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Montadiense",
@@ -4832,7 +5290,57 @@
       "to": 10,
       "color": "#769c6c",
       "date": "En torno a 12.000 AP",
-      "text": "El PDF da una fecha de referencia, no un intervalo. Se conserva como aparece en la fuente y no se prolonga como banda fechada."
+      "text": "Tradición regional del sureste de Francia. El mapa señala la Provenza de forma orientativa.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#769c6c",
+            "opacity": 0.34,
+            "outline": "#769c6c",
+            "title": "Montadiense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  4.5,
+                  43.2
+                ],
+                [
+                  5.1,
+                  43.6
+                ],
+                [
+                  6,
+                  43.6
+                ],
+                [
+                  6.6,
+                  43.2
+                ],
+                [
+                  6.5,
+                  42.8
+                ],
+                [
+                  5.6,
+                  42.7
+                ],
+                [
+                  4.8,
+                  42.9
+                ],
+                [
+                  4.5,
+                  43.2
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Maglemosiense",
@@ -4841,7 +5349,73 @@
       "to": 13,
       "color": "#7287b6",
       "date": "11.000–8.000 AP (≈ 9050–6050 a. C.) · continúa después del mapa",
-      "text": "Tradición mesolítica de Escandinavia. El PDF explica que el nivel del mar era más bajo y que las tierras hoy separadas por el mar del Norte estaban unidas."
+      "text": "Tradición mesolítica del sur de Escandinavia y las tierras próximas al mar del Norte. Con el nivel del mar más bajo, esas tierras estaban conectadas con otras zonas hoy separadas por agua.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#7287b6",
+            "opacity": 0.34,
+            "outline": "#7287b6",
+            "title": "Maglemosiense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7.8,
+                  54.3
+                ],
+                [
+                  9,
+                  55.5
+                ],
+                [
+                  10.2,
+                  57.7
+                ],
+                [
+                  11.4,
+                  59.2
+                ],
+                [
+                  13.5,
+                  59.8
+                ],
+                [
+                  15.8,
+                  59.2
+                ],
+                [
+                  18,
+                  57.7
+                ],
+                [
+                  17,
+                  55.9
+                ],
+                [
+                  14.5,
+                  54.9
+                ],
+                [
+                  11.8,
+                  54.3
+                ],
+                [
+                  9.5,
+                  54
+                ],
+                [
+                  7.8,
+                  54.3
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Castelnoviense",
@@ -4850,7 +5424,69 @@
       "to": 16,
       "color": "#b88451",
       "date": "8600–7600 AP (≈ 6650–5650 a. C.) · posterior al mapa",
-      "text": "Etapa citada por el PDF para Francia, Italia y España. Sus fechas quedan después del límite de 7000 a. C. de esta entrada; se incluye como referencia para el mapa siguiente."
+      "text": "Etapa mesolítica documentada en el sur de Francia y el noroeste de Italia. Su intervalo principal queda fuera del tramo final de este mapa.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#b88451",
+            "opacity": 0.34,
+            "outline": "#b88451",
+            "title": "Castelnoviense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  4.1,
+                  42
+                ],
+                [
+                  5.6,
+                  43
+                ],
+                [
+                  7.5,
+                  44
+                ],
+                [
+                  9.6,
+                  44.1
+                ],
+                [
+                  11.2,
+                  43.4
+                ],
+                [
+                  12.2,
+                  42.1
+                ],
+                [
+                  11.3,
+                  40.9
+                ],
+                [
+                  9.3,
+                  40.3
+                ],
+                [
+                  7,
+                  40.7
+                ],
+                [
+                  5.2,
+                  41
+                ],
+                [
+                  4.1,
+                  42
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Kunda",
@@ -4859,7 +5495,85 @@
       "to": 19,
       "color": "#779b83",
       "date": "10.000–7.000 AP (≈ 8050–5050 a. C.) · continúa después del mapa",
-      "text": "Tradición de cazadores-recolectores de la región forestal del Báltico. El PDF la sitúa hacia el este, por Letonia y el norte de Rusia; parte de su duración rebasa este mapa."
+      "text": "Tradición de cazadores-recolectores de la zona báltica oriental, con yacimientos hacia Letonia, Lituania, el norte de Polonia, Finlandia y regiones cercanas de Rusia.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#779b83",
+            "opacity": 0.34,
+            "outline": "#779b83",
+            "title": "Kunda · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  17,
+                  53.6
+                ],
+                [
+                  19,
+                  54.8
+                ],
+                [
+                  21.2,
+                  55.5
+                ],
+                [
+                  23.2,
+                  56.3
+                ],
+                [
+                  25,
+                  57.4
+                ],
+                [
+                  27.7,
+                  58.8
+                ],
+                [
+                  30.5,
+                  60.4
+                ],
+                [
+                  31.6,
+                  62.2
+                ],
+                [
+                  29,
+                  63.1
+                ],
+                [
+                  26.6,
+                  62.3
+                ],
+                [
+                  24.1,
+                  61.4
+                ],
+                [
+                  22,
+                  60.1
+                ],
+                [
+                  19.6,
+                  59
+                ],
+                [
+                  18,
+                  57.2
+                ],
+                [
+                  17,
+                  53.6
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     },
     {
       "title": "Epigravetiense",
@@ -4868,7 +5582,81 @@
       "to": 19,
       "color": "#9b7486",
       "date": "Presente durante el máximo glacial; expansión c. 14.000 AP",
-      "text": "El PDF lo relaciona con poblaciones del sur de Europa durante la glaciación y con su expansión posterior hacia otras regiones. La secuencia se presenta como una explicación general, no como una frontera exacta."
+      "text": "Tradición del sur de Europa durante la etapa glacial, que después se extendió hacia otras regiones. El área es esquemática y no representa una frontera exacta.",
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#9b7486",
+            "opacity": 0.34,
+            "outline": "#9b7486",
+            "title": "Epigravetiense · zona aproximada"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7,
+                  43.8
+                ],
+                [
+                  9.3,
+                  44.8
+                ],
+                [
+                  12.3,
+                  44.8
+                ],
+                [
+                  15,
+                  43.6
+                ],
+                [
+                  18.1,
+                  42.7
+                ],
+                [
+                  21.3,
+                  41.2
+                ],
+                [
+                  23.4,
+                  39.1
+                ],
+                [
+                  21.6,
+                  37
+                ],
+                [
+                  18.5,
+                  36.4
+                ],
+                [
+                  15.8,
+                  37.4
+                ],
+                [
+                  13.2,
+                  38.4
+                ],
+                [
+                  10.7,
+                  39
+                ],
+                [
+                  8.4,
+                  40.2
+                ],
+                [
+                  7,
+                  43.8
+                ]
+              ]
+            ]
+          }
+        }
+      ]
     }
   ],
   "environments": [
@@ -6927,7 +7715,7 @@
       "title": "Límite de bosque · hace unos 18.000 años",
       "date": "Hace unos 18.000 años",
       "color": "#83c94c",
-      "text": "Límite septentrional orientativo de los bosques caducifolios, reconstruido de forma esquemática a partir del atlas. La línea resume una transición de vegetación. Las reconstrucciones basadas en polen permiten contrastar la tendencia general.",
+      "text": "Límite septentrional orientativo de los bosques caducifolios, reconstruido de forma esquemática. La línea resume una transición de vegetación. Las reconstrucciones basadas en polen permiten contrastar la tendencia general.",
       "areas": [
         {
           "type": "Feature",
@@ -7894,7 +8682,7 @@
       "id": "sapiens-oriente",
       "title": "Homo sapiens · de Oriente Medio a Europa",
       "heading": "Homo sapiens · de Oriente Medio a Europa",
-      "date": "Hace unos 40.000 años, según el atlas",
+      "date": "Hace unos 40.000 años",
       "text": "Dirección aproximada desde el Levante por Anatolia hacia los Balcanes. La flecha esquematiza el mapa de referencia. En el sudeste europeo hay restos de Homo sapiens anteriores a esa fecha.",
       "color": "#7135b5",
       "group": "Poblaciones y desplazamientos",
@@ -8272,7 +9060,7 @@
       "title": "Támesis · valle y antiguo estuario",
       "heading": "El paisaje del Támesis en el Mesolítico",
       "date": "Holoceno temprano · esquema orientativo",
-      "text": "El Támesis recorría un valle que la subida del mar fue transformando en estuario. Sus orillas ofrecían agua, pesca y zonas de paso para los grupos mesolíticos. La línea azul señala de forma esquemática el sector bajo del valle y su salida hacia el mar del Norte. La referencia del atlas es 7000 a. C. El trazado sirve para localizar ese paisaje y no permite seguir los meandros ni fijar la desembocadura de un año concreto. La costa del fondo es la actual.",
+      "text": "El Támesis recorría un valle que la subida del mar fue transformando en estuario. Sus orillas ofrecían agua, pesca y zonas de paso para los grupos mesolíticos. La línea azul señala de forma esquemática el sector bajo del valle y su salida hacia el mar del Norte. La referencia temporal es 7000 a. C. El trazado sirve para localizar ese paisaje y no permite seguir los meandros ni fijar la desembocadura de un año concreto. La costa del fondo es la actual.",
       "color": "#67d7ff",
       "group": "Ríos antiguos",
       "focusCoordinates": [

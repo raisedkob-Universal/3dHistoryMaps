@@ -706,7 +706,18 @@
         43.377
       ],
       "text": "Cueva con pinturas rupestres en Cantabria.",
-      "source": "https://whc.unesco.org/en/list/310/maps/"
+      "source": "https://whc.unesco.org/en/list/310/maps/",
+      "photo": {
+        "src": "./datos/imagenes/altamira.webp",
+        "width": 900,
+        "height": 601,
+        "alt": "Altamira",
+        "caption": "Bisonte polícromo del arte rupestre de Altamira.",
+        "credit": "Museo de Altamira y D. Rodríguez",
+        "source": "https://commons.wikimedia.org/wiki/File:9_Bisonte_Magdaleniense_pol%C3%ADcromo.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "lascaux",
@@ -717,7 +728,18 @@
         45.05369444444444
       ],
       "text": "Cueva con pinturas rupestres en el valle del Vézère.",
-      "source": "https://whc.unesco.org/document/199889"
+      "source": "https://whc.unesco.org/document/199889",
+      "photo": {
+        "src": "./datos/imagenes/lascaux.webp",
+        "width": 900,
+        "height": 590,
+        "alt": "Lascaux",
+        "caption": "Pintura rupestre de la cueva de Lascaux.",
+        "credit": "EU",
+        "source": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "chauvet",
@@ -728,7 +750,18 @@
         44.3875
       ],
       "text": "Cueva con pinturas de animales, entre ellos rinocerontes lanudos y caballos.",
-      "source": "https://whc.unesco.org/en/list/1426/maps/"
+      "source": "https://whc.unesco.org/en/list/1426/maps/",
+      "photo": {
+        "src": "./datos/imagenes/chauvet.webp",
+        "width": 893,
+        "height": 900,
+        "alt": "Chauvet · Vallon-Pont-d’Arc",
+        "caption": "Réplica de pinturas de la cueva de Chauvet; se identifica como réplica.",
+        "credit": "HTO",
+        "source": "https://commons.wikimedia.org/wiki/File:Paintings_from_the_Chauvet_cave_(museum_replica).jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "cro-magnon",
@@ -739,7 +772,18 @@
         44.94044444444444
       ],
       "text": "Abrigo rocoso del valle del Vézère.",
-      "source": "https://whc.unesco.org/document/199889"
+      "source": "https://whc.unesco.org/document/199889",
+      "photo": {
+        "src": "./datos/imagenes/cro-magnon.webp",
+        "width": 900,
+        "height": 600,
+        "alt": "Abrigo de Cro-Magnon",
+        "caption": "Cro-Magnon  rock shelter, Les Eyzies de Tayac, Dordogne, France.\nA commemorative marble plaque to the right of the center top of the image reads, \"Abri de Cro-Magnon: ici furent découverts en 1868 les hommes de Cro-Magnon par François Berthoumeyrou\" (\"Shelter of Cro-Magnon: Here in 1868 Cro-Magnon men were discovered by François Berthoumeyrou\")",
+        "credit": "Sémhur",
+        "source": "https://commons.wikimedia.org/wiki/File:Abri_de_Cro-Magnon_-_Les_Eyzies_de_Tayac_-_20090925.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "la-madeleine",
@@ -750,7 +794,18 @@
         44.96702777777778
       ],
       "text": "Abrigo rocoso del valle del Vézère.",
-      "source": "https://whc.unesco.org/document/199889"
+      "source": "https://whc.unesco.org/document/199889",
+      "photo": {
+        "src": "./datos/imagenes/la-madeleine.webp",
+        "width": 900,
+        "height": 603,
+        "alt": "Abrigo de La Madeleine",
+        "caption": "Archäologischer Fundplatz „ La Madeleine “ in Frankreich: Versammlungsplatz und sporadischer Brunnen",
+        "credit": "Jochen Jahnke",
+        "source": "https://commons.wikimedia.org/wiki/File:F07_0051.Ma.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+      }
     },
     {
       "id": "mezhyrich",
@@ -761,7 +816,18 @@
         49.63333333333333
       ],
       "text": "Campamento con viviendas construidas con huesos de mamut. Ubicación aproximada.",
-      "source": "https://www.sciencedirect.com/science/article/pii/S0305440311003268"
+      "source": "https://www.sciencedirect.com/science/article/pii/S0305440311003268",
+      "photo": {
+        "src": "./datos/imagenes/mezhyrich.webp",
+        "width": 900,
+        "height": 653,
+        "alt": "Mezhyrich",
+        "caption": "Reconstrucción basada en los restos de viviendas de Mezhyrich.",
+        "credit": "Momotarou2012",
+        "source": "https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "lepenski-vir",
@@ -794,7 +860,18 @@
         46.2976
       ],
       "text": "Yacimiento paleolítico al pie de la roca de Solutré. El punto indica el acceso al conjunto arqueológico.",
-      "source": "https://reservation.rochedesolutre.com/paleo-gestes-tailler-la-pierre-de-neandertal-a-sapiens.html"
+      "source": "https://reservation.rochedesolutre.com/paleo-gestes-tailler-la-pierre-de-neandertal-a-sapiens.html",
+      "photo": {
+        "src": "./datos/imagenes/solutre.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Solutré",
+        "caption": "Solutré-Pouilly - Saône et Loire (71), France",
+        "credit": "Yelkrokoyade",
+        "source": "https://commons.wikimedia.org/wiki/File:Solutr%C3%A9_Pouilly.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "predmosti",
@@ -805,7 +882,18 @@
         49.46689722222222
       ],
       "text": "Yacimiento paleolítico con acumulaciones de huesos de mamut. El punto corresponde al memorial del yacimiento.",
-      "source": "https://www.archeologickyatlas.cz/cs/lokace/predmosti_pr_paleoliticka_stanice"
+      "source": "https://www.archeologickyatlas.cz/cs/lokace/predmosti_pr_paleoliticka_stanice",
+      "photo": {
+        "src": "./datos/imagenes/predmosti.webp",
+        "width": 611,
+        "height": 900,
+        "alt": "Předmostí",
+        "caption": "Antler decorated with incisions. Paleolithic, probably Gravettian. Original. Předmostí u Přerova. Temporary exhibition the Mammoth hunters in the NM Prague. The Moravian Museum (Brno).",
+        "credit": "Zde",
+        "source": "https://commons.wikimedia.org/wiki/File:Antler_decorated_with_incisions,_Paleolithic,_076857.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "cabeco-arruda",
@@ -816,7 +904,18 @@
         39.11
       ],
       "text": "Conchero mesolítico de Muge donde se encontraron enterramientos. Ubicación aproximada.",
-      "source": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=342923"
+      "source": "https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=342923",
+      "photo": {
+        "src": "./datos/imagenes/cabeco-arruda.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Cabeço da Arruda",
+        "caption": "Imagen del entorno del valle de Muge, donde se encuentran los concheros.",
+        "credit": "Vitor Oliveira",
+        "source": "https://commons.wikimedia.org/wiki/File:Ribeira_de_Muge_-_Portugal_(458210130).jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
     },
     {
       "id": "oleniy-ostrov",
@@ -827,7 +926,18 @@
         62.128972222222224
       ],
       "text": "Cementerio mesolítico de una isla del lago Onega. Estudios recientes sitúan su uso hacia 8250–8000 años calibrados antes del presente.",
-      "source": "https://doi.org/10.1007/s12520-026-02437-1"
+      "source": "https://doi.org/10.1007/s12520-026-02437-1",
+      "photo": {
+        "src": "./datos/imagenes/oleniy-ostrov.webp",
+        "width": 898,
+        "height": 900,
+        "alt": "Yuzhniy Oleniy Ostrov",
+        "caption": "Yuzhny Oleny amulets",
+        "credit": "Jbuket",
+        "source": "https://commons.wikimedia.org/wiki/File:Yuzhny_Oleny_amulets.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "oronsay",
@@ -838,7 +948,18 @@
         56
       ],
       "text": "Isla con concheros mesolíticos como Cnoc Coig. El marcador sitúa la isla de forma aproximada.",
-      "source": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,SM13655"
+      "source": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,SM13655",
+      "photo": {
+        "src": "./datos/imagenes/oronsay.webp",
+        "width": 900,
+        "height": 506,
+        "alt": "Oronsay",
+        "caption": "Conchero mesolítico visible en la isla de Oronsay.",
+        "credit": "Julian Paren",
+        "source": "https://commons.wikimedia.org/wiki/File:Mesolithic_shell_mound,_Oronsay_-_geograph.org.uk_-_5439685.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
     },
     {
       "id": "tito-bustillo",
@@ -849,7 +970,18 @@
         43.46083333333333
       ],
       "text": "Cueva con arte rupestre paleolítico en Ribadesella, Asturias.",
-      "source": "https://whc.unesco.org/en/list/310/maps/"
+      "source": "https://whc.unesco.org/en/list/310/maps/",
+      "photo": {
+        "src": "./datos/imagenes/tito-bustillo.webp",
+        "width": 900,
+        "height": 506,
+        "alt": "Tito Bustillo",
+        "caption": "Entrada de la cueva del Tito Bustillo, Ribadesella, Asturias",
+        "credit": "Falconaumanni",
+        "source": "https://commons.wikimedia.org/wiki/File:Tito_Bustillo_entrada.JPG",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      }
     },
     {
       "id": "el-pindal",
@@ -860,7 +992,18 @@
         43.3975
       ],
       "text": "Cueva con arte rupestre paleolítico en Asturias, cerca de la costa.",
-      "source": "https://whc.unesco.org/en/list/310/maps/"
+      "source": "https://whc.unesco.org/en/list/310/maps/",
+      "photo": {
+        "src": "./datos/imagenes/el-pindal.webp",
+        "width": 900,
+        "height": 600,
+        "alt": "El Pindal",
+        "caption": "Entrada a la  cueva del Pindal , Pitiango, Ribadedeva, Asturias",
+        "credit": "Falconaumanni",
+        "source": "https://commons.wikimedia.org/wiki/File:El_Pindal_entrada.JPG",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      }
     },
     {
       "id": "el-castillo",
@@ -871,7 +1014,18 @@
         43.292649999999995
       ],
       "text": "Cueva con arte rupestre en el conjunto de Monte Castillo, Cantabria.",
-      "source": "https://whc.unesco.org/en/list/310/maps/"
+      "source": "https://whc.unesco.org/en/list/310/maps/",
+      "photo": {
+        "src": "./datos/imagenes/el-castillo.webp",
+        "width": 900,
+        "height": 900,
+        "alt": "El Castillo",
+        "caption": "Interior de la Cueva del Castillo en Puente Viesgo, Cantabria (España). Se observan las pinturas prehistóricas del Paleolítico Superior.",
+        "credit": "Gabinete de Prensa del Gobierno de Cantabria",
+        "source": "https://commons.wikimedia.org/wiki/File:Cueva_del_Castillo_interior.jpg",
+        "license": "CC BY 3.0 es",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/es/deed.en"
+      }
     },
     {
       "id": "santimamine",
@@ -882,7 +1036,18 @@
         43.346580555555555
       ],
       "text": "Cueva con arte rupestre paleolítico en Bizkaia.",
-      "source": "https://whc.unesco.org/en/list/310/maps/"
+      "source": "https://whc.unesco.org/en/list/310/maps/",
+      "photo": {
+        "src": "./datos/imagenes/santimamine.webp",
+        "width": 612,
+        "height": 900,
+        "alt": "Santimamiñe",
+        "caption": "Entry to Santimamine Cave, in Kortezubi, Biscay, Spain",
+        "credit": "Javier Mediavilla Ezquibela",
+        "source": "https://commons.wikimedia.org/wiki/File:Santimamineko_Kobako_sarrera.jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+      }
     },
     {
       "id": "coa",
@@ -893,7 +1058,18 @@
         41.033
       ],
       "text": "Conjunto de grabados rupestres al aire libre. El punto sitúa el valle de forma orientativa. Los grabados se reparten por varios enclaves.",
-      "source": "https://en.wikipedia.org/wiki/Prehistoric_Rock_Art_Sites_in_the_C%C3%B4a_Valley_and_Siega_Verde"
+      "source": "https://en.wikipedia.org/wiki/Prehistoric_Rock_Art_Sites_in_the_C%C3%B4a_Valley_and_Siega_Verde",
+      "photo": {
+        "src": "./datos/imagenes/coa.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Valle del Côa",
+        "caption": "Rock Art – Paleolithic – - Penascosa - Foz Côa - Portugal",
+        "credit": "Henrique Matos",
+        "source": "https://commons.wikimedia.org/wiki/File:Rock_Art_Foz_Coa_01.jpg",
+        "license": "GFDL 1.2",
+        "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+      }
     },
     {
       "id": "parpallo",
@@ -904,7 +1080,18 @@
         39.0042
       ],
       "text": "Cueva de Gandia donde se hallaron plaquetas de piedra grabadas y pintadas. Son piezas que se podían transportar.",
-      "source": "https://ca.wikipedia.org/wiki/Cova_del_Parpall%C3%B3"
+      "source": "https://ca.wikipedia.org/wiki/Cova_del_Parpall%C3%B3",
+      "photo": {
+        "src": "./datos/imagenes/parpallo.webp",
+        "width": 900,
+        "height": 600,
+        "alt": "Cova del Parpalló",
+        "caption": "Grabado en roca datado en el Gravetense-Solutrense inferior de la Cova del Parpalló (Gandía). Fondos del Museo de Prehistoria de Valencia, Comunidad valenciana, España.",
+        "credit": "Falconaumanni",
+        "source": "https://commons.wikimedia.org/wiki/File:Grabado_Gravetense_Cova_del_Parpall%C3%B3_(1).JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "willendorf",
@@ -915,7 +1102,18 @@
         48.32319444444445
       ],
       "text": "En este yacimiento del Danubio se encontró la Venus de Willendorf, una pequeña figura humana tallada en piedra.",
-      "source": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.599491/full"
+      "source": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.599491/full",
+      "photo": {
+        "src": "./datos/imagenes/willendorf.webp",
+        "width": 479,
+        "height": 900,
+        "alt": "Willendorf",
+        "caption": "Venus von Willendorf",
+        "credit": "User:MatthiasKabel",
+        "source": "https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+      }
     },
     {
       "id": "dolni-vestonice",
@@ -926,7 +1124,18 @@
         48.8885
       ],
       "text": "Conjunto de campamentos paleolíticos conocido por el hallazgo de una figurilla de arcilla cocida. El punto indica el acceso de referencia del conjunto.",
-      "source": "https://www.archeologickyatlas.cz/cs/lokace/dolni_vestonice_bv_paleolit"
+      "source": "https://www.archeologickyatlas.cz/cs/lokace/dolni_vestonice_bv_paleolit",
+      "photo": {
+        "src": "./datos/imagenes/dolni-vestonice.webp",
+        "width": 621,
+        "height": 900,
+        "alt": "Dolní Věstonice",
+        "caption": "Female face, ivory carving, Dolní Věstonice, Gravettian, 28 000 - 22 000 BP",
+        "credit": "User:Zde",
+        "source": "https://commons.wikimedia.org/wiki/File:Female_face,_ivory_carving,_Doln%C3%AD_V%C4%9Bstonice,_Gravettian,_28_000_-_22_000_BP.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "vogelherd",
@@ -937,7 +1146,18 @@
         48.558611111111105
       ],
       "text": "Cueva del Jura de Suabia donde se hallaron pequeñas esculturas paleolíticas.",
-      "source": "https://whc.unesco.org/document/155786"
+      "source": "https://whc.unesco.org/document/155786",
+      "photo": {
+        "src": "./datos/imagenes/vogelherd.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Vogelherd",
+        "caption": "Figura de mamut hallada en la cueva de Vogelherd.",
+        "credit": "Thilo Parg",
+        "source": "https://commons.wikimedia.org/wiki/File:Mammut_Vogelherd.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "star-carr",
@@ -948,7 +1168,18 @@
         54.2143
       ],
       "text": "Asentamiento mesolítico junto a un antiguo lago. Se han encontrado restos de estructuras de madera.",
-      "source": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/da408340-d2e7-4cf4-876d-856f2a398c22"
+      "source": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/da408340-d2e7-4cf4-876d-856f2a398c22",
+      "photo": {
+        "src": "./datos/imagenes/star-carr.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Star Carr",
+        "caption": "Paisaje del yacimiento mesolítico de Star Carr.",
+        "credit": "Kirsty High",
+        "source": "https://commons.wikimedia.org/wiki/File:View_of_Star_Carr_site_looking_NWW..jpg",
+        "license": "FAL",
+        "licenseUrl": "http://artlibre.org/licence/lal/en"
+      }
     },
     {
       "id": "teviec",
@@ -959,7 +1190,18 @@
         47.55611111111111
       ],
       "text": "Islote bretón con un conchero y enterramientos mesolíticos. El marcador sitúa la isla de forma orientativa.",
-      "source": "https://doi.org/10.2307/j.ctvxrq11h.9"
+      "source": "https://doi.org/10.2307/j.ctvxrq11h.9",
+      "photo": {
+        "src": "./datos/imagenes/teviec.webp",
+        "width": 900,
+        "height": 642,
+        "alt": "Téviec",
+        "caption": "Sepultura mesolítica de Téviec con dos esqueletos.",
+        "credit": "Autoría no indicada en Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:S%C3%A9pulture_de_Teviec_Global.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "hoedic",
@@ -970,7 +1212,18 @@
         47.34028
       ],
       "text": "Yacimiento costero bretón donde se encontraron restos de conchas y sepulturas mesolíticas. Ubicación aproximada.",
-      "source": "https://www.mas.ncl.ac.uk/~nas13/out/NEST/Deliverables/FEPRE_database01-03-08.pdf"
+      "source": "https://www.mas.ncl.ac.uk/~nas13/out/NEST/Deliverables/FEPRE_database01-03-08.pdf",
+      "photo": {
+        "src": "./datos/imagenes/hoedic.webp",
+        "width": 900,
+        "height": 893,
+        "alt": "Hoëdic",
+        "caption": "Sépulture J d'Hœdic (tombe fouillée en 1933 par Marthe et Saint-Just Péquart). Il s'agit de la dépouille d'une femme âgée de 25-30 ans, tenant entre ses mains un jeune enfant de 3 à 5 ans ; un encadrement en bois de cerf entoure son corps, sur lequel ont été retrouvés plus de 800 coquillages perforés (restes de bracelets). Il s'agit de la sépulture la plus richement parée de la nécropole) (photographie de Saint-Just Péquart, musée de préhistoire de Carnac).",
+        "credit": "Saint-Just Péquart",
+        "source": "https://commons.wikimedia.org/wiki/File:105_Mus%C3%A9e_pr%C3%A9histoire_Carnac.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "kostenki",
@@ -981,7 +1234,18 @@
         51.394999999999996
       ],
       "text": "Yacimiento paleolítico al aire libre del valle del Don. El marcador identifica Kostenki 17, uno de los lugares del conjunto.",
-      "source": "https://www.sciencedirect.com/science/article/pii/S0341816225003133"
+      "source": "https://www.sciencedirect.com/science/article/pii/S0341816225003133",
+      "photo": {
+        "src": "./datos/imagenes/kostenki.webp",
+        "width": 900,
+        "height": 600,
+        "alt": "Kostenki · yacimiento 17",
+        "caption": "Restos de una vivienda paleolítica en Kostenki.",
+        "credit": "evatutin",
+        "source": "https://commons.wikimedia.org/wiki/File:Dwellings_foundation_in_Kostenky.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "sungir",
@@ -992,7 +1256,18 @@
         56.175
       ],
       "text": "Yacimiento del Paleolítico Superior cerca de Vladímir. Sus enterramientos conservaban numerosos adornos personales.",
-      "source": "https://doi.org/10.15184/aqy.2017.223"
+      "source": "https://doi.org/10.15184/aqy.2017.223",
+      "photo": {
+        "src": "./datos/imagenes/sungir.webp",
+        "width": 900,
+        "height": 414,
+        "alt": "Sungir",
+        "caption": "Man in an Upper Paleolithic burial in Sunghir, Russia. The site is approximately 28,000 to 30,000 years old",
+        "credit": "José-Manuel Benito Álvarez",
+        "source": "https://commons.wikimedia.org/wiki/File:Sunghir-tumba_paleol%C3%ADtica.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "mount-sandel",
@@ -1003,7 +1278,18 @@
         55.116207
       ],
       "text": "Asentamiento mesolítico junto al río Bann, en Irlanda del Norte.",
-      "source": "https://excavations.ie/report/1977-79/Derry/0032199/"
+      "source": "https://excavations.ie/report/1977-79/Derry/0032199/",
+      "photo": {
+        "src": "./datos/imagenes/mount-sandel.webp",
+        "width": 900,
+        "height": 438,
+        "alt": "Mount Sandel",
+        "caption": "Área del yacimiento de Mount Sandel, fotografiada en 2019.",
+        "credit": "Ridiculopathy",
+        "source": "https://commons.wikimedia.org/wiki/File:Mount_Sandel_Mesolithic_site_in_Nov_2019_01.jpg",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
     },
     {
       "id": "chatelperron",
@@ -1014,7 +1300,18 @@
         46.41166666666666
       ],
       "text": "Conjunto de cuevas del centro de Francia que da nombre al Chatelperroniense.",
-      "source": "https://fr.wikipedia.org/wiki/Grotte_des_F%C3%A9es_%28Ch%C3%A2telperron%29"
+      "source": "https://fr.wikipedia.org/wiki/Grotte_des_F%C3%A9es_%28Ch%C3%A2telperron%29",
+      "photo": {
+        "src": "./datos/imagenes/chatelperron.webp",
+        "width": 900,
+        "height": 600,
+        "alt": "Châtelperron · Grotte des Fées",
+        "caption": "La Grotte des Fées  archaeological site (Allier, France), type site of  Châtelperronian   culture",
+        "credit": "120 (V. Mourre / Inrap)",
+        "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2telperron_-_grotte_des_f%C3%A9es_-_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "brassempouy",
@@ -1025,7 +1322,18 @@
         43.62945
       ],
       "text": "Conjunto de cuevas donde se halló la Dama de Brassempouy, una pequeña cabeza tallada en marfil de mamut. El punto señala la Grotte du Pape.",
-      "source": "https://mapcarta.com/fr/N4316746244"
+      "source": "https://mapcarta.com/fr/N4316746244",
+      "photo": {
+        "src": "./datos/imagenes/brassempouy.webp",
+        "width": 664,
+        "height": 900,
+        "alt": "Brassempouy · Grotte du Pape",
+        "caption": "Venus of Brassempouy, photographed at the Musée d'Archéologie Nationale",
+        "credit": "PHGCOM",
+        "source": "https://commons.wikimedia.org/wiki/File:Venus_de_Brassempouy.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "trois-freres",
@@ -1036,7 +1344,18 @@
         43.032222222222224
       ],
       "text": "Cueva decorada del Ariège. Conserva grabados paleolíticos.",
-      "source": "https://fr.wikipedia.org/wiki/Grotte_des_Trois-Fr%C3%A8res"
+      "source": "https://fr.wikipedia.org/wiki/Grotte_des_Trois-Fr%C3%A8res",
+      "photo": {
+        "src": "./datos/imagenes/trois-freres.webp",
+        "width": 668,
+        "height": 900,
+        "alt": "Les Trois Frères",
+        "caption": "Útiles de sílex procedentes de las cuevas de Trois-Frères y Tuc d’Audoubert.",
+        "credit": "Chevalier Georges",
+        "source": "https://commons.wikimedia.org/wiki/File:Silex_des_grottes_des_Trois-Fr%C3%A8res_et_du_Tuc_d'Audoubert_-_A71855S.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "lespugue",
@@ -1047,7 +1366,18 @@
         43.23083333333334
       ],
       "text": "Cueva de las gargantas de la Save donde se encontró la Venus de Lespugue, tallada en marfil.",
-      "source": "https://fr.wikipedia.org/wiki/Grotte_des_Rideaux"
+      "source": "https://fr.wikipedia.org/wiki/Grotte_des_Rideaux",
+      "photo": {
+        "src": "./datos/imagenes/lespugue.webp",
+        "width": 523,
+        "height": 900,
+        "alt": "Lespugue · Grotte des Rideaux",
+        "caption": "Venus of Lespugue, mammoth ivory, found in the Grotte des Rideaux ( Lespugue, Haute-Garonne, France ). Dated from the Gravettian, ( Upper Paleolithic, 23 000 years ). Currently in the Musée de l'Homme, in Paris.",
+        "credit": "Vassil",
+        "source": "https://commons.wikimedia.org/wiki/File:V%C3%A9nus_de_Lespugue_Gravettien_Mus%C3%A9e_de_l'Homme_04022018_1.jpg",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
     },
     {
       "id": "aurignac",
@@ -1058,7 +1388,18 @@
         43.2233
       ],
       "text": "Abrigo rocoso de la Alta Garona que da nombre al Auriñaciense.",
-      "source": "https://www.cirkwi.com/fr/point-interet/3560231-abri-prehistorique-d-aurignac"
+      "source": "https://www.cirkwi.com/fr/point-interet/3560231-abri-prehistorique-d-aurignac",
+      "photo": {
+        "src": "./datos/imagenes/aurignac.webp",
+        "width": 900,
+        "height": 599,
+        "alt": "Abrigo de Aurignac",
+        "caption": "Abrigo de Aurignac, fotografía del yacimiento.",
+        "credit": "Thilo Parg",
+        "source": "https://commons.wikimedia.org/wiki/File:Aurignac_1_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "la-gravette",
@@ -1069,7 +1410,18 @@
         44.8043
       ],
       "text": "Yacimiento de Bayac, en Dordoña, que da nombre al Gravetiense.",
-      "source": "https://www.cirkwi.com/en/point-interet/2711748-gisement-de-la-gravette"
+      "source": "https://www.cirkwi.com/en/point-interet/2711748-gisement-de-la-gravette",
+      "photo": {
+        "src": "./datos/imagenes/la-gravette.webp",
+        "width": 900,
+        "height": 737,
+        "alt": "La Gravette",
+        "caption": "Colgantes óseos hallados en el abrigo de La Gravette.",
+        "credit": "BastienM",
+        "source": "https://commons.wikimedia.org/wiki/File:Pendeloque_du_gravettien_-_abri_de_la_Gravette.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "oban",
@@ -1080,7 +1432,18 @@
         56.4174
       ],
       "text": "Lugar de una cueva de Oban donde se hallaron útiles mesolíticos de hueso y piedra. El marcador indica aproximadamente la ubicación de la antigua cueva.",
-      "source": "https://www.trove.scot/place/23066"
+      "source": "https://www.trove.scot/place/23066",
+      "photo": {
+        "src": "./datos/imagenes/oban.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Oban · cueva de MacArthur",
+        "caption": "Imagen de contexto de Oban; la cueva de MacArthur ya no se conserva como yacimiento visible.",
+        "credit": "Geograph / autor indicado en Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Oban_Harbour_Promenade_-_geograph.org.uk_-_7609707.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
     },
     {
       "id": "paviland",
@@ -1091,7 +1454,18 @@
         51.55014
       ],
       "text": "Cueva costera de Gales donde se descubrió un enterramiento paleolítico conocido como la Dama Roja de Paviland.",
-      "source": "https://mapcarta.com/N1791830965"
+      "source": "https://mapcarta.com/N1791830965",
+      "photo": {
+        "src": "./datos/imagenes/paviland.webp",
+        "width": 667,
+        "height": 900,
+        "alt": "Paviland · Goat’s Hole",
+        "caption": "Palaeolithic  human remains from the  Red Lady of Paviland , excavated in South Wales. Image taken when they were exhibited at the  Natural History Museum  in Summer 2014.",
+        "credit": "Ethan Doyle White",
+        "source": "https://commons.wikimedia.org/wiki/File:Red_Lady_of_Paviland_from_head.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "creswell",
@@ -1102,7 +1476,18 @@
         53.262131
       ],
       "text": "Garganta inglesa con varias cuevas y abrigos paleolíticos. El marcador sitúa el conjunto.",
-      "source": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/f9f0046b-a634-48a5-9969-6485a6910e5e"
+      "source": "https://historicengland.org.uk/listing/heritage-gateway/results/record/0d636742-8028-4a8c-8b7c-e1f9aaf2d338/f9f0046b-a634-48a5-9969-6485a6910e5e",
+      "photo": {
+        "src": "./datos/imagenes/creswell.webp",
+        "width": 900,
+        "height": 673,
+        "alt": "Creswell Crags",
+        "caption": "en:Creswell Crags  Taken specifically for use in Wikipedia.",
+        "credit": "Henrylisatom  at  English Wikipedia",
+        "source": "https://commons.wikimedia.org/wiki/File:Some_other_caves_in_Creswell_Crags.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "molodova",
@@ -1113,7 +1498,18 @@
         48.547
       ],
       "text": "Yacimiento del valle del Dniéster con niveles gravetienses. El marcador sitúa aproximadamente Molodova V, uno de los enclaves del conjunto.",
-      "source": "https://www.fossilized.org/memosphere/locality_list_full.php"
+      "source": "https://www.fossilized.org/memosphere/locality_list_full.php",
+      "photo": {
+        "src": "./datos/imagenes/molodova.webp",
+        "width": 900,
+        "height": 598,
+        "alt": "Molodova · yacimiento V",
+        "caption": "Imagen de contexto regional: paisaje del embalse del Dniéster; el antiguo asentamiento quedó inundado.",
+        "credit": "Natalia Kalinichenko",
+        "source": "https://commons.wikimedia.org/wiki/File:Bakota_Dnister.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "agerod",
@@ -1124,7 +1520,18 @@
         55.93611111
       ],
       "text": "Conjunto mesolítico en el sur de Suecia. El humedal conservó materiales orgánicos. El marcador indica aproximadamente el área arqueológica.",
-      "source": "https://www.korpskriften.se/kunskap/plats?id=18573519"
+      "source": "https://www.korpskriften.se/kunskap/plats?id=18573519",
+      "photo": {
+        "src": "./datos/imagenes/agerod.webp",
+        "width": 900,
+        "height": 552,
+        "alt": "Excavaciones arqueológicas de Ageröd, décadas de 1940 y 1970",
+        "caption": "Fotografías de las campañas de excavación de Ageröd. Boethius y colaboradores, PLOS ONE (2020).",
+        "credit": "Adam Boethius et al.",
+        "source": "https://doi.org/10.1371/journal.pone.0236105.g003",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
     },
     {
       "id": "bisovaya",
@@ -1135,7 +1542,18 @@
         65.02361111111111
       ],
       "text": "Yacimiento paleolítico junto al río Pechora, cerca del círculo polar ártico. La atribución cultural de sus herramientas se ha debatido.",
-      "source": "https://doi.org/10.1126/science.1203866"
+      "source": "https://doi.org/10.1126/science.1203866",
+      "photo": {
+        "src": "./datos/imagenes/bisovaya.webp",
+        "width": 900,
+        "height": 600,
+        "alt": "Bisovaya · Byzovaya",
+        "caption": "Imagen de contexto regional del río Pechora, cerca de la ciudad; no es una fotografía de la excavación de Byzovaya.",
+        "credit": "Roman777",
+        "source": "https://commons.wikimedia.org/wiki/File:Pechora_River_by_Pechora,_Russia.JPG",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "pincevent",
@@ -1146,7 +1564,18 @@
         48.368703
       ],
       "text": "Campamento al aire libre junto al Sena. Los sedimentos del río conservaron restos de varias ocupaciones del Magdaleniense final.",
-      "source": "https://umrtemps.cnrs.fr/terrain/pincevent/"
+      "source": "https://umrtemps.cnrs.fr/terrain/pincevent/",
+      "photo": {
+        "src": "./datos/imagenes/pincevent.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Pincevent",
+        "caption": "Yacimiento paleolítico al aire libre de Pincevent.",
+        "credit": "Tcherome  at  French Wikipedia",
+        "source": "https://commons.wikimedia.org/wiki/File:Pincevent.JPG",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "font-de-gaume",
@@ -1158,7 +1587,18 @@
       ],
       "text": "Cueva decorada del valle del Vézère, con pinturas y grabados paleolíticos.",
       "source": "https://whc.unesco.org/document/199889",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/font-de-gaume.webp",
+        "width": 602,
+        "height": 900,
+        "alt": "Font-de-Gaume",
+        "caption": "Entrance of the cave Font-de-Gaume, France",
+        "credit": "Traumrune",
+        "source": "https://commons.wikimedia.org/wiki/File:Font-de-Gaume_entree.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "hohle-fels",
@@ -1170,7 +1610,18 @@
       ],
       "text": "Cueva del Jura de Suabia donde se halló una figurilla humana tallada en marfil.",
       "source": "https://whc.unesco.org/document/155786",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/hohle-fels.webp",
+        "width": 598,
+        "height": 900,
+        "alt": "Hohle Fels",
+        "caption": "The hollow rock near Schelklingen in the Alb-Danube district is a sponge pest of the White Jura. The sugarloaf-shaped rock lies in the valley of the Urdonau.",
+        "credit": "Dr. Eugen Lehle",
+        "source": "https://commons.wikimedia.org/wiki/File:Hohler_Fels.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
     },
     {
       "id": "lagar-velho",
@@ -1182,7 +1633,18 @@
       ],
       "text": "Abrigo del valle de Lapedo, cerca de Leiria. Se conoce por el enterramiento de un niño del Paleolítico Superior.",
       "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11887806/",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/lagar-velho.webp",
+        "width": 675,
+        "height": 900,
+        "alt": "Abrigo do Lagar Velho",
+        "caption": "Shelter of Lagar Velho, in the Lapedo valley",
+        "credit": "Nunorojordao",
+        "source": "https://commons.wikimedia.org/wiki/File:Abrigodolagarvelho.jpg",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "id": "ertebolle",
@@ -1194,7 +1656,18 @@
       ],
       "text": "Conchero del Mesolítico tardío junto al Limfjord, en Dinamarca. El marcador señala el centro de interpretación, cerca del yacimiento.",
       "source": "https://retold.eu/museums/stenaldercentret-ertebolle-dk",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/ertebolle.webp",
+        "width": 900,
+        "height": 675,
+        "alt": "Ertebølle",
+        "caption": "Paisaje costero actual de Ertebølle, Dinamarca.",
+        "credit": "Kristian.HP",
+        "source": "https://commons.wikimedia.org/wiki/File:Erteb%C3%B8lle_strand_fra_Erteb%C3%B8lle_hoved.jpg",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
     },
     {
       "id": "skateholm",
@@ -1206,7 +1679,18 @@
       ],
       "text": "Conjunto costero del sur de Suecia. Las excavaciones documentaron asentamientos y enterramientos de personas y perros.",
       "source": "https://link.springer.com/article/10.1007/s12520-022-01640-0",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/skateholm.jpg",
+        "width": 685,
+        "height": 488,
+        "alt": "Reconstrucción de la Mujer Sentada de Skateholm II",
+        "caption": "Reconstrucción de la mujer de la tumba XXII; no es una fotografía de los restos originales.",
+        "credit": "Trelleborg Museum",
+        "source": "https://link.springer.com/article/10.1007/s12520-026-02415-7",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
     },
     {
       "id": "norje-sunnansund",
@@ -1218,7 +1702,18 @@
       ],
       "text": "Asentamiento mesolítico del sur de Suecia con evidencias de pesca estacional y conservación del pescado mediante fermentación.",
       "source": "https://link.springer.com/article/10.1007/s12520-022-01640-0",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/norje-sunnansund.webp",
+        "width": 900,
+        "height": 770,
+        "alt": "Fosa de fermentación de pescado de Norje Sunnansund",
+        "caption": "Fosa mesolítica rodeada de hoyos para postes. Fotografía de Adam Boethius.",
+        "credit": "Adam Boethius",
+        "source": "https://doi.org/10.1371/journal.pone.0245222.g002",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
     },
     {
       "id": "melkoya",
@@ -1230,7 +1725,18 @@
       ],
       "text": "Isla del norte de Noruega con ocupaciones antiguas de grupos cazadores y pescadores. El punto sitúa la isla de forma orientativa.",
       "source": "https://www.antiquity.ac.uk/projgall/ramstad304",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/melkoya.webp",
+        "width": 900,
+        "height": 393,
+        "alt": "Melkøya",
+        "caption": "Isla actual de Melkøya; hoy alberga una terminal industrial. Imagen de contexto, no del yacimiento.",
+        "credit": "Janter",
+        "source": "https://commons.wikimedia.org/wiki/File:Melk%C3%B8ya_winter4.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+      }
     },
     {
       "id": "el-sidron",
@@ -1242,7 +1748,18 @@
       "text": "Cueva de Asturias con restos de varios individuos neandertales. Se marca la ubicación arqueológica.",
       "source": "https://hal.science/hal-03200074/file/archaeo1.pdf",
       "kind": "neandertal",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/el-sidron.webp",
+        "width": 900,
+        "height": 754,
+        "alt": "El Sidrón",
+        "caption": "Mandíbula fósil neandertal hallada en la cueva de El Sidrón.",
+        "credit": "Wikirictor",
+        "source": "https://commons.wikimedia.org/wiki/File:Sidron_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
     },
     {
       "id": "gorham",
@@ -1254,7 +1771,18 @@
       "text": "Conjunto de Gibraltar con evidencias de ocupación neandertal. El punto señala el conjunto patrimonial.",
       "source": "https://whc.unesco.org/en/list/1500/maps/",
       "kind": "neandertal",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/gorham.webp",
+        "width": 900,
+        "height": 600,
+        "alt": "Complejo de cuevas de Gorham",
+        "caption": "View of  Gorham's Cave , a  sea cave  in the east face of the  Rock of Gibraltar ,  Gibraltar .",
+        "credit": "Gibmetal77",
+        "source": "https://commons.wikimedia.org/wiki/File:Gorham's_Cave.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+      }
     },
     {
       "id": "vindija",
@@ -1266,7 +1794,18 @@
       "text": "Cueva del norte de Croacia donde se hallaron restos neandertales utilizados en estudios genéticos. Ubicación aproximada.",
       "source": "https://www.pnas.org/content/pnas/114/40/10606.full.pdf",
       "kind": "neandertal",
-      "complementary": true
+      "complementary": true,
+      "photo": {
+        "src": "./datos/imagenes/vindija.webp",
+        "width": 900,
+        "height": 598,
+        "alt": "Cueva de Vindija",
+        "caption": "Vindija cave near Varazdin in Croatia.",
+        "credit": "Tomislav Kranjcic",
+        "source": "https://commons.wikimedia.org/wiki/File:Vindija_cave.jpg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
     },
     {
       "id": "font-major",
@@ -1278,7 +1817,18 @@
       ],
       "complementary": true,
       "text": "Cueva con grabados rupestres en l’Espluga de Francolí, Tarragona. El estudio de 2026 documenta 280 motivos, incluidos 55 animales. Numerosas figuras se atribuyen a fases anteriores al Magdaleniense por comparación de sus formas. La cronología sigue en estudio. Los grabados se identificaron en 2019 sobre paredes frágiles y se documentan con técnicas digitales y modelos 3D. El marcador sitúa aproximadamente la entrada de la cueva.",
-      "source": "https://doi.org/10.15184/aqy.2026.10447"
+      "source": "https://doi.org/10.15184/aqy.2026.10447",
+      "photo": {
+        "src": "./datos/imagenes/font-major.webp",
+        "width": 900,
+        "height": 540,
+        "alt": "Cova de la Font Major",
+        "caption": "L'Espluga de Francolí (Tarragona, Spain)",
+        "credit": "Jorge Franganillo",
+        "source": "https://commons.wikimedia.org/wiki/File:Coves_de_l'Espluga_de_Francol%C3%AD_-_54862532918.jpg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
     }
   ],
   "cultures": [

@@ -159,7 +159,7 @@ header:has(#abrir-mapas) { max-width: min(340px, calc(100vw - 32px)); }
 .ficha-lugar h2 { margin: 0; font: 650 .9rem system-ui, sans-serif; }
 .ficha-lugar p { margin-top: .4rem; }
 .ficha-lugar figure { margin: .5rem 0 0; }
-.ficha-lugar img { display: block; width: 100%; height: auto; border-radius: 4px; }
+.ficha-lugar img { display: block; width: 100%; max-height: 210px; height: auto; object-fit: contain; border-radius: 4px; background: #0b1d25; }
 .ficha-lugar figcaption { color: #d5e2e4; font-size: .68rem; line-height: 1.25; margin-top: .25rem; }
 .ficha-lugar a { color: #bfe6f4; }
 .simbolo-cementerio { height: auto; background: transparent; color: #f0ce88; font-size: 1rem; line-height: 1; }

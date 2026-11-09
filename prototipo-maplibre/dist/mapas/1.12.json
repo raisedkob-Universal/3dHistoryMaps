@@ -75,15 +75,15 @@
           "start": -41000,
           "end": -41000,
           "date": "c. 41.000 a. C.",
-          "title": "Herramientas con cuchillas",
-          "text": "Durante este período se difundió en Europa la fabricación de herramientas con cuchillas."
+          "title": "Herramientas y adornos del Auriñaciense",
+          "text": "Durante el Auriñaciense se fabricaron hojas de piedra, adornos y herramientas de hueso. Estos objetos ayudan a reconocer una tradición cultural que se extendió por distintas regiones, con ritmos locales."
         },
         {
-          "start": -35000,
-          "end": -35000,
-          "date": "c. 37.000 AP (≈ 35.000 a. C.)",
-          "title": "Arte de la cueva de Chauvet",
-          "text": "Las pinturas de Chauvet se encuentran entre las manifestaciones de arte rupestre más antiguas conocidas. AP significa “antes del presente” y toma 1950 como referencia; la equivalencia a. C. es aproximada.",
+          "start": -34000,
+          "end": -31000,
+          "date": "c. 36.000–33.000 años AP (≈34.000–31.000 a. C.)",
+          "title": "Las pinturas de Chauvet",
+          "text": "La primera fase de pinturas de Chauvet se encuentra entre las más antiguas bien fechadas de Europa. La cueva también tuvo visitas posteriores, así que no todas sus imágenes tienen por qué ser de la misma época.",
           "placeId": "chauvet"
         },
         {
@@ -94,25 +94,27 @@
           "text": "En el suroeste de Francia y el norte de la península ibérica se conservan importantes conjuntos de arte rupestre. Algunas pinturas de Chauvet podrían ser anteriores."
         },
         {
-          "start": -25000,
+          "start": -29000,
           "end": -22000,
-          "date": "25.000–22.000 a. C.",
+          "date": "31.000–24.000 años AP (≈29.000–22.000 a. C.)",
           "title": "Figurillas de Venus",
-          "text": "Se han encontrado figurillas femeninas en lugares muy distantes, desde la península ibérica hasta Rusia."
+          "text": "Durante el Gravetiense se hicieron numerosas figurillas femeninas, desde el oeste de Europa hasta regiones de Rusia. Sus formas y significados variaban; no conocemos con certeza qué representaban para quienes las crearon.",
+          "placeId": "lespugue"
         },
         {
-          "start": -20000,
-          "end": -20000,
-          "date": "c. 20.000 a. C.",
-          "title": "Fabricación de herramientas",
-          "text": "La técnica de presión permitía desprender pequeñas láminas de piedra y dar forma a herramientas especializadas."
+          "start": -22000,
+          "end": -18500,
+          "date": "24.000–20.500 años calibrados AP (≈22.000–18.500 a. C.)",
+          "title": "Puntas de piedra del Solutrense",
+          "text": "En algunas regiones de Europa occidental, los talladores solutrenses fabricaron puntas finas y simétricas, a veces llamadas hojas de laurel. La técnica exigía controlar cómo se desprendían lascas del núcleo de piedra.",
+          "placeId": "solutre"
         },
         {
-          "start": -17000,
-          "end": -17000,
-          "date": "17.000 a. C.",
-          "title": "Pinturas de Lascaux",
-          "text": "La cueva de Lascaux, en Francia, conserva un gran conjunto de pinturas rupestres.",
+          "start": -19550,
+          "end": -19050,
+          "date": "21.500–21.000 años AP (≈19.500–19.000 a. C.) · datación revisada",
+          "title": "Lascaux: una fecha debatida",
+          "text": "Nuevas dataciones sitúan restos de las visitas a la cueva hacia este período. La edad de las pinturas se sigue debatiendo: no se puede asegurar que todas se realizaran en una sola etapa.",
           "placeId": "lascaux"
         },
         {
@@ -120,14 +122,14 @@
           "end": -16000,
           "date": "16.000 a. C.",
           "title": "Herramientas microlíticas",
-          "text": "Se extendió el uso de herramientas pequeñas, útiles para fabricar puntas y otros instrumentos compuestos."
+          "text": "Las piezas pequeñas de piedra podían encajarse en mangos de madera o hueso para formar herramientas compuestas. Su aparición y uso variaron según la región."
         },
         {
-          "start": -14000,
-          "end": -14000,
-          "date": "14.000 a. C.",
+          "start": -17050,
+          "end": -14850,
+          "date": "19.000–16.800 años AP (≈17.000–15.000 a. C.)",
           "title": "Pinturas de Altamira",
-          "text": "La cueva de Altamira, en la península ibérica, conserva pinturas rupestres de este período.",
+          "text": "En Altamira hay pinturas de distintas épocas. Algunas de las conocidas representaciones de bisontes se realizaron durante este amplio intervalo; la cueva no se pintó toda de una vez.",
           "placeId": "altamira"
         },
         {
@@ -135,14 +137,22 @@
           "end": -9750,
           "date": "c. 11.700 AP (≈ 9750 a. C.)",
           "title": "Comienza el Mesolítico",
-          "text": "Durante esta etapa de transición, las comunidades siguieron cazando, pescando y recolectando mientras cambiaban el clima y el paisaje."
+          "text": "Con el Holoceno comenzó una etapa más cálida. En muchas regiones, los grupos humanos siguieron cazando, pescando y recolectando, mientras se transformaban los bosques y las costas."
         },
         {
           "start": -7000,
           "end": -7000,
           "date": "Hacia 7000 a. C.",
           "title": "La agricultura se acerca a Europa",
-          "text": "Los primeros focos agrícolas se desarrollaron en el Próximo Oriente y Anatolia. La expansión por Europa fue posterior y desigual."
+          "text": "En el Próximo Oriente y Anatolia ya había comunidades agricultoras. Hacia el final del período que muestra este mapa, la agricultura se acercaba al Egeo; su expansión por Europa comenzó después y fue desigual."
+        },
+        {
+          "start": -33000,
+          "end": -33000,
+          "date": "c. 35.000 años AP (≈33.000 a. C.)",
+          "title": "Flautas de hueso",
+          "text": "En cuevas del sur de Alemania se hallaron flautas hechas con hueso y marfil, entre los instrumentos musicales más antiguos conocidos. Son una prueba de que algunas comunidades fabricaban objetos sonoros, aunque no sabemos cómo los usaban.",
+          "placeId": "hohle-fels"
         }
       ]
     },
@@ -150,46 +160,54 @@
       "title": "Cambios físicos",
       "entries": [
         {
-          "start": -43000,
-          "end": -43000,
-          "date": "c. 45.000 AP (≈ 43.000 a. C.)",
-          "title": "Primeras evidencias de Homo sapiens",
-          "text": "En lugares como Bacho Kiro, Kent y Grotta del Cavallo hay evidencias tempranas de presencia de Homo sapiens en Europa. Las equivalencias a. C. son aproximadas."
+          "start": -43870,
+          "end": -41700,
+          "date": "45.820–43.650 años calibrados AP (≈43.870–41.700 a. C.)",
+          "title": "Primeros Homo sapiens documentados en Europa",
+          "text": "En Bacho Kiro, Bulgaria, se encontraron restos de Homo sapiens asociados a herramientas del Paleolítico Superior inicial. Su datación está entre las evidencias directas más antiguas y mejor fechadas de nuestra especie en Europa.",
+          "placeId": "bacho-kiro"
         },
         {
-          "start": -42550,
-          "end": -40050,
-          "date": "Hace 44.500–42.000 años (≈ 42.500–40.000 a. C.)",
-          "title": "Declive final de los neandertales",
-          "text": "Los estudios genéticos detectan una fuerte reducción de los linajes maternos neandertales entre hace unos 45.000 y 42.000 años. En el noroeste de Europa, los restos apuntan a una desaparición regional entre hace unos 44.200 y 40.600 años. La desaparición fue escalonada: estas fechas no marcan un único final para todo el continente."
+          "start": -44500,
+          "end": -42000,
+          "date": "Hace unos 44.500–42.000 años (≈42.500–40.000 a. C.)",
+          "title": "Se acelera el declive neandertal",
+          "text": "Los estudios genéticos detectan una fuerte reducción de los linajes maternos neandertales. Es una señal de caída demográfica, no un recuento exacto de habitantes; las comunidades y los cambios no fueron iguales en todas las regiones.",
+          "environmentId": "neandertal-decline-iberia",
+          "focusCoordinates": [
+            -2.29167,
+            40.93917
+          ],
+          "focusZoom": 5.1
         },
         {
           "start": -35050,
           "end": -35050,
           "date": "c. 37.000 años AP (≈ 35.000 a. C.) · propuesta discutida",
           "title": "Posible persistencia en costas ibéricas",
-          "text": "Algunos yacimientos de las costas del sur de la península podrían conservar indicios neandertales posteriores a hace 42.000 años. Las dataciones y su interpretación siguen debatidas; no permiten fijar una fecha segura de extinción."
+          "text": "Algunos yacimientos de las costas del sur de la península podrían conservar indicios neandertales posteriores a hace 42.000 años. Las dataciones y su interpretación siguen debatidas; no permiten fijar una fecha segura de extinción.",
+          "placeId": "gorham"
         },
         {
           "start": -19000,
           "end": -16000,
           "date": "21.000–18.000 AP (≈ 19.000–16.000 a. C.)",
           "title": "Máximo de la última glaciación",
-          "text": "Gran parte de Europa quedó despoblada durante esta etapa fría. Algunas poblaciones sobrevivieron en refugios del sur y regresaron después."
+          "text": "El hielo alcanzó una gran extensión en el norte de Europa, aunque el máximo no ocurrió exactamente a la vez en todas las regiones. Muchas comunidades se concentraron en zonas menos frías del sur; no toda Europa quedó deshabitada."
         },
         {
           "start": -12750,
           "end": -12750,
           "date": "c. 14.700 AP (≈ 12.750 a. C.)",
           "title": "Primer gran deshielo",
-          "text": "El calentamiento Bølling liberó del hielo amplias zonas del norte de Europa y Escandinavia."
+          "text": "Hace unos 14.700 años comenzó un período cálido que aceleró el retroceso del hielo y permitió que plantas, animales y grupos humanos volvieran a ocupar áreas del norte."
         },
         {
           "start": -10950,
           "end": -10950,
           "date": "c. 12.900 AP (≈ 11.000 a. C.)",
           "title": "Vuelve una etapa fría",
-          "text": "El Dryas Reciente interrumpió el calentamiento antes de la llegada de una etapa más templada."
+          "text": "Después de un período de calentamiento, el Dryas Reciente trajo un nuevo enfriamiento durante más de mil años. Al terminar, el clima volvió a calentarse con rapidez."
         },
         {
           "start": -9750,
@@ -203,8 +221,28 @@
           "end": -7000,
           "date": "7000 a. C.",
           "title": "Referencia del hielo y los bosques",
-          "text": "Hacia esta fecha, el gran manto de hielo continental se había retirado de Europa. La referencia permite comparar el hielo y los bosques; no significa que desaparecieran todos los glaciares.",
+          "text": "La capa compara la extensión del hielo y el límite de los bosques hacia 7000 a. C. El aumento del nivel del mar ya había cambiado costas y valles bajos; la línea del Támesis y el Rin representa antiguos paisajes que hoy están parcialmente sumergidos.",
           "association": "Las otras comparaciones del mapa son aproximadas y están fechadas por separado."
+        },
+        {
+          "start": -42250,
+          "end": -38650,
+          "date": "44.200–40.600 años calibrados AP (≈42.250–38.650 a. C.)",
+          "title": "Desaparición regional en el noroeste europeo",
+          "text": "Las últimas evidencias neandertales bien fechadas del noroeste europeo se concentran en este intervalo. Otras regiones tuvieron cronologías propias: no hubo una fecha única de desaparición para toda Europa."
+        },
+        {
+          "start": -63050,
+          "end": -63050,
+          "date": "c. 65.000 años AP (≈63.000 a. C.) · reconstrucción genética",
+          "title": "Expansión de los neandertales tardíos",
+          "text": "Los análisis genéticos sitúan hacia esta época la diversificación del linaje neandertal tardío. Los datos arqueológicos sugieren que después se extendió desde un posible refugio del suroeste de Francia hacia otras regiones. Las flechas son direcciones generales, no rutas seguidas por individuos conocidos.",
+          "environmentId": "neandertal-expansion",
+          "focusCoordinates": [
+            0.8,
+            45
+          ],
+          "focusZoom": 4.1
         }
       ]
     }
@@ -765,6 +803,51 @@
       "title": "Desaparición neandertal en el noroeste de Europa",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7999949/",
       "reference": "Estimación regional de 44.200–40.600 años calibrados AP para el noroeste europeo."
+    },
+    {
+      "title": "Bacho Kiro · cronología de los restos humanos",
+      "url": "https://www.nature.com/articles/s41559-020-1136-3",
+      "reference": "Datación calibrada de 45.820–43.650 años AP para restos humanos y conjuntos arqueológicos asociados."
+    },
+    {
+      "title": "Bacho Kiro · contacto entre poblaciones",
+      "url": "https://www.nature.com/articles/s41586-021-03335-3",
+      "reference": "Análisis genético de humanos del Paleolítico Superior inicial; uno de los individuos de Bacho Kiro tenía un antepasado neandertal reciente."
+    },
+    {
+      "title": "Flautas paleolíticas · Smithsonian",
+      "url": "https://humanorigins.si.edu/evidence/behavior/art-music/musical-instruments/ancient-flute",
+      "reference": "Flauta de marfil de Geissenklösterle, Alemania, de unos 35.000 años."
+    },
+    {
+      "title": "Venus de Lespugue · Muséum national d’Histoire naturelle",
+      "url": "https://www.mnhn.fr/fr/venus-de-lespugue-une-dame-de-legende",
+      "reference": "Contexto y datación general de las figurillas gravetienses, aproximadamente 31.000–24.000 años AP."
+    },
+    {
+      "title": "Solutrense y Altamira · Museo de Altamira",
+      "url": "https://www.cultura.gob.es/mnaltamira/en/cueva-altamira/cronologia.html",
+      "reference": "Cronología de niveles solutrenses y dataciones de la cueva de Altamira."
+    },
+    {
+      "title": "Lascaux · revisión de dataciones",
+      "url": "https://archeologie.culture.gouv.fr/lascaux/en/dating-figures-lascaux",
+      "reference": "Síntesis de las dataciones y de los debates sobre la edad de las pinturas y las visitas a la cueva."
+    },
+    {
+      "title": "Chauvet · datación de las pinturas",
+      "url": "https://whc.unesco.org/document/152648",
+      "reference": "Síntesis de las fases de ocupación y dataciones de las representaciones de la cueva."
+    },
+    {
+      "title": "Linaje neandertal tardío · expansión y cambio demográfico",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13037871/",
+      "reference": "El estudio sitúa la diversificación del linaje neandertal tardío hacia 65.000 años AP y analiza su expansión y el descenso demográfico posterior."
+    },
+    {
+      "title": "Bacho Kiro · fotografía de la entrada",
+      "url": "https://commons.wikimedia.org/wiki/File:Bacho_Kiro_Cave.jpg",
+      "reference": "Fotografía de Nenko Lazarov, licenciada CC BY 2.5; imagen de contexto actual de la cueva."
     }
   ],
   "places": [
@@ -1923,6 +2006,30 @@
         "source": "https://commons.wikimedia.org/wiki/File:Cueva_de_los_casares_11.JPG",
         "license": "CC BY-SA 3.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    },
+    {
+      "id": "bacho-kiro",
+      "title": "Cueva de Bacho Kiro",
+      "kind": "cueva",
+      "complementary": true,
+      "coordinates": [
+        25.43028,
+        42.94667
+      ],
+      "date": "45.820–43.650 años calibrados AP",
+      "text": "Yacimiento búlgaro con restos humanos identificados como Homo sapiens y asociados a herramientas del Paleolítico Superior inicial. Las dataciones sitúan estos restos entre las evidencias más antiguas y mejor fechadas de nuestra especie en Europa.",
+      "source": "https://www.nature.com/articles/s41559-020-1136-3",
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bacho_Kiro_Cave.jpg/960px-Bacho_Kiro_Cave.jpg",
+        "width": 960,
+        "height": 720,
+        "alt": "Entrada de la cueva de Bacho Kiro, en Bulgaria",
+        "caption": "Entrada de la cueva de Bacho Kiro.",
+        "credit": "Nenko Lazarov",
+        "source": "https://commons.wikimedia.org/wiki/File:Bacho_Kiro_Cave.jpg",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
       }
     }
   ],

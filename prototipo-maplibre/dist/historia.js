@@ -231,7 +231,9 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
 
   function showEntry(mark, entry) {
     clearLayers();
-    const layer = layers.find(layer => layer.areas === entry.areas && layer.raster === entry.raster && layer.populationCards === entry.populationCards);
+    const layer = entry.environmentId
+      ? environments.find(candidate => candidate.id === entry.environmentId)
+      : layers.find(layer => layer.areas === entry.areas && layer.raster === entry.raster && layer.populationCards === entry.populationCards);
     if (layer) {
       selectedLayers.add(layer);
       renderLayers();

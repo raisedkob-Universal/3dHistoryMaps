@@ -174,8 +174,8 @@ header:has(#abrir-mapas) { max-width: min(340px, calc(100vw - 32px)); }
 .banda-cultural:nth-child(3n + 2) { background: #34534e; border-color: #88b2a4; }
 .banda-cultural:nth-child(3n) { background: #4b425e; border-color: #aa9cbd; }
 .banda-cultural[aria-pressed="true"] { outline: 2px solid #fff; outline-offset: 1px; }
-body:has(.cronologia[open] .culturas[open]) .ficha { bottom: 275px; }
-body:has(.cronologia[open] .culturas[open]) .maplibregl-ctrl-bottom-right { bottom: 270px; }
+body:has(.cronologia[open] .culturas[open]) .ficha { bottom: 330px; }
+body:has(.cronologia[open] .culturas[open]) .maplibregl-ctrl-bottom-right { bottom: 325px; }
 .simbolo-area { background: #e7a84f; }
 .simbolo-area-levante { background: #be6d4b; }
 .banda-cultural.banda-con-area { color: #fff5e2; background: linear-gradient(90deg, #775425 0 72%, #88482f 72%); border-color: #e7a84f; }

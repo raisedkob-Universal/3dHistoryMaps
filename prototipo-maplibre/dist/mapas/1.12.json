@@ -76,35 +76,43 @@
           "end": -41000,
           "date": "c. 41.000 a. C.",
           "title": "Herramientas con cuchillas",
-          "text": "Introducción de esta tecnología en Europa."
+          "text": "El atlas sitúa en este momento la introducción de esta tecnología en Europa."
+        },
+        {
+          "start": -35000,
+          "end": -35000,
+          "date": "c. 37.000 AP (≈ 35.000 a. C.)",
+          "title": "Arte de la cueva de Chauvet",
+          "text": "El PDF cita pinturas de Chauvet entre las más antiguas conocidas. AP cuenta los años desde 1950; su conversión a. C. es aproximada.",
+          "placeId": "chauvet"
         },
         {
           "start": -30000,
           "end": -30000,
-          "date": "c. 30.000 a. C.",
-          "title": "Primeras pinturas rupestres",
-          "text": "En el suroeste de Francia y el norte de España."
+          "date": "c. 30.000 a. C. (Susaeta)",
+          "title": "Pinturas rupestres en Francia y España",
+          "text": "El atlas destaca el suroeste de Francia y el norte de España. El PDF añade que algunas pinturas de Chauvet podrían ser anteriores."
         },
         {
           "start": -25000,
           "end": -22000,
           "date": "25.000–22.000 a. C.",
           "title": "Figurillas de Venus",
-          "text": "Hallazgos documentados desde España hasta Rusia."
+          "text": "El atlas señala hallazgos desde la península ibérica hasta Rusia."
         },
         {
           "start": -20000,
           "end": -20000,
           "date": "c. 20.000 a. C.",
-          "title": "Técnica de presión y descamación",
-          "text": "Introducción de la técnica para fabricar herramientas."
+          "title": "Fabricación de herramientas",
+          "text": "El atlas destaca la técnica de presión y descamación para dar forma a las herramientas."
         },
         {
           "start": -17000,
           "end": -17000,
           "date": "17.000 a. C.",
           "title": "Pinturas de Lascaux",
-          "text": "Pinturas rupestres de Lascaux, Francia.",
+          "text": "El atlas sitúa en esta fecha aproximada las pinturas de Lascaux, en Francia.",
           "placeId": "lascaux"
         },
         {
@@ -112,22 +120,29 @@
           "end": -16000,
           "date": "16.000 a. C.",
           "title": "Herramientas microlíticas",
-          "text": "Desarrollo de las herramientas microlíticas."
+          "text": "El atlas destaca el desarrollo de herramientas pequeñas y especializadas."
         },
         {
           "start": -14000,
           "end": -14000,
           "date": "14.000 a. C.",
           "title": "Pinturas de Altamira",
-          "text": "Pinturas rupestres de Altamira, España.",
+          "text": "El atlas sitúa en esta fecha aproximada las pinturas de Altamira, en la península ibérica.",
           "placeId": "altamira"
         },
         {
-          "start": -8000,
-          "end": -8000,
-          "date": "8000 a. C.",
-          "title": "Transición hacia la agricultura",
-          "text": "Inicio de la transición en el sureste de Europa."
+          "start": -9750,
+          "end": -9750,
+          "date": "c. 11.700 AP (≈ 9750 a. C.)",
+          "title": "Comienza el Mesolítico",
+          "text": "El PDF lo presenta como una etapa de transición: las comunidades siguen cazando, pescando y recolectando mientras cambia el clima y el paisaje."
+        },
+        {
+          "start": -7000,
+          "end": -7000,
+          "date": "Hacia 7000 a. C.",
+          "title": "La agricultura se acerca a Europa",
+          "text": "La capa complementaria resume focos agrícolas del Próximo Oriente y Anatolia hasta este período. La expansión por Europa fue posterior y desigual; se desarrollará en el mapa siguiente."
         }
       ]
     },
@@ -135,40 +150,54 @@
       "title": "Cambios físicos",
       "entries": [
         {
-          "start": -40000,
-          "end": -40000,
-          "date": "c. 40.000 a. C.",
-          "title": "Humanos anatómicamente modernos",
-          "text": "Aparición en Europa en torno a esta fecha."
+          "start": -43000,
+          "end": -43000,
+          "date": "c. 45.000 AP (≈ 43.000 a. C.)",
+          "title": "Primeras evidencias de Homo sapiens",
+          "text": "El PDF cita hallazgos tempranos en Europa, entre ellos Bacho Kiro, Kent y Grotta del Cavallo. La equivalencia en a. C. es aproximada."
         },
         {
           "start": -28000,
           "end": -28000,
-          "date": "c. 28.000 a. C.",
-          "title": "Últimos neandertales",
-          "text": "Datación de referencia para la desaparición de los últimos neandertales en España."
+          "date": "c. 28.000 a. C. (Susaeta)",
+          "title": "Últimos neandertales en España",
+          "text": "Es la fecha de referencia que ofrece el atlas para la desaparición de los últimos neandertales en España; no representa por sí sola todas las regiones europeas."
         },
         {
-          "start": -18000,
-          "end": -15000,
-          "date": "18.000–15.000 a. C.",
-          "title": "Fase más gélida",
-          "text": "Fase más gélida de la glaciación."
+          "start": -19000,
+          "end": -16000,
+          "date": "21.000–18.000 AP (≈ 19.000–16.000 a. C.)",
+          "title": "Máximo de la última glaciación",
+          "text": "El PDF sitúa entre estas fechas el último máximo glacial. Gran parte de Europa quedó despoblada y algunas poblaciones sobrevivieron en refugios del sur."
         },
         {
-          "start": -10000,
-          "end": -10000,
-          "date": "10.000 a. C.",
-          "title": "Fin de la última glaciación",
-          "text": "Fecha de referencia para el final de la última glaciación."
+          "start": -12750,
+          "end": -12750,
+          "date": "c. 14.700 AP (≈ 12.750 a. C.)",
+          "title": "Primer gran deshielo",
+          "text": "El calentamiento Bølling liberó del hielo amplias zonas del norte de Europa y Escandinavia."
+        },
+        {
+          "start": -10950,
+          "end": -10950,
+          "date": "c. 12.900 AP (≈ 11.000 a. C.)",
+          "title": "Vuelve una etapa fría",
+          "text": "El Dryas Reciente interrumpió el calentamiento antes del final de la última glaciación."
+        },
+        {
+          "start": -9750,
+          "end": -9750,
+          "date": "c. 11.700 AP (≈ 9750 a. C.)",
+          "title": "Comienza el Holoceno",
+          "text": "Se inicia una etapa de clima más templado. El paisaje europeo cambia: retrocede el hielo y se expanden los bosques."
         },
         {
           "start": -7000,
           "end": -7000,
-          "date": "7000 a. C.",
-          "title": "Extensión de la capa de hielo",
-          "text": "Extensión del hielo representada para esta fecha.",
-          "association": "Fecha del atlas. La comparación disponible usa 18.000 y 10.000 años BP."
+          "date": "7000 a. C. (fecha del atlas)",
+          "title": "Referencia del hielo y los bosques",
+          "text": "El atlas compara la extensión del hielo y el límite de los bosques para esta fecha. Es una referencia de sus capas, no el final de todos los glaciares.",
+          "association": "Las otras comparaciones del mapa son aproximadas y están fechadas por separado."
         }
       ]
     }
@@ -189,7 +218,7 @@
     },
     {
       "heading": "Vallon-Pont-d’Arc.",
-      "body": "En 1994 se descubrieron pinturas de animales, entre ellos rinocerontes lanudos y caballos. Se datan aproximadamente en hace 30.000 años.",
+      "body": "En 1994 se descubrieron pinturas de animales, entre ellos rinocerontes lanudos y caballos. El PDF señala que algunas pinturas de Chauvet podrían remontarse a unos 37.000 años AP (aprox. 35.000 a. C.); el atlas ofrece la referencia más general de hace unos 30.000 años.",
       "placeIds": [
         "chauvet"
       ]
@@ -675,7 +704,7 @@
     },
     {
       "title": "Paleolítico en Europa · PDF de Wikipedia aportado por el propietario",
-      "reference": "Cotejo visual de las páginas 2 y 17–19 del PDF. Inicio del Holoceno y Mesolítico en torno a 11.700 AP. La nota 2 define AP con referencia a 1950. La frase de la página 18 que sitúa Argisa en 6400 AP presenta una inconsistencia con las dataciones arqueológicas griegas y requiere contraste. No se usa para fijar el inicio del siguiente mapa.",
+      "reference": "Cotejo visual de las páginas 1–2, 16–19 del PDF aportado por el propietario. Incluye cronologías culturales, el último máximo glacial, el calentamiento Bølling, el Dryas Reciente, el inicio del Holoceno y culturas mesolíticas. AP se refiere a 1950; las equivalencias aproximadas a. C. restan 1950 años y no sustituyen la calibración arqueológica. La cifra de Argisa en la página 18 sigue pendiente de contraste.",
       "url": "https://es.wikipedia.org/wiki/Paleol%C3%ADtico_en_Europa"
     },
     {
@@ -1837,7 +1866,7 @@
       "row": 1,
       "from": 1,
       "to": 3,
-      "text": "Tradición del Paleolítico Medio. El mapa señala ejemplos de presencia en la península ibérica, Francia y Europa oriental. Los hallazgos abarcan más regiones y distintos momentos.",
+      "text": "Tradición del Paleolítico Medio. El mapa señala algunos lugares de referencia, pero el PDF no fija aquí sus límites completos.",
       "color": "#678dca",
       "areas": [
         {
@@ -2371,14 +2400,15 @@
             ]
           }
         }
-      ]
+      ],
+      "date": "Paleolítico Medio · etapa anterior y contemporánea al inicio del mapa"
     },
     {
       "title": "Chatelperroniense",
       "row": 1,
       "from": 3,
       "to": 6,
-      "text": "Sus yacimientos se concentran principalmente en Francia y el norte de España. Las manchas sitúan esas regiones de referencia.",
+      "text": "El PDF sitúa esta tradición en Francia y España y la relaciona, por lo general, con los últimos neandertales. AP cuenta desde 1950; la conversión a. C. es orientativa.",
       "color": "#a56baa",
       "areas": [
         {
@@ -2735,14 +2765,15 @@
             ]
           }
         }
-      ]
+      ],
+      "date": "45.000–30.000 AP (≈ 43.000–28.000 a. C.)"
     },
     {
       "title": "Auriñaciense",
       "row": 2,
       "from": 3,
       "to": 8,
-      "text": "Zonas aproximadas de presencia auriñaciense según la reconstrucción del mapa de referencia. Ocre para el área europea y terracota para la levantina. Los límites son orientativos.",
+      "text": "Tradición del Paleolítico Superior temprano. El PDF señala su presencia en Europa y el atlas diferencia un área europea y otra levantina. Los contornos del mapa son orientativos.",
       "areas": [
         {
           "type": "Feature",
@@ -2925,14 +2956,15 @@
           }
         }
       ],
-      "color": "#e7a84f"
+      "color": "#e7a84f",
+      "date": "43.000–29.000 AP (≈ 41.000–27.000 a. C.)"
     },
     {
       "title": "Gravetiense",
       "row": 2,
       "from": 8,
       "to": 12,
-      "text": "Los hallazgos se reparten por gran parte de Europa. El mapa muestra ejemplos regionales desde la península ibérica hasta la llanura rusa, además de Francia, Europa central e Italia.",
+      "text": "Tradición extendida por distintas regiones de Europa. El PDF explica que las poblaciones y sus vínculos cambiaron a lo largo del período.",
       "color": "#c47f49",
       "areas": [
         {
@@ -3820,14 +3852,15 @@
             ]
           }
         }
-      ]
+      ],
+      "date": "31.000–22.000 AP (≈ 29.000–20.000 a. C.)"
     },
     {
       "title": "Solutrense",
       "row": 2,
       "from": 12,
       "to": 15,
-      "text": "Los hallazgos solutrenses se documentan sobre todo en Francia y la península ibérica. Las manchas sirven para localizar esas regiones.",
+      "text": "El PDF lo sitúa durante la última gran fase fría y destaca sus finas puntas de piedra en forma de hoja. El intervalo indicado es el del contexto climático, no un límite cultural exacto.",
       "color": "#479a85",
       "areas": [
         {
@@ -4184,14 +4217,15 @@
             ]
           }
         }
-      ]
+      ],
+      "date": "Durante el máximo glacial · 21.000–18.000 AP"
     },
     {
       "title": "Magdaleniense",
       "row": 2,
       "from": 15,
       "to": 19,
-      "text": "Hay yacimientos magdalenienses en Europa occidental y central. Aquí se destacan el norte ibérico, Francia y varios ejemplos centroeuropeos.",
+      "text": "El PDF destaca el arte de cuevas como Lascaux y Altamira y el trabajo de hueso. No fija en estas páginas los límites completos de esta tradición.",
       "color": "#cc6176",
       "areas": [
         {
@@ -4725,7 +4759,116 @@
             ]
           }
         }
-      ]
+      ],
+      "date": "Paleolítico Superior final · posterior al Solutrense"
+    },
+    {
+      "title": "Bromme",
+      "row": 3,
+      "from": 10,
+      "to": 13,
+      "color": "#b97952",
+      "date": "13.600–11.800 AP (≈ 11.650–9850 a. C.)",
+      "text": "Tradición de cazadores de renos del norte de Europa. El PDF describe un paisaje de tundra y taiga y herramientas robustas de piedra."
+    },
+    {
+      "title": "Ahrensburgiense",
+      "row": 3,
+      "from": 13,
+      "to": 16,
+      "color": "#7993ad",
+      "date": "11.000–10.000 AP (≈ 9050–8050 a. C.)",
+      "text": "Cazadores nómadas del centro y norte de Europa, especialmente de renos. El PDF la relaciona con el Dryas Reciente y describe campamentos junto a lagos y ríos."
+    },
+    {
+      "title": "Aziliense",
+      "row": 3,
+      "from": 1,
+      "to": 4,
+      "color": "#7eaa8c",
+      "date": "El mapa del PDF no indica fechas",
+      "text": "El PDF incluye un mapa de distribución de yacimientos azilienses en Europa occidental. La figura muestra lugares, pero no permite fijar aquí un intervalo cronológico."
+    },
+    {
+      "title": "Swideriense",
+      "row": 3,
+      "from": 4,
+      "to": 7,
+      "color": "#9a83b6",
+      "date": "El mapa del PDF no indica fechas",
+      "text": "El PDF muestra la distribución de yacimientos swiderienses en Europa central y oriental. No se deduce una frontera continua a partir de esa figura."
+    },
+    {
+      "title": "Komsa",
+      "row": 3,
+      "from": 7,
+      "to": 10,
+      "color": "#5d9a9a",
+      "date": "12.000–4.000 AP (≈ 10.050–2050 a. C.) · continúa después del mapa",
+      "text": "Tradición de cazadores y pescadores de la costa norte de Noruega. El PDF describe una fuerte relación con el mar y la caza de focas; gran parte de su duración queda fuera del tramo de este mapa."
+    },
+    {
+      "title": "Sauveteriense",
+      "row": 4,
+      "from": 1,
+      "to": 4,
+      "color": "#a68e54",
+      "date": "10.000–9.000 AP (≈ 8050–7050 a. C.)",
+      "text": "Una de las etapas mesolíticas enumeradas por el PDF. Sus fechas son aproximadas y se expresan primero como aparecen en la fuente."
+    },
+    {
+      "title": "Tardenoisiense",
+      "row": 4,
+      "from": 4,
+      "to": 7,
+      "color": "#b36d63",
+      "date": "12.000–7.000 AP (≈ 10.050–5050 a. C.)",
+      "text": "Etapa mesolítica citada por el PDF. Solo su parte más antigua coincide con el final del intervalo representado en este mapa."
+    },
+    {
+      "title": "Montadiense",
+      "row": 4,
+      "from": 7,
+      "to": 10,
+      "color": "#769c6c",
+      "date": "En torno a 12.000 AP",
+      "text": "El PDF da una fecha de referencia, no un intervalo. Se conserva como aparece en la fuente y no se prolonga como banda fechada."
+    },
+    {
+      "title": "Maglemosiense",
+      "row": 4,
+      "from": 10,
+      "to": 13,
+      "color": "#7287b6",
+      "date": "11.000–8.000 AP (≈ 9050–6050 a. C.) · continúa después del mapa",
+      "text": "Tradición mesolítica de Escandinavia. El PDF explica que el nivel del mar era más bajo y que las tierras hoy separadas por el mar del Norte estaban unidas."
+    },
+    {
+      "title": "Castelnoviense",
+      "row": 4,
+      "from": 13,
+      "to": 16,
+      "color": "#b88451",
+      "date": "8600–7600 AP (≈ 6650–5650 a. C.) · posterior al mapa",
+      "text": "Etapa citada por el PDF para Francia, Italia y España. Sus fechas quedan después del límite de 7000 a. C. de esta entrada; se incluye como referencia para el mapa siguiente."
+    },
+    {
+      "title": "Kunda",
+      "row": 4,
+      "from": 16,
+      "to": 19,
+      "color": "#779b83",
+      "date": "10.000–7.000 AP (≈ 8050–5050 a. C.) · continúa después del mapa",
+      "text": "Tradición de cazadores-recolectores de la región forestal del Báltico. El PDF la sitúa hacia el este, por Letonia y el norte de Rusia; parte de su duración rebasa este mapa."
+    },
+    {
+      "title": "Epigravetiense",
+      "row": 3,
+      "from": 16,
+      "to": 19,
+      "color": "#9b7486",
+      "date": "Presente durante el máximo glacial; expansión c. 14.000 AP",
+      "text": "El PDF lo relaciona con poblaciones del sur de Europa durante la glaciación y con su expansión posterior hacia otras regiones. La secuencia se presenta como una explicación general, no como una frontera exacta."
     }
   ],
   "environments": [

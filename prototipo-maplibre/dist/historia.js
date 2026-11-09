@@ -282,12 +282,13 @@ function renderHistory({ id, title, legendStatus, legend, chronology, notesIntro
     band.style.gridRow = String(culture.row);
     band.style.gridColumn = culture.from + ' / ' + culture.to;
     band.textContent = culture.title;
+    if (culture.date) band.title = culture.title + ' · ' + culture.date;
     if (culture.color) band.style.setProperty('--tono-cultura', culture.color);
     if (culture.areas?.length) band.classList.add('banda-con-area');
     if (culture.title === 'Auriñaciense') band.classList.add('banda-doble');
     band.setAttribute('aria-pressed', 'false');
     band.onclick = () => showEntry(band, {
-      title: culture.title, date: 'orden aproximado', text: culture.text, areas: culture.areas
+      title: culture.title, date: culture.date ?? 'orden aproximado', text: culture.text, areas: culture.areas
     });
     bands.append(band);
   }

@@ -1,6 +1,6 @@
 # Atlas Histórico 3D de Europa — PROJECT.md
 
-**Versión:** 0.2 — Base cartográfica y plantilla común · 6 de noviembre de 2026  
+**Versión:** 0.2 — Base cartográfica y plantilla común · revisión de contenido: 9 de noviembre de 2026
 **Estado:** Prototipo local con base cartográfica aprobada y plantilla reutilizable aplicada a la entrada 1.12  
 **Fuente histórica organizadora:** *La historia del mundo en mapas* (Susaeta).  
 **Alcance inicial:** Europa, con áreas mediterráneas y euroasiáticas cuando sean necesarias para explicar su historia.
@@ -56,7 +56,7 @@ Cada entrada histórica aporta su contenido en `prototipo-maplibre/dist/mapas/<c
 
 En la cronología, los años a. C. se representan con números negativos y los años d. C. con positivos. El campo `date` conserva la etiqueta que se muestra al alumnado, incluidas aproximaciones e intervalos. Las fechas expresadas como «hace … años» mantienen la expresión de la fuente mientras su normalización esté pendiente.
 
-La entrada 1.12 es la primera aplicación. Tiene 15 categorías de leyenda en cinco grupos, ocho notas explicativas y trece marcas cronológicas (doce hitos y un estado del hielo procedente de la leyenda). Las geometrías históricas siguen pendientes de inventariar, contrastar y dibujar. Véase la [ficha documental de la entrada 1.12](documentacion/1.12-paleolitico-superior-en-europa.md).
+La entrada 1.12 es la primera aplicación. Tiene 15 categorías de leyenda en cinco grupos, ocho notas explicativas y 17 marcas cronológicas en dos franjas (Cultura y Cambios físicos). El menú conserva seis bandas culturales originales e incorpora 12 culturas y etapas paleolíticas y mesolíticas del PDF (18 tarjetas en total). Las manchas geográficas solo aparecen donde ya había una geometría orientativa. Las fechas AP mantienen su referencia a 1950 y, al convertirlas a. C., se identifican como aproximadas. Véase la [ficha documental de la entrada 1.12](documentacion/1.12-paleolitico-superior-en-europa.md).
 
 ## 5. Catálogo maestro inicial: 58 entradas relacionadas con Europa
 

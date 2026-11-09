@@ -360,6 +360,12 @@ function init() {
     const heading = document.createElement('h2');
     heading.textContent = place.title;
     content.append(heading);
+    if (place.date) {
+      const date = document.createElement('small');
+      date.className = 'lugar-fecha';
+      date.textContent = place.date;
+      content.append(date);
+    }
     if (place.complementary) {
       const tag = document.createElement('small');
       tag.className = 'lugar-complementario';

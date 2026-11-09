@@ -157,11 +157,18 @@
           "text": "En lugares como Bacho Kiro, Kent y Grotta del Cavallo hay evidencias tempranas de presencia de Homo sapiens en Europa. Las equivalencias a. C. son aproximadas."
         },
         {
-          "start": -28000,
-          "end": -28000,
-          "date": "c. 28.000 a. C.",
-          "title": "Últimos neandertales en España",
-          "text": "Se han propuesto fechas cercanas a esta para los últimos neandertales de la península ibérica. Su desaparición ocurrió en momentos distintos según la región."
+          "start": -42550,
+          "end": -40050,
+          "date": "Hace 44.500–42.000 años (≈ 42.500–40.000 a. C.)",
+          "title": "Declive final de los neandertales",
+          "text": "Los estudios genéticos detectan una fuerte reducción de los linajes maternos neandertales entre hace unos 45.000 y 42.000 años. En el noroeste de Europa, los restos apuntan a una desaparición regional entre hace unos 44.200 y 40.600 años. La desaparición fue escalonada: estas fechas no marcan un único final para todo el continente."
+        },
+        {
+          "start": -35050,
+          "end": -35050,
+          "date": "c. 37.000 años AP (≈ 35.000 a. C.) · propuesta discutida",
+          "title": "Posible persistencia en costas ibéricas",
+          "text": "Algunos yacimientos de las costas del sur de la península podrían conservar indicios neandertales posteriores a hace 42.000 años. Las dataciones y su interpretación siguen debatidas; no permiten fijar una fecha segura de extinción."
         },
         {
           "start": -19000,
@@ -743,6 +750,21 @@
       "title": "Komsakulturen · Nationalencyklopedin",
       "url": "https://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/komsakulturen",
       "reference": "Localización de yacimientos de la cultura Komsa en Troms y Finnmark, el norte de Noruega y la península de Kola."
+    },
+    {
+      "title": "Declive demográfico neandertal tardío",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13037871/",
+      "reference": "El análisis genético estima un descenso rápido de la población efectiva desde hace unos 44.500 años y un mínimo hacia 42.000 años; no proporciona rutas migratorias concretas."
+    },
+    {
+      "title": "Los Casares · ocupación neandertal del interior ibérico",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5516997/",
+      "reference": "Coordenadas y nivel con evidencias neandertales datado entre 44.899 y 42.175 años calibrados AP; la posible salida del interior hacia las costas meridionales es una hipótesis condicionada."
+    },
+    {
+      "title": "Desaparición neandertal en el noroeste de Europa",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7999949/",
+      "reference": "Estimación regional de 44.200–40.600 años calibrados AP para el noroeste europeo."
     }
   ],
   "places": [
@@ -1817,7 +1839,7 @@
         -5.342061111111111,
         36.12266944444445
       ],
-      "text": "Conjunto de Gibraltar con evidencias de ocupación neandertal. El punto señala el conjunto patrimonial.",
+      "text": "Conjunto de cuevas de Gibraltar con evidencias de ocupación neandertal. Las propuestas de supervivencia muy tardía en esta zona han sido discutidas; el punto indica el lugar, no una fecha final segura.",
       "source": "https://whc.unesco.org/en/list/1500/maps/",
       "kind": "neandertal",
       "complementary": true,
@@ -1877,6 +1899,30 @@
         "source": "https://commons.wikimedia.org/wiki/File:Coves_de_l'Espluga_de_Francol%C3%AD_-_54862532918.jpg",
         "license": "CC BY 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    {
+      "id": "los-casares-neandertal",
+      "title": "Cueva de Los Casares",
+      "coordinates": [
+        -2.29167,
+        40.93917
+      ],
+      "date": "44.900–42.200 años AP",
+      "text": "Yacimiento del interior de la península con evidencias de actividad neandertal. Su nivel mejor fechado se sitúa entre 44.900 y 42.200 años calibrados antes del presente y se cuenta entre las últimas ocupaciones conocidas del interior ibérico.",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5516997/",
+      "kind": "neandertal",
+      "complementary": true,
+      "photo": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Cueva_de_los_casares_11.JPG/960px-Cueva_de_los_casares_11.JPG",
+        "width": 960,
+        "height": 640,
+        "alt": "Entrada de la cueva de Los Casares, en Guadalajara",
+        "caption": "Entrada de la cueva de Los Casares.",
+        "credit": "Nachosan",
+        "source": "https://commons.wikimedia.org/wiki/File:Cueva_de_los_casares_11.JPG",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
       }
     }
   ],
@@ -8928,10 +8974,10 @@
     },
     {
       "id": "neandertal-expansion",
-      "title": "Neandertales · posible expansión",
-      "heading": "Neandertales · posible expansión",
+      "title": "Neandertales · expansión anterior",
+      "heading": "Neandertales · expansión anterior",
       "date": "Desde hace unos 65.000 años · hipótesis",
-      "text": "Un estudio de ADN mitocondrial y arqueología propone que una población del suroeste de Francia se expandió por Europa. Las flechas muestran direcciones generales, sin vincular el viaje a yacimientos concretos. Esta hipótesis es anterior a las rutas auriñacienses.",
+      "text": "Los datos genéticos y arqueológicos apuntan a una expansión de neandertales tardíos desde un posible refugio del suroeste de Francia hacia otras regiones de Europa, desde hace unos 65.000 años. Las flechas son direcciones generales y no rutas comprobadas. Esta expansión ocurrió mucho antes del declive final.",
       "color": "#d45016",
       "group": "Poblaciones y desplazamientos",
       "areas": [
@@ -9050,6 +9096,64 @@
             "coordinates": [
               17.5,
               47.4
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "neandertal-decline-iberia",
+      "title": "Neandertales · declive y posible refugio ibérico",
+      "heading": "Declive final y posible refugio ibérico",
+      "date": "Hace 45.000–37.000 años · hipótesis regional",
+      "text": "El declive demográfico se observa desde hace unos 45.000 años y alcanza un mínimo hacia 42.000. Los Casares documenta una de las últimas ocupaciones conocidas del interior ibérico, en torno a 44.900–42.200 años AP. Si se aceptan algunas dataciones costeras discutidas, pudo haber presencia posterior en el sur. La flecha muestra una posible salida del interior hacia la costa, propuesta por algunos investigadores; no demuestra que ese desplazamiento ocurriera ni fija una ruta o fecha de extinción.",
+      "color": "#a93635",
+      "group": "Poblaciones y desplazamientos",
+      "focusCoordinates": [
+        -2.29167,
+        40.93917
+      ],
+      "focusZoom": 5.1,
+      "areas": [
+        {
+          "type": "Feature",
+          "properties": {
+            "color": "#a93635",
+            "width": 7
+          },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -2.29167,
+                40.93917
+              ],
+              [
+                -2.5,
+                39
+              ],
+              [
+                -3.3,
+                37.2
+              ],
+              [
+                -5.34206,
+                36.12267
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "bearing": -115.2,
+            "icon": "flecha-neandertal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -5.34206,
+              36.12267
             ]
           }
         }
@@ -9526,12 +9630,16 @@
       ]
     },
     {
-      "title": "Dos poblaciones, distintas dispersiones",
-      "text": "Compara la expansión neandertal propuesta por un estudio genético con los corredores de Homo sapiens. Los puntos sitúan hallazgos y las flechas muestran hipótesis o direcciones aproximadas.",
+      "title": "Expansiones, declive y desplazamientos posibles",
+      "text": "La expansión neandertal iniciada hace unos 65.000 años es distinta del declive final, detectado mucho después. Compara ambos procesos con los corredores de Homo sapiens. En la península, la ruta hacia el sur es una hipótesis condicionada a dataciones discutidas.",
       "actions": [
         {
-          "label": "Expansión neandertal",
+          "label": "Expansión neandertal anterior",
           "environmentId": "neandertal-expansion"
+        },
+        {
+          "label": "Declive y posible refugio ibérico",
+          "environmentId": "neandertal-decline-iberia"
         },
         {
           "label": "Corredor del Danubio",
@@ -9540,6 +9648,10 @@
         {
           "label": "El Sidrón",
           "placeId": "el-sidron"
+        },
+        {
+          "label": "Los Casares",
+          "placeId": "los-casares-neandertal"
         }
       ],
       "illustration": {
